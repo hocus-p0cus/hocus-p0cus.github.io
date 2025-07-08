@@ -1,15 +1,33 @@
+const DUNGEONS = [
+  "Darkflame Cleft",
+  "The MOTHERLODE!!",
+  "Theater of Pain",
+  "Operation: Floodgate",
+  "Cinderbrew Meadery",
+  "The Rookery",
+  "Mechagon Workshop",
+  "Priory of the Sacred Flame"
+];
 
-const DUNGEONS = ["Operation: Floodgate", "Cinderbrew Meadery", "The Rookery", "Priory of the Sacred Flame"];
-
-let runs = [], roster = [];
+let stats = [], runsById = {};
 
 Promise.all([
-  fetch("runs.json").then(r => r.json()),
-  fetch("roster.json").then(r => r.json())
-]).then(([runsData, rosterData]) => {
-  runs = runsData;
-  roster = rosterData;
+  fetch("character_dungeon_stats.json").then(r => r.json()),
+  fetch("runs.json").then(r => r.json())
+]).then(([statsData, runsData]) => {
+  stats = statsData;
+  runsById = Object.fromEntries(runsData.map(run => [run.run_id, run]));
 });
+
+function makeLink(run_id) {
+  return `<a href="https://raider.io/mythic-plus-runs/season-tww-2/${run_id}" target="_blank">🔗 Run ${run_id}</a>`;
+}
+
+function formatLine(entry) {
+  const emoji = entry.completion_count === 1 ? "👶" : "💪";
+  const link = makeLink(entry.first_run_id);
+  return `🗝️ +${entry.difficulty_level} | ${emoji} ${entry.completion_count} | ${link}`;
+}
 
 function generateReport() {
   const name = document.getElementById("name").value.trim();
@@ -23,42 +41,29 @@ function generateReport() {
     return;
   }
 
-  const characterRuns = roster
-    .filter(entry => entry.character.toLowerCase() === characterKey.toLowerCase())
-    .map(entry => entry.run_id);
+  resultDiv.innerHTML += `<h3>📜 Report for ${characterKey}</h3>`;
 
-  const filteredRuns = runs.filter(run => characterRuns.includes(run.run_id));
-
-  const report = DUNGEONS.map(dungeon => {
-    const dungeonRuns = filteredRuns
-      .filter(run => run.dungeon_name === dungeon)
+  for (const dungeon of DUNGEONS) {
+    const dungeonStats = stats
+      .filter(entry =>
+        entry.character_id.toLowerCase() === characterKey.toLowerCase() &&
+        entry.dungeon_name === dungeon
+      )
       .sort((a, b) => b.difficulty_level - a.difficulty_level);
 
-    if (dungeonRuns.length === 0) return { dungeon, message: "No runs found." };
-
-    const maxLevel = dungeonRuns[0].difficulty_level;
-    const topRuns = dungeonRuns.filter(run => run.difficulty_level === maxLevel);
-
-    topRuns.sort((a, b) => new Date(a.completed_at) - new Date(b.completed_at));
-    return {
-      dungeon,
-      level: maxLevel,
-      firstCleared: topRuns[0].completed_at,
-      count: topRuns.length,
-      run_id: topRuns[0].run_id
-    };
-  });
-
-  report.forEach(entry => {
-    if (entry.message) {
-      resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong> ${entry.message}</p>`;
-    } else {
-      resultDiv.innerHTML += `<p>
-        <strong>${entry.dungeon}</strong>: +${entry.level}<br>
-        First Cleared: ${entry.firstCleared}<br>
-        Times Cleared: ${entry.count}<br>
-        Run ID: ${entry.run_id}
-      </p>`;
+    if (dungeonStats.length === 0) {
+      resultDiv.innerHTML += `<p>🔸 <strong>${dungeon}</strong>: No runs found.</p>`;
+      continue;
     }
-  });
+
+    const top = dungeonStats[0];
+    const second = dungeonStats.find(
+      e => e.difficulty_level === top.difficulty_level - 1
+    );
+
+    resultDiv.innerHTML += `<p>🔹 <strong>${dungeon}</strong>:<br>
+      ${formatLine(top)}<br>
+      ${second ? formatLine(second) : `🗝️ +${top.difficulty_level - 1} | No data`}
+    </p>`;
+  }
 }
