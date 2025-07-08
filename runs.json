@@ -1,0 +1,23 @@
+[
+  {
+    "run_id": 10125,
+    "dungeon_name": "Freehold",
+    "difficulty_level": 20,
+    "completed_at": "2024-06-14T15:00:00Z",
+    "timed": 1
+  },
+  {
+    "run_id": 10126,
+    "dungeon_name": "Freehold",
+    "difficulty_level": 18,
+    "completed_at": "2024-05-10T15:00:00Z",
+    "timed": 1
+  },
+  {
+    "run_id": 10127,
+    "dungeon_name": "Waycrest Manor",
+    "difficulty_level": 19,
+    "completed_at": "2024-06-20T17:00:00Z",
+    "timed": 1
+  }
+]
