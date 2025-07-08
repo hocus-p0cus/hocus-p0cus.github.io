@@ -80,7 +80,6 @@ report.forEach(entry => {
     return;
   }
 
-  // Begin <p> for entries with runs
   resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong><br>`;
 
   entry.runs.forEach((run, i) => {
