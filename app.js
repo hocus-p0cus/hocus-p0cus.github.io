@@ -59,15 +59,16 @@ function generateReport() {
   });
 
   report.forEach(entry => {
-    if (entry.message) {
-      resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong> ${entry.message}</p>`;
-    } else {
-      resultDiv.innerHTML += `<p>
-        <strong>${entry.dungeon}</strong>: +${entry.level}<br>
-        First Cleared: ${entry.firstCleared}<br>
-        Times Cleared: ${entry.count}<br>
-        Run ID: ${entry.run_id}
-      </p>`;
-    }
-  });
+  if (entry.message) {
+    resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong> ${entry.message}</p>`;
+  } else {
+    const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${entry.run_id}`;
+
+    resultDiv.innerHTML += `<p>
+      <strong>${entry.dungeon}</strong>: +${entry.level}<br>
+      Completions: ${entry.count}<br>
+      Run ID: <a href="${runLink}" target="_blank" rel="noopener noreferrer">${entry.run_id}</a>
+    </p>`;
+  }
+});
 }
