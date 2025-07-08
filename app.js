@@ -39,36 +39,54 @@ function generateReport() {
     if (entries.length === 0) {
       return {
         dungeon,
-        message: "No runs found."
+        runs: []
       };
     }
 
-    const maxLevel = Math.max(...entries.map(e => e.difficulty_level));
-    const maxEntries = entries.filter(e => e.difficulty_level === maxLevel);
+    const grouped = {};
+    for (const entry of entries) {
+      if (!grouped[entry.difficulty_level]) {
+        grouped[entry.difficulty_level] = [];
+      }
+      grouped[entry.difficulty_level].push(entry);
+    }
 
-    maxEntries.sort((a, b) => new Date(a.first_completed) - new Date(b.first_completed));
-    const best = maxEntries[0];
+    const sortedLevels = Object.keys(grouped)
+      .map(Number)
+      .sort((a, b) => b - a);
+
+    const topTwo = sortedLevels.slice(0, 2);
+
+    const bestRuns = topTwo.map(level => {
+      const runsAtLevel = grouped[level];
+      runsAtLevel.sort((a, b) => new Date(a.first_completed) - new Date(b.first_completed));
+      const best = runsAtLevel[0];
+      return {
+        level,
+        count: best.completion_count,
+        run_id: best.first_run_id
+      };
+    });
 
     return {
       dungeon,
-      level: best.difficulty_level,
-      firstCleared: best.first_completed,
-      count: best.completion_count,
-      run_id: best.first_run_id
+      runs: bestRuns
     };
   });
 
   report.forEach(entry => {
-  if (entry.message) {
-    resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong> ${entry.message}</p>`;
-  } else {
-    const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${entry.run_id}`;
+    resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong><br>`;
 
-    resultDiv.innerHTML += `<p>
-      <strong>${entry.dungeon}</strong>: +${entry.level}<br>
-      Completions: ${entry.count}<br>
-      Run ID: <a href="${runLink}" target="_blank" rel="noopener noreferrer">${entry.run_id}</a>
-    </p>`;
-  }
-});
+    if (entry.runs.length === 0) {
+      resultDiv.innerHTML += `&nbsp;&nbsp;&nbsp;No runs found.</p>`;
+      return;
+    }
+
+    entry.runs.forEach(run => {
+      const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${run.run_id}`;
+      resultDiv.innerHTML += `&nbsp;&nbsp;&nbsp;🗝️ +${run.level} | 🔁 Completions: ${run.count} | 🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a><br>`;
+    });
+
+    resultDiv.innerHTML += `</p>`;
+  });
 }
