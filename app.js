@@ -12,8 +12,8 @@ const DUNGEONS = [
 let stats = [], runsById = {};
 
 Promise.all([
-  fetch("character_dungeon_stats.json").then(r => r.json()),
-  fetch("runs.json").then(r => r.json())
+  fetch("tww-season2-eu-character_dungeon_stats.json").then(r => r.json()),
+  fetch("tww-season2-eu-runs.json").then(r => r.json())
 ]).then(([statsData, runsData]) => {
   stats = statsData;
   runsById = Object.fromEntries(runsData.map(run => [run.run_id, run]));
