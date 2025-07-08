@@ -1,21 +1,69 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title></title>
+  <title>Is it resilient?</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 30px; }
-    input { margin: 5px 10px 5px 0; padding: 6px; font-size: 1em; }
-    button { padding: 6px 12px; font-size: 1em; cursor: pointer; }
-    #result p { background: #f0f0f0; padding: 10px; border-radius: 5px; }
+    html, body {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center; /* vertical center */
+      align-items: center;     /* horizontal center */
+      background: #f9f9f9;
+    }
+    h1 {
+      margin-bottom: 20px;
+      font-size: 2.5em;
+      font-weight: bold;
+    }
+    .input-group {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      width: 280px;
+    }
+    input, button {
+      padding: 10px;
+      font-size: 1em;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+    }
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    #result {
+      margin-top: 30px;
+      width: 280px;
+      text-align: center;
+    }
+    #result p {
+      background: #eee;
+      padding: 10px;
+      border-radius: 5px;
+      margin: 6px 0;
+    }
   </style>
 </head>
 <body>
   <h1>Is it resilient?</h1>
-  <input type="text" id="name" placeholder="Character name" />
-  <input type="text" id="realm" placeholder="Realm name" />
-  <button onclick="generateReport()">Find</button>
+  <div class="input-group">
+    <input type="text" id="name" placeholder="Character name" />
+    <input type="text" id="realm" placeholder="Realm name" />
+    <button onclick="generateReport()">Find</button>
+  </div>
+
   <div id="result"></div>
 
   <script src="app.js"></script>
