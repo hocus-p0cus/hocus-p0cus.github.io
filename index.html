@@ -4,56 +4,70 @@
   <meta charset="UTF-8" />
   <title>Is it resilient?</title>
   <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      justify-content: center; /* vertical center */
-      align-items: center;     /* horizontal center */
-      background: #f9f9f9;
-    }
-    h1 {
-      margin-bottom: 20px;
-      font-size: 2.5em;
-      font-weight: bold;
-    }
-    .input-group {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      width: 280px;
-    }
-    input, button {
-      padding: 10px;
-      font-size: 1em;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      box-sizing: border-box;
-    }
-    button {
-      background-color: #007bff;
-      color: white;
-      border: none;
-      cursor: pointer;
-      font-weight: bold;
-      transition: background-color 0.3s ease;
-    }
-    button:hover {
-      background-color: #0056b3;
-    }
-    #result {
-      margin-top: 30px;
-      width: 280px;
-      text-align: center;
-    }
-    #result p {
-      background: #eee;
-      padding: 10px;
-      border-radius: 5px;
-      margin: 6px 0;
-    }
+  html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    display: block;
+    text-align: center;
+  }
+
+  body {
+    padding: 40px 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+
+  .input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0 auto 30px auto;
+    max-width: 280px;
+  }
+
+  input, button {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  #result {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  #result p {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 6px 0;
+  }
   </style>
 </head>
 <body>
