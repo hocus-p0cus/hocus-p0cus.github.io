@@ -9,25 +9,13 @@ const DUNGEONS = [
   "Priory of the Sacred Flame"
 ];
 
-let stats = [], runsById = {};
+let stats = [];
 
-Promise.all([
-  fetch("tww-season2-eu-character_dungeon_stats.json").then(r => r.json()),
-  fetch("tww-season2-eu-runs.json").then(r => r.json())
-]).then(([statsData, runsData]) => {
-  stats = statsData;
-  runsById = Object.fromEntries(runsData.map(run => [run.run_id, run]));
-});
-
-function makeLink(run_id) {
-  return `<a href="https://raider.io/mythic-plus-runs/season-tww-2/${run_id}" target="_blank">🔗 Run ${run_id}</a>`;
-}
-
-function formatLine(entry) {
-  const emoji = entry.completion_count === 1 ? "👶" : "💪";
-  const link = makeLink(entry.first_run_id);
-  return `🗝️ +${entry.difficulty_level} | ${emoji} ${entry.completion_count} | ${link}`;
-}
+fetch("tww-season2-eu-character_dungeon_stats.json")
+  .then(res => res.json())
+  .then(data => {
+    stats = data;
+  });
 
 function generateReport() {
   const name = document.getElementById("name").value.trim();
@@ -37,33 +25,49 @@ function generateReport() {
   resultDiv.innerHTML = "";
 
   if (!name || !realm) {
-    resultDiv.innerHTML = "<p>Enter character and realm name.</p>";
+    resultDiv.innerHTML = "<p>Enter both character and realm name.</p>";
     return;
   }
 
-  resultDiv.innerHTML += `<h3>📜 Report for ${characterKey}</h3>`;
+  const charStats = stats.filter(
+    entry => entry.character_id.toLowerCase() === characterKey.toLowerCase()
+  );
 
-  for (const dungeon of DUNGEONS) {
-    const dungeonStats = stats
-      .filter(entry =>
-        entry.character_id.toLowerCase() === characterKey.toLowerCase() &&
-        entry.dungeon_name === dungeon
-      )
-      .sort((a, b) => b.difficulty_level - a.difficulty_level);
+  const report = DUNGEONS.map(dungeon => {
+    const entries = charStats.filter(entry => entry.dungeon_name === dungeon);
 
-    if (dungeonStats.length === 0) {
-      resultDiv.innerHTML += `<p>🔸 <strong>${dungeon}</strong>: No runs found.</p>`;
-      continue;
+    if (entries.length === 0) {
+      return {
+        dungeon,
+        message: "No runs found."
+      };
     }
 
-    const top = dungeonStats[0];
-    const second = dungeonStats.find(
-      e => e.difficulty_level === top.difficulty_level - 1
-    );
+    const maxLevel = Math.max(...entries.map(e => e.difficulty_level));
+    const maxEntries = entries.filter(e => e.difficulty_level === maxLevel);
 
-    resultDiv.innerHTML += `<p>🔹 <strong>${dungeon}</strong>:<br>
-      ${formatLine(top)}<br>
-      ${second ? formatLine(second) : `🗝️ +${top.difficulty_level - 1} | No data`}
-    </p>`;
-  }
+    maxEntries.sort((a, b) => new Date(a.first_completed) - new Date(b.first_completed));
+    const best = maxEntries[0];
+
+    return {
+      dungeon,
+      level: best.difficulty_level,
+      firstCleared: best.first_completed,
+      count: best.completion_count,
+      run_id: best.first_run_id
+    };
+  });
+
+  report.forEach(entry => {
+    if (entry.message) {
+      resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong> ${entry.message}</p>`;
+    } else {
+      resultDiv.innerHTML += `<p>
+        <strong>${entry.dungeon}</strong>: +${entry.level}<br>
+        First Cleared: ${entry.firstCleared}<br>
+        Times Cleared: ${entry.count}<br>
+        Run ID: ${entry.run_id}
+      </p>`;
+    }
+  });
 }
