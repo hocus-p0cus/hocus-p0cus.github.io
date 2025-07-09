@@ -131,7 +131,9 @@ function generateReport() {
       entry.runs.forEach((run, i) => {
         const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${run.run_id}`;
         const paddedCount = run.count < 10 ? `&nbsp;&nbsp;${run.count}` : run.count;
-        runsContent += `🗝️ +${run.level} | 🔁 Completions: ${paddedCount} | Resilient: ${run.resilient} |🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a>`;
+        const symbol = run.resilient === 0 ? "✅" : "❓";
+
+        runsContent += `🗝️ +${run.level} | 🔁 Completions: ${paddedCount} | Characters with Resilient Key ≥ +${run.level}: ${run.resilient}${symbol} |🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a>`;
         
         if (i < entry.runs.length - 1) {
           runsContent += `<br>`;
