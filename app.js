@@ -21,12 +21,40 @@ const DUNGEON_ICONS = {
 };
 
 let stats = [];
+let roster = [];
 
-fetch("tww-season2-eu-character_dungeon_stats.json")
+/* fetch("tww-season2-eu-character_dungeon_stats.json")
   .then(res => res.json())
   .then(data => {
     stats = data;
   });
+*/ 
+
+Promise.all([
+  fetch("tww-season2-eu-character_dungeon_stats.json").then(res => res.json()),
+  fetch("tww-season2-eu-roster.json").then(res => res.json())
+]).then(([statsData, rosterData]) => {
+  stats = statsData;
+  roster = rosterData;
+});
+
+function resilientKeyLevel(characterId, timestamp) {
+  const levels = [];
+
+  for (const dungeon of DUNGEONS) {
+    const entries = stats.filter(
+      e => e.character_id === characterId &&
+           e.dungeon_name === dungeon &&
+           e.first_completed < timestamp
+    );
+
+    const best = entries.reduce((max, e) => Math.max(max, e.difficulty_level), 0);
+    if (best === 0) return 0;
+    levels.push(best);
+  }
+
+  return levels.length ? Math.min(...levels) : 0;
+}
 
 function generateReport() {
   const name = document.getElementById("name").value.trim();
@@ -72,10 +100,18 @@ function generateReport() {
       const runsAtLevel = grouped[level];
       runsAtLevel.sort((a, b) => new Date(a.first_completed) - new Date(b.first_completed));
       const best = runsAtLevel[0];
+
+      const rosterEntries = roster.filter(r => r.run_id === best.first_run_id);
+      const rosterChars = rosterEntries.map(r => r.character_id);
+      const countResilient = rosterChars.filter(id =>
+        resilientKeyLevel(id, best.first_completed) >= level
+      ).length;
+
       return {
         level,
         count: best.completion_count,
-        run_id: best.first_run_id
+        run_id: best.first_run_id,
+        resilient: countResilient
       };
     });
 
@@ -95,7 +131,7 @@ function generateReport() {
       entry.runs.forEach((run, i) => {
         const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${run.run_id}`;
         const paddedCount = run.count < 10 ? `&nbsp;&nbsp;${run.count}` : run.count;
-        runsContent += `🗝️ +${run.level} | 🔁 Completions: ${paddedCount} | 🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a>`;
+        runsContent += `🗝️ +${run.level} | 🔁 Completions: ${paddedCount} | Resilient: ${run.resilient} |🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a>`;
         
         if (i < entry.runs.length - 1) {
           runsContent += `<br>`;
