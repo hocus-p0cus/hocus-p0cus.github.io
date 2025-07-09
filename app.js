@@ -85,7 +85,7 @@ function generateReport() {
     let runsContent = '';
     entry.runs.forEach((run, i) => {
       const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${run.run_id}`;
-      const paddedCount = run.count < 10 ? ` ${run.count}` : run.count;
+      const paddedCount = run.count < 10 ? `&nbsp;${run.count}` : run.count;
       runsContent += `&nbsp;&nbsp;&nbsp;🗝️ +${run.level} | 🔁 Completions: ${paddedCount} | 🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a>`;
       
       if (i < entry.runs.length - 1) {
