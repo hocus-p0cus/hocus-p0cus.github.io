@@ -1,12 +1,12 @@
 const DUNGEONS = [
-  "Darkflame Cleft",
-  "The MOTHERLODE!!",
-  "Theater of Pain",
-  "Operation: Floodgate",
-  "Cinderbrew Meadery",
+  "Priory of the Sacred Flame",
   "The Rookery",
+  "Cinderbrew Meadery",
+  "Operation: Floodgate",
   "Mechagon Workshop",
-  "Priory of the Sacred Flame"
+  "Theater of Pain",
+  "The MOTHERLODE!!",
+  "Darkflame Cleft"
 ];
 
 const DUNGEON_ICONS = {
