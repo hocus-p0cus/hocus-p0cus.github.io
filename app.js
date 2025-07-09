@@ -75,22 +75,23 @@ function generateReport() {
   });
 
   report.forEach(entry => {
+    resultDiv.innerHTML += `<p class="dungeon-name">${entry.dungeon}</p>`;
+    
     if (entry.runs.length === 0) {
-      resultDiv.innerHTML += `<p><strong>${entry.dungeon}:</strong><br>&nbsp;&nbsp;&nbsp;No runs found.</p>`;
+      resultDiv.innerHTML += `<p class="dungeon-runs">&nbsp;&nbsp;&nbsp;No runs found.</p>`;
       return;
     }
 
-    let paragraphContent = `<strong>${entry.dungeon}:</strong><br>`;
-    
+    let runsContent = '';
     entry.runs.forEach((run, i) => {
       const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${run.run_id}`;
-      paragraphContent += `&nbsp;&nbsp;&nbsp;🗝️ +${run.level} | 🔁 Completions: ${run.count} | 🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a>`;
+      runsContent += `&nbsp;&nbsp;&nbsp;🗝️ +${run.level} | 🔁 Completions: ${run.count} | 🔗 <a href="${runLink}" target="_blank" rel="noopener noreferrer">Run ID: ${run.run_id}</a>`;
       
       if (i < entry.runs.length - 1) {
-        paragraphContent += `<br>`;
+        runsContent += `<br>`;
       }
     });
 
-    resultDiv.innerHTML += `<p>${paragraphContent}</p>`;
+    resultDiv.innerHTML += `<p class="dungeon-runs">${runsContent}</p>`;
   });
 }

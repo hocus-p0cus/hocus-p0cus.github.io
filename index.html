@@ -62,7 +62,22 @@
     text-align: left;
   }
 
-  #result p {
+  .dungeon-name {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 6px 0;
+    font-weight: bold;
+  }
+
+  .dungeon-runs {
+    background: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 6px 0;
+  }
+
+  #result p:not(.dungeon-name):not(.dungeon-runs) {
     background: #eee;
     padding: 10px;
     border-radius: 5px;
