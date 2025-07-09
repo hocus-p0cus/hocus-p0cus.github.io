@@ -15,8 +15,23 @@
   }
 
   body {
+    background-image: url("wallpaper.png");
     padding: 40px 20px;
     max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .header-container {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 30px;
+    border: 2px solid rgba(0, 123, 255, 0.3);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+
+    max-width: 350px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -107,11 +122,13 @@
   </style>
 </head>
 <body>
+  <div class="header-container">
   <h1>Is it resilient?</h1>
   <div class="input-group">
     <input type="text" id="name" placeholder="Character name" />
     <input type="text" id="realm" placeholder="Realm name" />
     <button onclick="generateReport()">Find</button>
+  </div>
   </div>
 
   <div id="result"></div>
