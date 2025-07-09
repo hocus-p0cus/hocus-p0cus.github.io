@@ -23,27 +23,13 @@ const DUNGEON_ICONS = {
 let stats = [];
 let roster = [];
 
-/*Promise.all([
+
+Promise.all([
   fetch("tww-season2-eu-character_dungeon_stats.json").then(res => res.json()),
   fetch("tww-season2-eu-roster.json").then(res => res.json())
 ]).then(([statsData, rosterData]) => {
   stats = statsData;
   roster = rosterData;
-});*/
-
-const dataPromise = Promise.all([
-  fetch("tww-season2-eu-character_dungeon_stats.json").then(res => res.json()),
-  fetch("tww-season2-eu-roster.json").then(res => res.json())
-]).then(([statsData, rosterData]) => {
-  stats = statsData;
-  roster = rosterData;
-
-});
-
-
-document.getElementById("find").addEventListener("click", async () => {
-  await dataPromise;
-  generateReport();
 });
 
 function resilientKeyLevel(characterId, timestamp) {
@@ -78,7 +64,7 @@ function generateReport() {
   }
 
   const charStats = stats.filter(
-    entry => entry.character_id.toLowerCase() === characterKey.toLowerCase()
+    entry => entry.character_id.toLocaleLowerCase() === characterKey.toLocaleLowerCase()
   );
 
   const report = DUNGEONS.map(dungeon => {
