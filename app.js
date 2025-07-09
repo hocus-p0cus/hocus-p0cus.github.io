@@ -57,7 +57,8 @@ function resilientKeyLevel(characterId, timestamp) {
 }
 
 function generateReport() {
-  const name = document.getElementById("name").value.trim();
+  const rawName = document.getElementById("name").value.trim();
+  const name = rawName.charAt(0).toLocaleUpperCase() + rawName.slice(1).toLocaleLowerCase();
   const realm = document.getElementById("realm").value.trim();
   const characterKey = `${name}-${realm}`;
   const resultDiv = document.getElementById("result");
