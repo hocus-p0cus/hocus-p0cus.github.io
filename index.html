@@ -22,6 +22,28 @@
     margin-right: auto;
   }
 
+  #info-box {
+    position: fixed;
+    top: 20px;
+    right: 40px;
+    background-color: rgba(245, 245, 245, 0.9);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 14px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+
+  #info-box a {
+    color: #0074d9;
+    text-decoration: none;
+  }
+
+  #info-box a:hover {
+    text-decoration: underline;
+  }
+
   .header-container {
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(10px);
@@ -143,6 +165,12 @@
   </style>
 </head>
 <body>
+
+  <div id="info-box">
+    <a href="https://github.com/hocus-p0cus/hocus-p0cus.github.io#readme" target="_blank" rel="noopener noreferrer">📄 Project README</a><br>
+    Made by: <a href="https://raider.io/characters/eu/outland/Graliboar" target="_blank">hocus_p0cus</a>
+  </div>
+
   <div class="header-container">
   <h1>Is it resilient?</h1>
   <div class="input-group">
