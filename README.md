@@ -14,7 +14,7 @@ This is a static web app that displays Mythic+ dungeon run reports based on data
 
 ### 📸 Demo
 
-![Demo screenshot](demo.png)
+<img src="demo.png" alt="Demo screenshot" width="600" />
 
 In this screenshot, you can see part of the Mythic+ run report for [my character](https://raider.io/characters/eu/outland/Graliboar):
  - The table lists each dungeon with the highest and second-highest keystone levels completed
