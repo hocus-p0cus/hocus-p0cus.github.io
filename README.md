@@ -50,8 +50,14 @@ Lists characters included in the dataset.
 ```json
 [
   {
-    "run_id": 18323870,
-    "character_id": "Graliboar-Outland"
+    "run_id": 14716061,
+    "character_ids": [
+      "Rataucigasa-Silvermoon",
+      "Миррко-Howling Fjord",
+      "Graliboar-Outland",
+      "Wolfmfer-Silvermoon",
+      "Helblinde-Draenor"
+    ]
   },
   ...
 ]
