@@ -103,7 +103,8 @@ function generateReport() {
         const best = runsAtLevel[0];
 
         const rosterEntries = roster.filter(r => r.run_id === best.first_run_id);
-        const rosterChars = rosterEntries.map(r => r.character_id);
+        const rosterChars = rosterEntries.length > 0 ? rosterEntries[0].character_ids : [];
+
         const countResilient = rosterChars.filter(id =>
           resilientKeyLevel(stats, id, best.first_completed) >= level
         ).length;
