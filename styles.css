@@ -1,0 +1,157 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+
+  display: block;
+  text-align: center;
+}
+
+body {
+  background-image: url("wallpaper.png");
+  padding: 40px 20px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#info-box {
+  position: fixed;
+  top: 20px;
+  right: 40px;
+  background-color: rgba(245, 245, 245, 0.9);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 14px;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+#info-box a {
+  color: #0074d9;
+  text-decoration: none;
+}
+
+#info-box a:hover {
+  text-decoration: underline;
+}
+
+.header-container {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  padding: 30px;
+  margin-bottom: 30px;
+  border: 2px solid rgba(0, 123, 255, 0.3);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 auto 30px auto;
+  max-width: 280px;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+select {
+  appearance: none;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1em;
+  box-sizing: border-box;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='%23333' height='18' viewBox='0 0 24 24' width='18' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 16px 16px;
+  cursor: pointer;
+  transition: border-color 0.2s ease;
+}
+
+select:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+#result {
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.dungeon-block {
+  background: #eee;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.dungeon-icon {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 5px;
+  flex-shrink: 0;
+}
+
+.dungeon-content {
+  flex: 1;
+}
+
+.dungeon-name {
+  font-weight: bold;
+  margin-bottom: 8px;
+  font-size: 1.1em;
+}
+
+.dungeon-runs {
+  background: #f8f9fa;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 0.95em;
+}
+
+#result p:not(.dungeon-name):not(.dungeon-runs) {
+  background: #eee;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 6px 0;
+}
