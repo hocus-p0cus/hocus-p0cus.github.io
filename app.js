@@ -23,6 +23,7 @@ const DUNGEON_ICONS = {
 const dataByRegion = {};
 
 let slugMapping = null;
+let currentMode = "manual";
 
 async function loadSlugMapping() {
   if (slugMapping) return Promise.resolve(slugMapping);
@@ -67,6 +68,9 @@ function resilientKeyLevel(stats, characterId, timestamp) {
 }
 
 function switchInputMode(mode) {
+  if (mode === currentMode) return;
+
+  currentMode = mode;
 
   const manual = document.getElementById("manual-inputs");
   const link = document.getElementById("link-inputs");
@@ -76,7 +80,7 @@ function switchInputMode(mode) {
   if (mode === "manual") {
     manual.classList.add("active");
     link.classList.remove("active");
-    indicator.textContent = "💡 Enter character name and realm manually.";
+    indicator.textContent = "💡 Press paste if you have already copied a profile link.";
   } else {
     manual.classList.remove("active");
     link.classList.add("active");
@@ -87,10 +91,9 @@ function switchInputMode(mode) {
   document.querySelector(`.toggle-button[onclick*="${mode}"]`).classList.add("active");
 }
 
-
 async function generateReport() {
 
-  const mode = document.querySelector(".toggle-button.active").getAttribute("onclick").includes("manual") ? "manual" : "link";
+  const mode = currentMode;
   const resultDiv = document.getElementById("result");
   resultDiv.innerHTML = "";
 
@@ -225,3 +228,20 @@ async function generateReport() {
     });
   });
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("paste", async (event) => {
+    const clipboardData = event.clipboardData || window.clipboardData;
+    const pastedText = clipboardData.getData("text");
+
+    const match = pastedText.match(/^(?:https?:\/\/)?raider\.io\/characters\/(eu|us)\/([^\/]+)\/([^\/?#]+)/i);
+    if (!match) return;
+
+    const linkInput = document.getElementById("profile-link");
+
+    switchInputMode("link");
+
+    linkInput.value = pastedText;
+    await generateReport();
+  });
+});
