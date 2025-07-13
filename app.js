@@ -174,6 +174,7 @@ async function generateReport() {
         const rosterChars = rosterEntries.length > 0 ? rosterEntries[0].character_ids : [];
 
         const countResilient = rosterChars.filter(id =>
+          id.toLocaleLowerCase() !== characterKey.toLocaleLowerCase() &&
           resilientKeyLevel(stats, id, best.first_completed) >= level
         ).length;
 
