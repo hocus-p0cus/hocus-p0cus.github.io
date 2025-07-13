@@ -22,6 +22,18 @@ const DUNGEON_ICONS = {
 
 const dataByRegion = {};
 
+let slugMapping = null;
+
+async function loadSlugMapping() {
+  if (slugMapping) return Promise.resolve(slugMapping);
+  return fetch("slug_mapping.json")
+    .then(res => res.json())
+    .then(data => {
+      slugMapping = data;
+      return slugMapping;
+    });
+}
+
 function loadRegionData(region) {
   if (dataByRegion[region]) {
     return Promise.resolve(dataByRegion[region]);
@@ -54,14 +66,70 @@ function resilientKeyLevel(stats, characterId, timestamp) {
   return levels.length ? Math.min(...levels) : 0;
 }
 
-function generateReport() {
-  const rawName = document.getElementById("name").value.trim();
-  const name = rawName.charAt(0).toLocaleUpperCase() + rawName.slice(1).toLocaleLowerCase();
-  const realm = document.getElementById("realm").value.trim();
-  const region = document.getElementById("region").value;
-  const characterKey = `${name}-${realm}`;
+function switchInputMode(mode) {
+
+  const manual = document.getElementById("manual-inputs");
+  const link = document.getElementById("link-inputs");
+  const indicator = document.getElementById("mode-indicator");
+  const buttons = document.querySelectorAll(".toggle-button");
+
+  if (mode === "manual") {
+    manual.classList.add("active");
+    link.classList.remove("active");
+    indicator.textContent = "💡 Enter character name and realm manually.";
+  } else {
+    manual.classList.remove("active");
+    link.classList.add("active");
+    indicator.textContent = "💡 Paste a profile link from Raider.IO site or WoW addon.";
+  }
+
+  buttons.forEach(btn => btn.classList.remove("active"));
+  document.querySelector(`.toggle-button[onclick*="${mode}"]`).classList.add("active");
+}
+
+
+async function generateReport() {
+
+  const mode = document.querySelector(".toggle-button.active").getAttribute("onclick").includes("manual") ? "manual" : "link";
   const resultDiv = document.getElementById("result");
   resultDiv.innerHTML = "";
+
+  let name, realm, region;
+
+  if (mode === "manual") {
+
+    name = document.getElementById("name").value.trim().toLocaleLowerCase();
+    realm = document.getElementById("realm").value.trim();
+    region = document.getElementById("region").value;
+
+    if (!name || !realm) {
+      resultDiv.innerHTML = "<p>Enter both character and realm name.</p>";
+      return;
+    }
+
+  } else {
+    const link = document.getElementById("profile-link").value.trim();
+    const match = link.match(/^(?:https?:\/\/)?raider\.io\/characters\/(eu|us)\/([^\/]+)\/([^\/?#]+)/i);
+
+    if (!match) {
+      resultDiv.innerHTML = "<p>Invalid Raider.IO profile link.</p>";
+      return;
+    }
+
+    region = match[1].toLowerCase() === "us" ? "na" : match[1].toLowerCase();
+    const slug = decodeURIComponent(match[2].toLocaleLowerCase());
+    name = decodeURIComponent(match[3].toLowerCase());
+
+    const mapping = await loadSlugMapping();
+    realm = mapping[slug];
+
+    if (!realm) {
+      resultDiv.innerHTML = `<p>Unknown realm slug: ${slug}</p>`;
+      return;
+    }
+  }
+
+  const characterKey = `${name}-${realm}`;
 
   if (!name || !realm) {
     resultDiv.innerHTML = "<p>Enter both character and realm name.</p>";

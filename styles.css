@@ -2,13 +2,12 @@ html, body {
   height: 100%;
   margin: 0;
   font-family: Arial, sans-serif;
-
-  display: block;
   text-align: center;
 }
 
 body {
   background-image: url("wallpaper.png");
+  background-repeat: repeat;
   padding: 40px 20px;
   max-width: 800px;
   margin-left: auto;
@@ -45,8 +44,7 @@ body {
   margin-bottom: 30px;
   border: 2px solid rgba(0, 123, 255, 0.3);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-
-  max-width: 350px;
+  max-width: 400px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -65,7 +63,7 @@ h1 {
   max-width: 280px;
 }
 
-input, button {
+input, button, select {
   padding: 10px;
   font-size: 1em;
   border: 1px solid #ccc;
@@ -89,11 +87,6 @@ button:hover {
 select {
   appearance: none;
   background-color: white;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 10px;
-  font-size: 1em;
-  box-sizing: border-box;
   background-image: url("data:image/svg+xml;utf8,<svg fill='%23333' height='18' viewBox='0 0 24 24' width='18' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/></svg>");
   background-repeat: no-repeat;
   background-position: right 10px center;
@@ -105,6 +98,58 @@ select {
 select:focus {
   outline: none;
   border-color: #007bff;
+}
+
+.input-mode-toggle {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  gap: 10px;
+}
+
+.toggle-button {
+  padding: 5px;
+  width: 150px;
+  font-size: 0.95em;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.toggle-button:hover {
+  background-color: #d0d0d0;
+}
+
+.toggle-button.active {
+  background-color: #007bff;
+  color: white;
+  border-color: #0056b3;
+}
+
+.manual-mode, .link-mode {
+  display: none;
+}
+
+.manual-mode.active,
+.link-mode.active {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#profile-link {
+  width: 100%;
+}
+
+.mode-indicator {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #444;
+  padding: 6px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 6px;
 }
 
 #result {

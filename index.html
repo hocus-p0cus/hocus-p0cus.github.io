@@ -14,16 +14,41 @@
   </div>
 
   <div class="header-container">
-  <h1>Is it resilient?</h1>
-  <div class="input-group">
-    <input type="text" id="name" placeholder="Character name" />
-    <input type="text" id="realm" placeholder="Realm name" />
-    <select id="region">
-      <option value="eu" selected>EU</option>
-      <option value="na">NA</option>
-    </select>
-    <button onclick="generateReport()">Find</button>
-  </div>
+    <h1>Is it resilient?</h1>
+    
+    <div class="input-mode-toggle">
+      <button class="toggle-button active" onclick="switchInputMode('manual')">
+        👤 Manual Input
+      </button>
+      <button class="toggle-button" onclick="switchInputMode('link')">
+        🔗 Profile Link
+      </button>
+    </div>
+
+    <div class="input-group">
+      <div class="manual-mode active" id="manual-inputs">
+        <input type="text" id="name" placeholder="Character name" />
+        <input type="text" id="realm" placeholder="Realm name" />
+        <select id="region">
+          <option value="eu" selected>EU</option>
+          <option value="na">NA</option>
+        </select>
+      </div>
+      
+      <div class="link-mode" id="link-inputs">
+        <input type="text" id="profile-link" placeholder="Profile link" />
+        <select id="region-link" style="display: none;">
+          <option value="eu" selected>EU</option>
+          <option value="na">NA</option>
+        </select>
+      </div>
+      
+      <button onclick="generateReport()">Find</button>
+    </div>
+    
+    <div class="mode-indicator manual" id="mode-indicator">
+      💡 Enter character name and realm manually.
+    </div>
   </div>
 
   <div id="result"></div>
