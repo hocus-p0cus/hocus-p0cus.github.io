@@ -17,16 +17,16 @@
     <h1>Is it resilient?</h1>
     
     <div class="input-mode-toggle">
-      <button class="toggle-button active" onclick="switchInputMode('manual')">
+      <button class="toggle-button" onclick="switchInputMode('manual')">
         👤 Manual Input
       </button>
-      <button class="toggle-button" onclick="switchInputMode('link')">
+      <button class="toggle-button active" onclick="switchInputMode('link')">
         🔗 Profile Link
       </button>
     </div>
 
     <div class="input-group">
-      <div class="manual-mode active" id="manual-inputs">
+      <div class="manual-mode" id="manual-inputs">
         <input type="text" id="name" placeholder="Character name" />
         <input type="text" id="realm" placeholder="Realm name" />
         <select id="region">
@@ -35,19 +35,15 @@
         </select>
       </div>
       
-      <div class="link-mode" id="link-inputs">
+      <div class="link-mode active" id="link-inputs">
         <input type="text" id="profile-link" placeholder="Profile link" />
-        <select id="region-link" style="display: none;">
-          <option value="eu" selected>EU</option>
-          <option value="na">NA</option>
-        </select>
       </div>
       
       <button onclick="generateReport()">Find</button>
     </div>
     
-    <div class="mode-indicator manual" id="mode-indicator">
-      💡 Press paste if you have already copied a profile link.
+    <div class="mode-indicator link" id="mode-indicator">
+      💡 Paste a profile link from Raider.IO site or WoW addon.
     </div>
   </div>
 

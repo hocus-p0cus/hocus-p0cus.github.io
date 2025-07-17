@@ -23,7 +23,7 @@ const DUNGEON_ICONS = {
 const dataByRegion = {};
 
 let slugMapping = null;
-let currentMode = "manual";
+let currentMode = "link";
 
 async function loadSlugMapping() {
   if (slugMapping) return Promise.resolve(slugMapping);
