@@ -35,6 +35,21 @@ async function loadSlugMapping() {
     });
 }
 
+async function populateRealmSuggestions() {
+  const mapping = await loadSlugMapping();
+  const datalist = document.getElementById("realm-suggestions");
+  
+  datalist.innerHTML = "";
+
+  const realmNames = Object.values(mapping).sort((a, b) => a.localeCompare(b));
+
+  for (const realm of realmNames) {
+    const option = document.createElement("option");
+    option.value = realm;
+    datalist.appendChild(option);
+  }
+}
+
 function loadRegionData(region) {
   if (dataByRegion[region]) {
     return Promise.resolve(dataByRegion[region]);
@@ -230,6 +245,9 @@ async function generateReport() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+
+  populateRealmSuggestions();
+
   document.addEventListener("paste", async (event) => {
     const clipboardData = event.clipboardData || window.clipboardData;
     const pastedText = clipboardData.getData("text");
