@@ -249,6 +249,13 @@ document.addEventListener("DOMContentLoaded", () => {
   populateRealmSuggestions();
 
   document.addEventListener("paste", async (event) => {
+
+    const activeElement = document.activeElement;
+
+    if (activeElement.tagName === "INPUT" || activeElement.tagName === "TEXTAREA") {
+      return;
+    }
+
     const clipboardData = event.clipboardData || window.clipboardData;
     const pastedText = clipboardData.getData("text");
 
