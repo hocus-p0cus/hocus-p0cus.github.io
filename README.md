@@ -3,7 +3,7 @@
 This is a static web app that displays Mythic+ dungeon run reports based on data exported from [Raider.IO](https://raider.io) Timed Run Leaderboards for Season 2 of *The War Within* (TWW), covering both EU and NA regions. Only timed runs at keystone level 18 and above are included.
 
 #### 📊 Data Summary
- - **Region**: EU | **Number of fetched runs**: 40747 | **Last Updated**: July 30, 2025
+ - **Region**: EU | **Number of fetched runs**: 42463 | **Last Updated**: August 7, 2025
  - **Region**: NA | **Number of fetched runs**: 27094 | **Last Updated**: July 30, 2025
 
 ### 🔍 Features
