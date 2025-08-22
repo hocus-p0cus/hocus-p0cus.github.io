@@ -1,0 +1,36 @@
+{
+  "dungeons": [
+    {
+      "name": "Priory of the Sacred Flame",
+      "icon": "icons/priory-sacred-flame.png"
+    },
+    {
+      "name": "The Rookery",
+      "icon": "icons/rookery.png"
+    },
+    {
+      "name": "Cinderbrew Meadery",
+      "icon": "icons/cinderbrew-meadery.png"
+    },
+    {
+      "name": "Operation: Floodgate",
+      "icon": "icons/operation-floodgate.png"
+    },
+    {
+      "name": "Mechagon Workshop",
+      "icon": "icons/mechagon-workshop.png"
+    },
+    {
+      "name": "Theater of Pain",
+      "icon": "icons/theater-of-pain.png"
+    },
+    {
+      "name": "The MOTHERLODE!!",
+      "icon": "icons/motherlode.png"
+    },
+    {
+      "name": "Darkflame Cleft",
+      "icon": "icons/darkflame-cleft.png"
+    }
+  ]
+}

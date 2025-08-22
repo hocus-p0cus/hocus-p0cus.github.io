@@ -1,26 +1,18 @@
-const DUNGEONS = [
-  "Priory of the Sacred Flame",
-  "The Rookery",
-  "Cinderbrew Meadery",
-  "Operation: Floodgate",
-  "Mechagon Workshop",
-  "Theater of Pain",
-  "The MOTHERLODE!!",
-  "Darkflame Cleft"
-];
-
-const DUNGEON_ICONS = {
-  "Darkflame Cleft": "icons/darkflame-cleft.png",
-  "The MOTHERLODE!!": "icons/motherlode.png",
-  "Theater of Pain": "icons/theater-of-pain.png",
-  "Operation: Floodgate": "icons/operation-floodgate.png",
-  "Cinderbrew Meadery": "icons/cinderbrew-meadery.png",
-  "The Rookery": "icons/rookery.png",
-  "Mechagon Workshop": "icons/mechagon-workshop.png",
-  "Priory of the Sacred Flame": "icons/priory-sacred-flame.png"
-};
-
 const dataByRegion = {};
+
+let DUNGEONS = [];
+let DUNGEON_ICONS = {};
+
+async function loadDungeons() {
+  const data = await fetch("dungeons-tww-season2.json").then(res => res.json());
+
+  DUNGEONS = data.dungeons.map(d => d.name);
+  DUNGEON_ICONS = Object.fromEntries(
+    data.dungeons.map(d => [d.name, d.icon])
+  );
+
+  return { DUNGEONS, DUNGEON_ICONS };
+}
 
 let slugMapping = null;
 let currentMode = "link";
@@ -244,8 +236,8 @@ async function generateReport() {
   });
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-
+document.addEventListener("DOMContentLoaded", async () => {
+  await loadDungeons();
   populateRealmSuggestions();
 
   document.addEventListener("paste", async (event) => {
