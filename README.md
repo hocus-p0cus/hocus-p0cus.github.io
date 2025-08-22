@@ -1,6 +1,6 @@
 ## **Is it resilient?**
 
-This is a static web app that displays Mythic+ dungeon run reports based on data exported from [Raider.IO](https://raider.io) Timed Run Leaderboards for Season 2 of *The War Within* (TWW), covering both EU and NA regions. Only timed runs at keystone level 18 and above are included.
+This is a static web app that displays Mythic+ dungeon run reports based on data exported from [Raider.IO](https://raider.io) Timed Run Leaderboards for Season 2 and 3 of *The War Within* (TWW), covering both EU and NA regions. For Season 2 only timed runs at keystone level 18 and above are included, for season 3 - only timed runs at keystone level 13 and above (this is going to change multiple times as season goes on).
 
 #### 📊 Data Summary
 ##### TWW Season 2
@@ -74,6 +74,3 @@ Lists characters included in the dataset.
 
 **Q: Why are only keystone level 18+ runs included?<br>**
 **A:** I believe this keystone range represents the most challenging and relevant content for players in the 0.1% Mythic+ title range, who are likely the main users of this app. It also limits the number of runs I have to store to a reasonable number.
-
-**Q: Any plans to make this available for Season 3 of TWW?<br>**
-**A:** Most likely.
