@@ -3,19 +3,20 @@ const dataByRegion = {};
 let DUNGEONS = [];
 let DUNGEON_ICONS = {};
 
-async function loadDungeons() {
-  const data = await fetch("dungeons-tww-season2.json").then(res => res.json());
+let slugMapping = null;
+let currentMode = "link";
+let currentSeason = "tww-season3";
 
-  DUNGEONS = data.dungeons.map(d => d.name);
-  DUNGEON_ICONS = Object.fromEntries(
-    data.dungeons.map(d => [d.name, d.icon])
-  );
+async function loadDungeons() {
+  DUNGEONS = await fetch(`dungeons-${currentSeason}.json`).then(res => res.json());
+
+  if (Object.keys(DUNGEON_ICONS).length === 0) {
+    DUNGEON_ICONS = await fetch("dungeon_icons.json").then(res => res.json());
+  }
 
   return { DUNGEONS, DUNGEON_ICONS };
 }
 
-let slugMapping = null;
-let currentMode = "link";
 
 async function loadSlugMapping() {
   if (slugMapping) return Promise.resolve(slugMapping);
@@ -43,17 +44,29 @@ async function populateRealmSuggestions() {
 }
 
 function loadRegionData(region) {
-  if (dataByRegion[region]) {
-    return Promise.resolve(dataByRegion[region]);
+  const key = `${currentSeason}-${region}`;
+  if (dataByRegion[key]) {
+    return Promise.resolve(dataByRegion[key]);
   }
 
   return Promise.all([
-    fetch(`tww-season2-${region}-character_dungeon_stats.json`).then(res => res.json()),
-    fetch(`tww-season2-${region}-roster.json`).then(res => res.json())
+    fetch(`${currentSeason}-${region}-character_dungeon_stats.json`).then(res => res.json()),
+    fetch(`${currentSeason}-${region}-roster.json`).then(res => res.json())
   ]).then(([stats, roster]) => {
-    dataByRegion[region] = { stats, roster };
-    return dataByRegion[region];
+    dataByRegion[key] = { stats, roster };
+    return dataByRegion[key];
   });
+}
+
+async function setSeason(season) {
+  //if (currentSeason == season) return;
+  currentSeason = season;
+  await loadDungeons();
+
+  document.querySelectorAll(".season-button").forEach(btn => btn.classList.remove("active"));
+  document.querySelector(`.season-button[onclick="setSeason('${season}')"]`).classList.add("active");
+
+  generateReport();
 }
 
 function resilientKeyLevel(stats, characterId, timestamp) {
@@ -96,6 +109,13 @@ function switchInputMode(mode) {
 
   buttons.forEach(btn => btn.classList.remove("active"));
   document.querySelector(`.toggle-button[onclick*="${mode}"]`).classList.add("active");
+}
+
+function toRaiderIoSlug(seasonKey) {
+  const match = seasonKey.match(/^(\w+)-season(\d+)$/);
+  if (!match) return seasonKey;
+  const [_, expac, num] = match;
+  return `season-${expac}-${num}`;
 }
 
 async function generateReport() {
@@ -210,7 +230,7 @@ async function generateReport() {
         runsContent = '<div class="dungeon-runs">No runs found.</div>';
       } else {
         entry.runs.forEach((run, i) => {
-          const runLink = `https://raider.io/mythic-plus-runs/season-tww-2/${run.run_id}`;
+          const runLink = `https://raider.io/mythic-plus-runs/${toRaiderIoSlug(currentSeason)}/${run.run_id}`;
           const paddedCount = run.count < 10 ? `&nbsp;&nbsp;${run.count}` : run.count;
           const symbol = run.resilient === 0 ? "✅" : "❓";
 

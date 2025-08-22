@@ -200,3 +200,30 @@ select:focus {
   border-radius: 5px;
   margin: 6px 0;
 }
+
+.season-toggle {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  gap: 10px;
+}
+
+.season-button {
+  padding: 8px 12px;
+  font-size: 0.95em;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.season-button:hover {
+  background-color: #d0d0d0;
+}
+
+.season-button.active {
+  background-color: #28a745;
+  color: white;
+  border-color: #1e7e34;
+}
