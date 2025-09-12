@@ -227,3 +227,32 @@ select:focus {
   color: white;
   border-color: #1e7e34;
 }
+
+
+#page {
+  transform-origin: top center;
+}
+
+@media (min-width: 1600px) {
+  #page {
+    transform: scale(1.1);
+  }
+}
+
+@media (min-width: 1920px) {
+  #page {
+    transform: scale(1.3);
+  }
+}
+
+@media (min-width: 2560px) {
+  #page {
+    transform: scale(1.7);
+  }
+}
+
+@media (min-width: 3840px) {
+  #page {
+    transform: scale(2.1);
+  }
+}
