@@ -109253,7 +109253,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-11T06:42:28.000Z",
     "first_run_id": 24978537,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Restoro-Jubei'Thos",
@@ -109261,7 +109261,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-11T06:42:28.000Z",
     "first_run_id": 24978537,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Knon-Tichondrius",
@@ -109277,7 +109277,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-11T06:42:28.000Z",
     "first_run_id": 24978537,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Sooniiz-Frostmourne",
@@ -109285,7 +109285,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-11T06:42:28.000Z",
     "first_run_id": 24978537,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Boags-Frostmourne",
@@ -110653,7 +110653,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-13T04:45:12.000Z",
     "first_run_id": 25481857,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Sevengød-Proudmoore",
@@ -110677,7 +110677,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-13T04:45:12.000Z",
     "first_run_id": 25481857,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Ariyannah-Mal'Ganis",
@@ -112037,7 +112037,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-13T13:50:34.000Z",
     "first_run_id": 25568089,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Pikachao-Illidan",
@@ -144453,6 +144453,30 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-14T08:08:32.000Z",
     "first_run_id": 25807551,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dfang-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-19T14:56:11.000Z",
+    "first_run_id": 27586409,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Qqxc-Illidan",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-19T14:56:11.000Z",
+    "first_run_id": 27586409,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Pihunterdan-Illidan",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-19T14:56:11.000Z",
+    "first_run_id": 27586409,
     "completion_count": 1
   }
 ]
