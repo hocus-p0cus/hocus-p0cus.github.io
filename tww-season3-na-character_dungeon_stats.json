@@ -3589,7 +3589,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-15T03:23:18.000Z",
     "first_run_id": 26080353,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Lgdsw-Area 52",
@@ -3597,7 +3597,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-11T01:13:04.000Z",
     "first_run_id": 24941079,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Zafkiel-Tichondrius",
@@ -3605,7 +3605,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-15T03:23:18.000Z",
     "first_run_id": 26080353,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Tøretto-Sargeras",
@@ -14589,7 +14589,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-09T02:26:48.000Z",
     "first_run_id": 24549360,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Unluckohunt-Dalaran",
@@ -16397,7 +16397,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-17T20:41:17.000Z",
     "first_run_id": 26968947,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Sayntdk-Stormrage",
@@ -22853,7 +22853,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T00:54:25.000Z",
     "first_run_id": 25182261,
-    "completion_count": 5
+    "completion_count": 6
   },
   {
     "character_id": "Panguano-Sargeras",
@@ -22861,7 +22861,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T00:54:25.000Z",
     "first_run_id": 25182261,
-    "completion_count": 6
+    "completion_count": 7
   },
   {
     "character_id": "Mtap-Area 52",
@@ -22869,7 +22869,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T00:54:25.000Z",
     "first_run_id": 25182261,
-    "completion_count": 6
+    "completion_count": 7
   },
   {
     "character_id": "Sickan-Illidan",
@@ -24021,7 +24021,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T00:54:25.000Z",
     "first_run_id": 25182261,
-    "completion_count": 5
+    "completion_count": 6
   },
   {
     "character_id": "Xalxi-Illidan",
@@ -119869,7 +119869,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-13T01:47:16.000Z",
     "first_run_id": 15058612,
-    "completion_count": 4
+    "completion_count": 5
   },
   {
     "character_id": "Grrahtahtah-Crushridge",
@@ -131205,7 +131205,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-09T06:14:22.000Z",
     "first_run_id": 24566034,
-    "completion_count": 4
+    "completion_count": 5
   },
   {
     "character_id": "Boycetaa-Sargeras",
@@ -131213,7 +131213,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-09T06:14:22.000Z",
     "first_run_id": 24566034,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Panguano-Sargeras",
@@ -131221,7 +131221,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-09T06:14:22.000Z",
     "first_run_id": 24566034,
-    "completion_count": 4
+    "completion_count": 5
   },
   {
     "character_id": "Scoreboard-Grizzly Hills",
@@ -131237,7 +131237,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-09T06:14:22.000Z",
     "first_run_id": 24566034,
-    "completion_count": 4
+    "completion_count": 5
   },
   {
     "character_id": "Ryanlockwood-Illidan",
@@ -154965,6 +154965,134 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-21T09:36:10.000Z",
     "first_run_id": 28131529,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Annaypala-Illidan",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-22T00:08:48.000Z",
+    "first_run_id": 28330102,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jimmyhunter-Ragnaros",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-22T00:08:48.000Z",
+    "first_run_id": 28330102,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Corloris-Dalaran",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:47:06.000Z",
+    "first_run_id": 28338404,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Decayingrat-Area 52",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:47:06.000Z",
+    "first_run_id": 28338404,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Stevve-Sargeras",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:47:06.000Z",
+    "first_run_id": 28338404,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Doxide-Tichondrius",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-22T00:35:14.000Z",
+    "first_run_id": 28337375,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tyrantesz-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:00:59.000Z",
+    "first_run_id": 28330860,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Mortalrage-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:00:59.000Z",
+    "first_run_id": 28330860,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Applehunt-Illidan",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:00:59.000Z",
+    "first_run_id": 28330860,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Férnzilla-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:00:59.000Z",
+    "first_run_id": 28330860,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Babyhnter-Tichondrius",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:34:57.000Z",
+    "first_run_id": 28337382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Moebius-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:34:57.000Z",
+    "first_run_id": 28337382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Fentura-Sargeras",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:34:57.000Z",
+    "first_run_id": 28337382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sayuw-Azralon",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:34:57.000Z",
+    "first_run_id": 28337382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cractuz-Azralon",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-22T00:34:57.000Z",
+    "first_run_id": 28337382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Doxide-Tichondrius",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-21T23:57:46.000Z",
+    "first_run_id": 28331653,
     "completion_count": 1
   }
 ]
