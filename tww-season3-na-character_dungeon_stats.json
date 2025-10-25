@@ -381,7 +381,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-09T05:53:20.000Z",
     "first_run_id": 24565635,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Treeshifty-Frostmourne",
@@ -1069,7 +1069,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-03T16:31:29.000Z",
     "first_run_id": 22916316,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Frogkisser-Frostmourne",
@@ -1077,7 +1077,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-03T16:31:29.000Z",
     "first_run_id": 22916316,
-    "completion_count": 3
+    "completion_count": 5
   },
   {
     "character_id": "Jacch-Frostmourne",
@@ -1909,7 +1909,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-09-25T23:08:54.000Z",
     "first_run_id": 20322130,
-    "completion_count": 4
+    "completion_count": 5
   },
   {
     "character_id": "Formalx-Sargeras",
@@ -2061,7 +2061,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-09-22T07:55:36.000Z",
     "first_run_id": 19002944,
-    "completion_count": 5
+    "completion_count": 7
   },
   {
     "character_id": "Yui-Jubei'Thos",
@@ -2069,7 +2069,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-11T10:51:38.000Z",
     "first_run_id": 25016882,
-    "completion_count": 3
+    "completion_count": 5
   },
   {
     "character_id": "Backtrack-Frostmourne",
@@ -2077,7 +2077,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-16T11:19:17.000Z",
     "first_run_id": 26464015,
-    "completion_count": 2
+    "completion_count": 4
   },
   {
     "character_id": "Kevsyndrome-Illidan",
@@ -2229,7 +2229,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-03T16:31:29.000Z",
     "first_run_id": 22916316,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Wodar-Frostmourne",
@@ -2845,7 +2845,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-18T02:10:49.000Z",
     "first_run_id": 27030424,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Wetcatto-Stormrage",
@@ -3461,7 +3461,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-08T03:50:28.000Z",
     "first_run_id": 24330716,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Swiftlight-Zul'jin",
@@ -3517,7 +3517,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T22:59:16.000Z",
     "first_run_id": 27005123,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Conflictz-Illidan",
@@ -3533,7 +3533,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T22:59:16.000Z",
     "first_run_id": 27005123,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Wemby-Zul'jin",
@@ -4837,7 +4837,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-03T16:31:29.000Z",
     "first_run_id": 22916316,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Linkenic-Frostmourne",
@@ -4845,7 +4845,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-19T11:16:55.000Z",
     "first_run_id": 27527878,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Infliktd-Frostmourne",
@@ -4853,7 +4853,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-19T11:16:55.000Z",
     "first_run_id": 27527878,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Vbdk-Frostmourne",
@@ -4861,7 +4861,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-19T11:16:55.000Z",
     "first_run_id": 27527878,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Momolicious-Frostmourne",
@@ -4869,7 +4869,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-19T11:16:55.000Z",
     "first_run_id": 27527878,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Onlymarks-Frostmourne",
@@ -4877,7 +4877,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-19T11:16:55.000Z",
     "first_run_id": 27527878,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Myrrddin-Emerald Dream",
@@ -8493,7 +8493,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-26T19:47:43.000Z",
     "first_run_id": 20573160,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Zuckles-Illidan",
@@ -10309,7 +10309,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-17T01:21:21.000Z",
     "first_run_id": 26681685,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Dillymewilly-Illidan",
@@ -12269,7 +12269,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-07T03:21:33.000Z",
     "first_run_id": 24035124,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Poofpile-Kil'jaeden",
@@ -18053,7 +18053,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-16T02:12:42.000Z",
     "first_run_id": 26375155,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Gwoz-Illidan",
@@ -18253,7 +18253,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-13T20:01:42.000Z",
     "first_run_id": 25673474,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Yorochi-Sargeras",
@@ -19333,7 +19333,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-26T22:07:24.000Z",
     "first_run_id": 20626665,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Amminny-Stormrage",
@@ -22037,7 +22037,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-14T07:48:38.000Z",
     "first_run_id": 25800862,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Meechyvpl-Illidan",
@@ -22277,7 +22277,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-18T07:51:31.000Z",
     "first_run_id": 27083991,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Uhhleft-Sargeras",
@@ -22293,7 +22293,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-18T07:51:31.000Z",
     "first_run_id": 27083991,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Aladdine-Area 52",
@@ -22301,7 +22301,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-18T07:51:31.000Z",
     "first_run_id": 27083991,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Voal-Illidan",
@@ -23069,7 +23069,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-02T18:07:08.000Z",
     "first_run_id": 22626357,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Treeshifty-Frostmourne",
@@ -24885,7 +24885,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-15T12:11:54.000Z",
     "first_run_id": 26174053,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Musc-Frostmourne",
@@ -24893,7 +24893,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-15T12:11:54.000Z",
     "first_run_id": 26174053,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Helpwarr-Frostmourne",
@@ -24901,7 +24901,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-15T12:11:54.000Z",
     "first_run_id": 26174053,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Lightstepdru-Frostmourne",
@@ -24909,7 +24909,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-15T12:11:54.000Z",
     "first_run_id": 26174053,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Wade-Mal'Ganis",
@@ -35557,7 +35557,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-07T01:59:50.000Z",
     "first_run_id": 24022488,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Girthdh-Mal'Ganis",
@@ -40285,7 +40285,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T12:19:58.000Z",
     "first_run_id": 27161088,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Cuteanimegrl-Frostmourne",
@@ -40293,7 +40293,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T12:19:58.000Z",
     "first_run_id": 27161088,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Bum-Frostmourne",
@@ -40317,7 +40317,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T12:19:58.000Z",
     "first_run_id": 27161088,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Celdianna-Whisperwind",
@@ -40341,7 +40341,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-14T22:17:02.000Z",
     "first_run_id": 26031638,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Kanadk-Illidan",
@@ -40829,7 +40829,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-14T21:52:47.000Z",
     "first_run_id": 26033130,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Grimshunter-Illidan",
@@ -41941,7 +41941,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T11:21:57.000Z",
     "first_run_id": 26782815,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Ròòszy-Stormrage",
@@ -43861,7 +43861,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-16T08:22:14.000Z",
     "first_run_id": 26428808,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Lokumwr-Sargeras",
@@ -44117,7 +44117,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-03T22:52:34.000Z",
     "first_run_id": 23037803,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Mashadi-Thrall",
@@ -44645,7 +44645,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-08T08:46:35.000Z",
     "first_run_id": 24373739,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Swiftblight-Zul'jin",
@@ -44661,7 +44661,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-08T08:46:35.000Z",
     "first_run_id": 24373739,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Elmmerfud-Tichondrius",
@@ -45021,7 +45021,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-18T04:02:34.000Z",
     "first_run_id": 27048158,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Zephranê-Frostmourne",
@@ -45061,7 +45061,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-13T03:27:52.000Z",
     "first_run_id": 25470317,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Desolator-Arygos",
@@ -45917,7 +45917,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-02T06:54:54.000Z",
     "first_run_id": 22462790,
-    "completion_count": 8
+    "completion_count": 9
   },
   {
     "character_id": "Xerecaraspad-Area 52",
@@ -46725,7 +46725,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-12T02:26:43.000Z",
     "first_run_id": 25194260,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Equibus-Frostmourne",
@@ -47069,7 +47069,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-20T13:55:32.000Z",
     "first_run_id": 18174753,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Gelly-Frostmourne",
@@ -47077,7 +47077,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-20T13:55:32.000Z",
     "first_run_id": 18174753,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Vitril-Frostmourne",
@@ -47085,7 +47085,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-11T11:50:12.000Z",
     "first_run_id": 25021842,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Strawhats-Dreadmaul",
@@ -48773,7 +48773,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-23T18:41:58.000Z",
     "first_run_id": 19581510,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Musc-Frostmourne",
@@ -52973,7 +52973,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-23T18:41:58.000Z",
     "first_run_id": 19581510,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Coffee-Frostmourne",
@@ -52981,7 +52981,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-23T18:41:58.000Z",
     "first_run_id": 19581510,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Frogkisser-Frostmourne",
@@ -52989,7 +52989,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-23T18:41:58.000Z",
     "first_run_id": 19581510,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Jmishenka-Illidan",
@@ -56061,7 +56061,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-02T09:02:10.000Z",
     "first_run_id": 22479036,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Drpayne-Darkspear",
@@ -59525,7 +59525,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-09T12:52:49.000Z",
     "first_run_id": 24605193,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Jdotbres-Illidan",
@@ -63013,7 +63013,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-04T05:23:00.000Z",
     "first_run_id": 23094261,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Zuckles-Illidan",
@@ -63029,7 +63029,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-19T03:31:25.000Z",
     "first_run_id": 27411185,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Schudru-Illidan",
@@ -66469,7 +66469,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T12:22:49.000Z",
     "first_run_id": 27161472,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Gelly-Frostmourne",
@@ -66477,7 +66477,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T12:22:49.000Z",
     "first_run_id": 27161472,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Vitril-Frostmourne",
@@ -66485,7 +66485,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T12:22:49.000Z",
     "first_run_id": 27161472,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Strawhats-Dreadmaul",
@@ -66501,7 +66501,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-10T09:46:46.000Z",
     "first_run_id": 24786578,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Doesnotcare-Thrall",
@@ -67645,7 +67645,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-28T20:25:29.000Z",
     "first_run_id": 21374672,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Trìckyz-Tichondrius",
@@ -70061,7 +70061,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T10:14:33.000Z",
     "first_run_id": 26769941,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Yui-Jubei'Thos",
@@ -70069,7 +70069,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T10:14:33.000Z",
     "first_run_id": 26769941,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Backtrack-Frostmourne",
@@ -70077,7 +70077,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T10:14:33.000Z",
     "first_run_id": 26769941,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Melee-Nathrezim",
@@ -73397,7 +73397,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T10:29:27.000Z",
     "first_run_id": 27130867,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Balhaasdk-Stormrage",
@@ -74477,7 +74477,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-07T11:56:32.000Z",
     "first_run_id": 24133797,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Xera-Frostmourne",
@@ -74501,7 +74501,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-07T11:56:32.000Z",
     "first_run_id": 24133797,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Pog-Frostmourne",
@@ -75157,7 +75157,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-19T07:47:05.000Z",
     "first_run_id": 27463559,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Bursting-Frostmourne",
@@ -76189,7 +76189,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T01:11:35.000Z",
     "first_run_id": 27024174,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Knickdk-Frostmourne",
@@ -76925,7 +76925,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T12:12:25.000Z",
     "first_run_id": 27160283,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Gothedogs-Frostmourne",
@@ -77877,7 +77877,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-17T08:56:52.000Z",
     "first_run_id": 26747274,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Yui-Jubei'Thos",
@@ -77885,7 +77885,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-17T08:56:52.000Z",
     "first_run_id": 26747274,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Backtrack-Frostmourne",
@@ -77893,7 +77893,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-17T08:56:52.000Z",
     "first_run_id": 26747274,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Skollcat-Area 52",
@@ -78357,7 +78357,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T07:11:57.000Z",
     "first_run_id": 25234364,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Shawruss-Frostmourne",
@@ -78365,7 +78365,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-09-26T10:32:27.000Z",
     "first_run_id": 20425930,
-    "completion_count": 5
+    "completion_count": 6
   },
   {
     "character_id": "Kaldhunt-Frostmourne",
@@ -78373,7 +78373,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-09-28T06:29:14.000Z",
     "first_run_id": 21133727,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Garchomprock-Frostmourne",
@@ -78381,7 +78381,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T07:11:57.000Z",
     "first_run_id": 25234364,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Preparedfour-Illidan",
@@ -80773,7 +80773,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-13T13:09:14.000Z",
     "first_run_id": 25553768,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Knon-Tichondrius",
@@ -80789,7 +80789,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-13T13:09:14.000Z",
     "first_run_id": 25553768,
-    "completion_count": 4
+    "completion_count": 5
   },
   {
     "character_id": "Sooniiz-Frostmourne",
@@ -81189,7 +81189,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T11:48:13.000Z",
     "first_run_id": 25285939,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Infliktd-Frostmourne",
@@ -81197,7 +81197,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T11:48:13.000Z",
     "first_run_id": 25285939,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Vbdk-Frostmourne",
@@ -81205,7 +81205,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T11:48:13.000Z",
     "first_run_id": 25285939,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Momolicious-Frostmourne",
@@ -81213,7 +81213,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T11:48:13.000Z",
     "first_run_id": 25285939,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Onlymarks-Frostmourne",
@@ -81221,7 +81221,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-12T11:48:13.000Z",
     "first_run_id": 25285939,
-    "completion_count": 2
+    "completion_count": 4
   },
   {
     "character_id": "Tulkos-Thrall",
@@ -89165,7 +89165,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T17:36:59.000Z",
     "first_run_id": 27274239,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Puzzlebox-Illidan",
@@ -89173,7 +89173,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T17:36:59.000Z",
     "first_run_id": 27274239,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "AnonEA0D5B4-Anonymous",
@@ -89765,7 +89765,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-13T07:50:31.000Z",
     "first_run_id": 25509013,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Naomii-Mal'Ganis",
@@ -90445,7 +90445,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-01T21:54:38.000Z",
     "first_run_id": 22379209,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Ayatô-Area 52",
@@ -101909,7 +101909,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-02T12:30:17.000Z",
     "first_run_id": 22525256,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Jmodsdh-Area 52",
@@ -106925,7 +106925,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-17T01:49:50.000Z",
     "first_run_id": 26684594,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Treeshifty-Frostmourne",
@@ -108381,7 +108381,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-09-26T18:42:35.000Z",
     "first_run_id": 20553555,
-    "completion_count": 7
+    "completion_count": 8
   },
   {
     "character_id": "Grrahtahtah-Crushridge",
@@ -109477,7 +109477,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-18T04:47:52.000Z",
     "first_run_id": 27054853,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Vulnicure-Area 52",
@@ -110117,7 +110117,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T14:39:47.000Z",
     "first_run_id": 26831860,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Saffron-Frostmourne",
@@ -110125,7 +110125,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-17T14:39:47.000Z",
     "first_run_id": 26831860,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Lygerxd-Area 52",
@@ -110613,7 +110613,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-13T21:56:35.000Z",
     "first_run_id": 25701268,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Matthewdh-Area 52",
@@ -114357,7 +114357,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-28T03:10:42.000Z",
     "first_run_id": 21094060,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Atenay-Frostmourne",
@@ -114365,7 +114365,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-01T13:42:21.000Z",
     "first_run_id": 22234388,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Xerase-Frostmourne",
@@ -114373,7 +114373,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T10:13:21.000Z",
     "first_run_id": 27126145,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Brathw-Frostmourne",
@@ -114381,7 +114381,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T10:13:21.000Z",
     "first_run_id": 27126145,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Jxkey-Frostmourne",
@@ -114389,7 +114389,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T10:13:21.000Z",
     "first_run_id": 27126145,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Yodakh-Illidan",
@@ -119373,7 +119373,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-11T11:31:33.000Z",
     "first_run_id": 25017823,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Nsö-Frostmourne",
@@ -119389,7 +119389,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-11T11:31:33.000Z",
     "first_run_id": 25017823,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Taeryx-Frostmourne",
@@ -119397,7 +119397,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-21T23:33:42.000Z",
     "first_run_id": 18896593,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Galo-Hyjal",
@@ -119629,7 +119629,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-07T01:35:56.000Z",
     "first_run_id": 24019802,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Amazingjamo-Area 52",
@@ -119717,7 +119717,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-15T08:08:02.000Z",
     "first_run_id": 26121358,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Collon-Barthilas",
@@ -120869,7 +120869,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-01T21:38:16.000Z",
     "first_run_id": 22376180,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Notearth-Tichondrius",
@@ -122357,7 +122357,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-17T03:43:51.000Z",
     "first_run_id": 26697153,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Esra-Frostmourne",
@@ -122789,7 +122789,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-10T03:33:09.000Z",
     "first_run_id": 24744621,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Silzunë-Illidan",
@@ -124701,7 +124701,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-12T22:48:23.000Z",
     "first_run_id": 25434807,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Hkx-Area 52",
@@ -124725,7 +124725,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-12T22:48:23.000Z",
     "first_run_id": 25434807,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Ganashaman-Illidan",
@@ -124853,7 +124853,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-25T23:46:30.000Z",
     "first_run_id": 20334319,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Megadhz-Area 52",
@@ -127685,7 +127685,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-06T17:10:30.000Z",
     "first_run_id": 23900652,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Cartiz-Tichondrius",
@@ -127877,7 +127877,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-10T19:57:13.000Z",
     "first_run_id": 24898605,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Nevarian-Proudmoore",
@@ -129053,7 +129053,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-13T17:47:57.000Z",
     "first_run_id": 25630719,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Terracottadk-Ragnaros",
@@ -133109,7 +133109,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-13T09:24:17.000Z",
     "first_run_id": 15176164,
-    "completion_count": 9
+    "completion_count": 10
   },
   {
     "character_id": "Sleepyowls-Illidan",
@@ -136677,7 +136677,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-16T06:01:33.000Z",
     "first_run_id": 26412579,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Dekel-Stormrage",
@@ -137821,7 +137821,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-09-30T20:49:41.000Z",
     "first_run_id": 22033431,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Grimniightt-Area 52",
@@ -139605,7 +139605,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-13T04:04:31.000Z",
     "first_run_id": 25476283,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Wetcatto-Stormrage",
@@ -141173,7 +141173,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-09T00:55:40.000Z",
     "first_run_id": 24542816,
-    "completion_count": 3
+    "completion_count": 4
   },
   {
     "character_id": "Zixxith-Tichondrius",
@@ -141981,7 +141981,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-04T02:44:08.000Z",
     "first_run_id": 23069274,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Yunaxue-Illidan",
@@ -142213,7 +142213,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-14T04:53:06.000Z",
     "first_run_id": 25774529,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Pezky-Area 52",
@@ -142253,7 +142253,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T04:19:49.000Z",
     "first_run_id": 27049362,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Sevengød-Proudmoore",
@@ -142261,7 +142261,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-18T04:19:49.000Z",
     "first_run_id": 27049362,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Pallyneir-Illidan",
@@ -142933,7 +142933,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-10T02:03:38.000Z",
     "first_run_id": 24735624,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Chiplock-Illidan",
@@ -145445,7 +145445,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-19T21:57:53.000Z",
     "first_run_id": 27739233,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Xiaoshizi-Illidan",
@@ -150437,7 +150437,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-20T13:44:01.000Z",
     "first_run_id": 27871508,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Brathw-Frostmourne",
@@ -150445,7 +150445,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-20T13:44:01.000Z",
     "first_run_id": 27871508,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Jxkey-Frostmourne",
@@ -150453,7 +150453,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-20T13:44:01.000Z",
     "first_run_id": 27871508,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Zhde-Illidan",
@@ -152893,7 +152893,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-20T15:28:17.000Z",
     "first_run_id": 27906707,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Ducklet-Frostmourne",
@@ -152909,7 +152909,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-20T15:28:17.000Z",
     "first_run_id": 27906707,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Lavacoco-Frostmourne",
@@ -153141,7 +153141,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-21T00:55:02.000Z",
     "first_run_id": 28037015,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Brigidios-Ragnaros",
@@ -154317,7 +154317,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-20T08:02:37.000Z",
     "first_run_id": 27823489,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Zugugh-Area 52",
@@ -154333,7 +154333,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-20T08:02:37.000Z",
     "first_run_id": 27823489,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Arnethos-Stormrage",
@@ -156605,7 +156605,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-22T12:01:06.000Z",
     "first_run_id": 28461940,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Bishunt-Illidan",
@@ -156613,7 +156613,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-22T12:01:06.000Z",
     "first_run_id": 28461940,
-    "completion_count": 4
+    "completion_count": 5
   },
   {
     "character_id": "Zygunda-Illidan",
@@ -159061,7 +159061,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-22T20:20:07.000Z",
     "first_run_id": 28603132,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Fizzbanger-Drenden",
@@ -161517,7 +161517,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-23T04:15:16.000Z",
     "first_run_id": 28705285,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Keyadri-Thrall",
@@ -163685,7 +163685,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-23T03:46:37.000Z",
     "first_run_id": 28698810,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Chargefordie-Illidan",
@@ -164133,7 +164133,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-23T05:01:14.000Z",
     "first_run_id": 28715624,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Moncho-Illidan",
@@ -166973,7 +166973,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-23T06:38:20.000Z",
     "first_run_id": 28724625,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Indyanabones-Sargeras",
@@ -167693,7 +167693,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-23T06:14:55.000Z",
     "first_run_id": 28721691,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "AnonEA0D5B4-Anonymous",
@@ -168629,7 +168629,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-23T10:21:14.000Z",
     "first_run_id": 28757744,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Noct-Frostmourne",
@@ -168637,7 +168637,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-23T10:21:14.000Z",
     "first_run_id": 28757744,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Thiccshaké-Frostmourne",
@@ -168901,7 +168901,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-23T11:29:10.000Z",
     "first_run_id": 28775550,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Kevylx-Frostmourne",
@@ -168917,7 +168917,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-23T11:29:10.000Z",
     "first_run_id": 28775550,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Aerythea-Frostmourne",
@@ -174917,7 +174917,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-23T17:35:57.000Z",
     "first_run_id": 28866963,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Timshot-Area 52",
@@ -177021,7 +177021,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-24T04:09:36.000Z",
     "first_run_id": 29014810,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Vamoo-Frostmourne",
@@ -177197,7 +177197,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-24T06:29:56.000Z",
     "first_run_id": 29031169,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Sixhots-Illidan",
@@ -177213,7 +177213,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-24T06:29:56.000Z",
     "first_run_id": 29031169,
-    "completion_count": 2
+    "completion_count": 3
   },
   {
     "character_id": "Faero-Illidan",
@@ -177229,7 +177229,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-24T06:29:56.000Z",
     "first_run_id": 29031169,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Kurupak-Illidan",
@@ -178869,7 +178869,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T05:28:50.000Z",
     "first_run_id": 29022802,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Muk-Frostmourne",
@@ -180133,7 +180133,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T02:46:23.000Z",
     "first_run_id": 28998852,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Dankdaniel-Tichondrius",
@@ -180485,7 +180485,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T03:16:17.000Z",
     "first_run_id": 29004710,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Papamoony-Frostmourne",
@@ -180941,7 +180941,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-24T03:29:57.000Z",
     "first_run_id": 29007860,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Bloodpudding-Frostmourne",
@@ -181461,7 +181461,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T03:43:12.000Z",
     "first_run_id": 29007643,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Giofiveseven-Illidan",
@@ -182717,7 +182717,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-24T02:23:59.000Z",
     "first_run_id": 28992437,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Ïdril-Silvermoon",
@@ -182965,7 +182965,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T08:46:45.000Z",
     "first_run_id": 29047381,
-    "completion_count": 1
+    "completion_count": 3
   },
   {
     "character_id": "Noct-Frostmourne",
@@ -182973,7 +182973,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T08:46:45.000Z",
     "first_run_id": 29047381,
-    "completion_count": 1
+    "completion_count": 3
   },
   {
     "character_id": "Harushear-Aman'Thul",
@@ -183589,7 +183589,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T12:41:38.000Z",
     "first_run_id": 29089897,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Atenay-Frostmourne",
@@ -183597,7 +183597,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T12:41:38.000Z",
     "first_run_id": 29089897,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Xerase-Frostmourne",
@@ -183605,7 +183605,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T12:41:38.000Z",
     "first_run_id": 29089897,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Brathw-Frostmourne",
@@ -183613,7 +183613,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T12:41:38.000Z",
     "first_run_id": 29089897,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Jxkey-Frostmourne",
@@ -183621,7 +183621,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T12:41:38.000Z",
     "first_run_id": 29089897,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Anon776010B-Anonymous",
@@ -184893,7 +184893,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-24T09:26:09.000Z",
     "first_run_id": 29053677,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Minathre-Frostmourne",
@@ -186277,7 +186277,7 @@
     "difficulty_level": 20,
     "first_completed": "2025-10-25T00:42:58.000Z",
     "first_run_id": 29277258,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "AnonA029A56-Anonymous",
@@ -187629,7 +187629,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-24T20:23:22.000Z",
     "first_run_id": 29199892,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Cartixo-Thrall",
@@ -189837,7 +189837,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-24T23:30:42.000Z",
     "first_run_id": 29260933,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Mermis-Area 52",
@@ -192053,7 +192053,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-25T05:22:55.000Z",
     "first_run_id": 29330268,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Liamly-Area 52",
@@ -196053,7 +196053,7 @@
     "difficulty_level": 19,
     "first_completed": "2025-10-25T01:11:18.000Z",
     "first_run_id": 29286433,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Nerrfdh-Zul'jin",
@@ -196245,7 +196245,7 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-25T07:13:45.000Z",
     "first_run_id": 29346908,
-    "completion_count": 1
+    "completion_count": 2
   },
   {
     "character_id": "Wolfelord-Sargeras",
@@ -202061,6 +202061,2430 @@
     "difficulty_level": 18,
     "first_completed": "2025-10-25T03:02:20.000Z",
     "first_run_id": 29303482,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Booze-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:45:00.000Z",
+    "first_run_id": 29382487,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Musc-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:45:00.000Z",
+    "first_run_id": 29382487,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Helpwarr-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:45:00.000Z",
+    "first_run_id": 29382487,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lightstepdru-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:45:00.000Z",
+    "first_run_id": 29382487,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Smorc-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:44:50.000Z",
+    "first_run_id": 29404209,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Burgergaming-Tichondrius",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:39:09.000Z",
+    "first_run_id": 29373732,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Chugbug-Destromath",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:39:09.000Z",
+    "first_run_id": 29373732,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Gwyndalin-Kil'jaeden",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T07:40:04.000Z",
+    "first_run_id": 29362540,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Miniwoyer-Tichondrius",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T07:40:04.000Z",
+    "first_run_id": 29362540,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kairuku-Tichondrius",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T07:40:04.000Z",
+    "first_run_id": 29362540,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kellxdd-Zul'jin",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T07:40:04.000Z",
+    "first_run_id": 29362540,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Applegwippy-Tichondrius",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T07:40:04.000Z",
+    "first_run_id": 29362540,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jsdwarrior-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:32:58.000Z",
+    "first_run_id": 29371636,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Knickdk-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:32:58.000Z",
+    "first_run_id": 29371636,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Narchunt-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:32:58.000Z",
+    "first_run_id": 29371636,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Pilmar-Stormrage",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:21:28.000Z",
+    "first_run_id": 29369270,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Snowyuki-Barthilas",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:21:28.000Z",
+    "first_run_id": 29369270,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Moonmender-Area 52",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:38:23.000Z",
+    "first_run_id": 29391978,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jbug-Illidan",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:38:23.000Z",
+    "first_run_id": 29391978,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ggmaterial-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:35:14.000Z",
+    "first_run_id": 29432173,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ducklet-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:35:14.000Z",
+    "first_run_id": 29432173,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kacey-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:35:14.000Z",
+    "first_run_id": 29432173,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lavacoco-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:35:14.000Z",
+    "first_run_id": 29432173,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Faifagreen-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:35:14.000Z",
+    "first_run_id": 29432173,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rakeandbake-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:51:06.000Z",
+    "first_run_id": 29411458,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Leroyacee-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:51:06.000Z",
+    "first_run_id": 29411458,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tinitingle-Barthilas",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:51:06.000Z",
+    "first_run_id": 29411458,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zburnna-Tichondrius",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:51:06.000Z",
+    "first_run_id": 29411458,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Qwwt-Frostmourne",
+    "dungeon_name": "Eco-Dome Al'dani",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:51:06.000Z",
+    "first_run_id": 29411458,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Reiler-Emerald Dream",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:58:12.000Z",
+    "first_run_id": 29402235,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Valkyrïa-Azralon",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:36:10.000Z",
+    "first_run_id": 29391323,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Slurpdat-Tichondrius",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:36:10.000Z",
+    "first_run_id": 29391323,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dawnxo-Tichondrius",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:36:10.000Z",
+    "first_run_id": 29391323,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lissandrak-Area 52",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:36:10.000Z",
+    "first_run_id": 29391323,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Juumong-Barthilas",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:00:52.000Z",
+    "first_run_id": 29444719,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Akgamishanks-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:00:52.000Z",
+    "first_run_id": 29444719,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zeroapm-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:00:52.000Z",
+    "first_run_id": 29444719,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kigonplague-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:00:52.000Z",
+    "first_run_id": 29444719,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cloudshade-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:00:52.000Z",
+    "first_run_id": 29444719,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bagzyy-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:06:15.000Z",
+    "first_run_id": 29399250,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Àzunadk-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:06:15.000Z",
+    "first_run_id": 29399250,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rexxeyp-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T14:29:56.000Z",
+    "first_run_id": 29445849,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jacemage-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T14:29:56.000Z",
+    "first_run_id": 29445849,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Robinkick-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T14:29:56.000Z",
+    "first_run_id": 29445849,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rakeandbake-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:20:01.000Z",
+    "first_run_id": 29428071,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Deathsimp-Zul'jin",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:20:01.000Z",
+    "first_run_id": 29428071,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rozella-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:20:01.000Z",
+    "first_run_id": 29428071,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Qwwt-Frostmourne",
+    "dungeon_name": "Ara-Kara, City of Echoes",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:20:01.000Z",
+    "first_run_id": 29428071,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zepherousdk-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 21,
+    "first_completed": "2025-10-25T11:14:56.000Z",
+    "first_run_id": 29401569,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rainons-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 21,
+    "first_completed": "2025-10-25T11:14:56.000Z",
+    "first_run_id": 29401569,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shawruss-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 21,
+    "first_completed": "2025-10-25T11:14:56.000Z",
+    "first_run_id": 29401569,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kaldhunt-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 21,
+    "first_completed": "2025-10-25T11:14:56.000Z",
+    "first_run_id": 29401569,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Garchomprock-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 21,
+    "first_completed": "2025-10-25T11:14:56.000Z",
+    "first_run_id": 29401569,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cgx-Area 52",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:45:07.000Z",
+    "first_run_id": 29383632,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Blinddk-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:58:46.000Z",
+    "first_run_id": 29397371,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Doubleshield-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:58:46.000Z",
+    "first_run_id": 29397371,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Noct-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:58:46.000Z",
+    "first_run_id": 29397371,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Yui-Jubei'Thos",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:58:46.000Z",
+    "first_run_id": 29397371,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Backtrack-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T10:58:46.000Z",
+    "first_run_id": 29397371,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vulnicure-Area 52",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:03:36.000Z",
+    "first_run_id": 29383015,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jerons-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:29:26.000Z",
+    "first_run_id": 29430775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Gelly-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:29:26.000Z",
+    "first_run_id": 29430775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vitril-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:29:26.000Z",
+    "first_run_id": 29430775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ïgris-Thrall",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:22:15.000Z",
+    "first_run_id": 29478382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Thozark-Area 52",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:22:15.000Z",
+    "first_run_id": 29478382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Elunavera-Stormrage",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:22:15.000Z",
+    "first_run_id": 29478382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nivedh-Stormrage",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:22:15.000Z",
+    "first_run_id": 29478382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ilikegirls-Area 52",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:03:34.000Z",
+    "first_run_id": 29382494,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lockandballs-Mal'Ganis",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:03:34.000Z",
+    "first_run_id": 29382494,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jerichodk-Tichondrius",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:03:34.000Z",
+    "first_run_id": 29382494,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Victorluting-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:03:34.000Z",
+    "first_run_id": 29382494,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cowboycoby-Stormrage",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:03:34.000Z",
+    "first_run_id": 29382494,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Smorc-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:04:35.000Z",
+    "first_run_id": 29412989,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jerons-Frostmourne",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T14:09:01.000Z",
+    "first_run_id": 29440658,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zuuz-Stormrage",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:08:31.000Z",
+    "first_run_id": 29473830,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kulifap-Mal'Ganis",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:08:31.000Z",
+    "first_run_id": 29473830,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Mirithel-Stormrage",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:08:31.000Z",
+    "first_run_id": 29473830,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nihilithism-Proudmoore",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:08:31.000Z",
+    "first_run_id": 29473830,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bullzzeye-Stormreaver",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:33:43.000Z",
+    "first_run_id": 29369258,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kogeth-Area 52",
+    "dungeon_name": "Halls of Atonement",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:33:43.000Z",
+    "first_run_id": 29369258,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Schudru-Illidan",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:40:50.000Z",
+    "first_run_id": 29392671,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nicepallyup-Stormrage",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:40:50.000Z",
+    "first_run_id": 29392671,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nohunt-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:40:50.000Z",
+    "first_run_id": 29392671,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Narjes-Nemesis",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:17:59.000Z",
+    "first_run_id": 29442872,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zygunda-Illidan",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:17:59.000Z",
+    "first_run_id": 29442872,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Anubizs-Thrall",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:17:59.000Z",
+    "first_run_id": 29442872,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dandyci-Azralon",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:17:59.000Z",
+    "first_run_id": 29442872,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Somzilla-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:25:20.000Z",
+    "first_run_id": 29429673,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Atenay-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:25:20.000Z",
+    "first_run_id": 29429673,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Xerase-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:25:20.000Z",
+    "first_run_id": 29429673,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Brathw-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:25:20.000Z",
+    "first_run_id": 29429673,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jxkey-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:25:20.000Z",
+    "first_run_id": 29429673,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ézc-Stormrage",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T15:37:57.000Z",
+    "first_run_id": 29470805,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bluèè-Stormrage",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T15:37:57.000Z",
+    "first_run_id": 29470805,
+    "completion_count": 1
+  },
+  {
+    "character_id": "AnonEB0FB48-Anonymous",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:31:08.000Z",
+    "first_run_id": 29406520,
+    "completion_count": 2
+  },
+  {
+    "character_id": "Megadhz-Area 52",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T15:37:57.000Z",
+    "first_run_id": 29470805,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Whitemanqt-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:30:24.000Z",
+    "first_run_id": 29389558,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Flawss-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:30:24.000Z",
+    "first_run_id": 29389558,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Näk-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:30:24.000Z",
+    "first_run_id": 29389558,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Elwhy-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:30:24.000Z",
+    "first_run_id": 29389558,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shidz-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:30:24.000Z",
+    "first_run_id": 29389558,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shungybungy-Stormrage",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:31:08.000Z",
+    "first_run_id": 29406520,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Corodk-Emerald Dream",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:31:08.000Z",
+    "first_run_id": 29406520,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cute-Greymane",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:31:08.000Z",
+    "first_run_id": 29406520,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jerons-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:29:01.000Z",
+    "first_run_id": 29463712,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Aliveevil-Illidan",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:54:45.000Z",
+    "first_run_id": 29378937,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tokkie-Barthilas",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:54:45.000Z",
+    "first_run_id": 29378937,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jbug-Illidan",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:54:45.000Z",
+    "first_run_id": 29378937,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Samchidk-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:03:10.000Z",
+    "first_run_id": 29410480,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Moximus-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:03:10.000Z",
+    "first_run_id": 29410480,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vicibrownie-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:03:10.000Z",
+    "first_run_id": 29410480,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dabroski-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:03:10.000Z",
+    "first_run_id": 29410480,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Deathful-Aegwynn",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:48:10.000Z",
+    "first_run_id": 29376794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Autumnwindz-Area 52",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:48:10.000Z",
+    "first_run_id": 29376794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jediyuh-Icecrown",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:48:10.000Z",
+    "first_run_id": 29376794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nynaxx-Stormrage",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:48:10.000Z",
+    "first_run_id": 29376794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jacemage-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:38:38.000Z",
+    "first_run_id": 29373692,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ashanaris-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:38:38.000Z",
+    "first_run_id": 29373692,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ainchase-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:38:38.000Z",
+    "first_run_id": 29373692,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bøggie-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:38:38.000Z",
+    "first_run_id": 29373692,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Danqt-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:38:38.000Z",
+    "first_run_id": 29373692,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dukkie-Area 52",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:36:27.000Z",
+    "first_run_id": 29465793,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Grippycooch-Barthilas",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:36:27.000Z",
+    "first_run_id": 29465793,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Pisslowpeter-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:36:27.000Z",
+    "first_run_id": 29465793,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Juicygo-Frostmourne",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:36:27.000Z",
+    "first_run_id": 29465793,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Phey-Illidan",
+    "dungeon_name": "Operation: Floodgate",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:36:27.000Z",
+    "first_run_id": 29465793,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zepherousdk-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:59:58.000Z",
+    "first_run_id": 29409873,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rainons-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:59:58.000Z",
+    "first_run_id": 29409873,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shawruss-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:59:58.000Z",
+    "first_run_id": 29409873,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kaldhunt-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:59:58.000Z",
+    "first_run_id": 29409873,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Garchomprock-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:59:58.000Z",
+    "first_run_id": 29409873,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Infliktd-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T12:38:08.000Z",
+    "first_run_id": 29418254,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vbdk-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T12:38:08.000Z",
+    "first_run_id": 29418254,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Momolicious-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T12:38:08.000Z",
+    "first_run_id": 29418254,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Onlymarks-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T12:38:08.000Z",
+    "first_run_id": 29418254,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Qqxc-Illidan",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:05:18.000Z",
+    "first_run_id": 29474319,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Yaoshiheile-Illidan",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:05:18.000Z",
+    "first_run_id": 29474319,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Apexdk-Mal'Ganis",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:05:18.000Z",
+    "first_run_id": 29474319,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Swëëtpizza-Tichondrius",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:05:18.000Z",
+    "first_run_id": 29474319,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Netrol-Area 52",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:05:18.000Z",
+    "first_run_id": 29474319,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kastrophyc-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:13:07.000Z",
+    "first_run_id": 29383690,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Yamatekudasi-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:13:07.000Z",
+    "first_run_id": 29383690,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Restoro-Jubei'Thos",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:13:07.000Z",
+    "first_run_id": 29383690,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Swibsy-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:13:07.000Z",
+    "first_run_id": 29383690,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sooniiz-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T10:13:07.000Z",
+    "first_run_id": 29383690,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Whitemanqt-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:14:09.000Z",
+    "first_run_id": 29401284,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Flawss-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:14:09.000Z",
+    "first_run_id": 29401284,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Näk-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:14:09.000Z",
+    "first_run_id": 29401284,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Elwhy-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:14:09.000Z",
+    "first_run_id": 29401284,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shidz-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:14:09.000Z",
+    "first_run_id": 29401284,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Deathful-Aegwynn",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:11:26.000Z",
+    "first_run_id": 29366469,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Húntèr-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:11:26.000Z",
+    "first_run_id": 29366469,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Longicorn-Aman'Thul",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:11:26.000Z",
+    "first_run_id": 29366469,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vicibrownie-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:11:26.000Z",
+    "first_run_id": 29366469,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Gunneemama-Kil'jaeden",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:31:29.000Z",
+    "first_run_id": 29423946,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Juicygo-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:31:29.000Z",
+    "first_run_id": 29423946,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Solodk-Bonechewer",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:31:29.000Z",
+    "first_run_id": 29423946,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Phey-Illidan",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:31:29.000Z",
+    "first_run_id": 29423946,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dkwingk-Tichondrius",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:45:25.000Z",
+    "first_run_id": 29423561,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Manaislife-Barthilas",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:09:58.000Z",
+    "first_run_id": 29411551,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Surfnturf-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:09:58.000Z",
+    "first_run_id": 29411551,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Chappersxx-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:09:58.000Z",
+    "first_run_id": 29411551,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Attachpriest-Khaz'goroth",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:09:58.000Z",
+    "first_run_id": 29411551,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Aryee-Frostmourne",
+    "dungeon_name": "Priory of the Sacred Flame",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T12:09:58.000Z",
+    "first_run_id": 29411551,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Blinddk-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:34:55.000Z",
+    "first_run_id": 29405322,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Noct-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:34:55.000Z",
+    "first_run_id": 29405322,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zdksz-Illidan",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T15:00:08.000Z",
+    "first_run_id": 29455675,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ainchase-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:27.000Z",
+    "first_run_id": 29367183,
+    "completion_count": 2
+  },
+  {
+    "character_id": "Moonyw-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T12:00:36.000Z",
+    "first_run_id": 29412917,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Damw-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T12:00:36.000Z",
+    "first_run_id": 29412917,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Danqt-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T12:00:36.000Z",
+    "first_run_id": 29412917,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zephranê-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:13:40.000Z",
+    "first_run_id": 29374980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Muk-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:13:40.000Z",
+    "first_run_id": 29374980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zolbloom-Barthilas",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:13:40.000Z",
+    "first_run_id": 29374980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Isoshot-Jubei'Thos",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:13:40.000Z",
+    "first_run_id": 29374980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Silkyqt-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:21:59.000Z",
+    "first_run_id": 29477364,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Necrofrost-Barthilas",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:21:59.000Z",
+    "first_run_id": 29477364,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Juumong-Barthilas",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:49:00.000Z",
+    "first_run_id": 29458126,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Akgamishanks-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:49:00.000Z",
+    "first_run_id": 29458126,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zeroapm-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:49:00.000Z",
+    "first_run_id": 29458126,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kigonplague-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:49:00.000Z",
+    "first_run_id": 29458126,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cloudshade-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T14:49:00.000Z",
+    "first_run_id": 29458126,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ganin-Dreadmaul",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:20:42.000Z",
+    "first_run_id": 29402817,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Deathknightj-Barthilas",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:20:42.000Z",
+    "first_run_id": 29402817,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Stmz-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:20:42.000Z",
+    "first_run_id": 29402817,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vamoo-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:20:42.000Z",
+    "first_run_id": 29402817,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kakksh-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:20:42.000Z",
+    "first_run_id": 29402817,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Agravaine-Barthilas",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:27.000Z",
+    "first_run_id": 29367183,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ïdril-Silvermoon",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:27.000Z",
+    "first_run_id": 29367183,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ashanaris-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:27.000Z",
+    "first_run_id": 29367183,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bøggie-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:27.000Z",
+    "first_run_id": 29367183,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zolivia-Khaz'goroth",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:24:20.000Z",
+    "first_run_id": 29374988,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kakksh-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:24:20.000Z",
+    "first_run_id": 29374988,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Salyre-Frostmourne",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:24:20.000Z",
+    "first_run_id": 29374988,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Gigaathicc-Barthilas",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:24:20.000Z",
+    "first_run_id": 29374988,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Gotark-Stormrage",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:46:41.000Z",
+    "first_run_id": 29468331,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Quetzlock-Illidan",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:46:41.000Z",
+    "first_run_id": 29468331,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cleevh-Zul'jin",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:46:41.000Z",
+    "first_run_id": 29468331,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tenbag-Stormrage",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:47:02.000Z",
+    "first_run_id": 29476352,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Carthurg-Illidan",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:47:02.000Z",
+    "first_run_id": 29476352,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Palitini-Illidan",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:47:02.000Z",
+    "first_run_id": 29476352,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Baeleaf-Area 52",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:36:25.000Z",
+    "first_run_id": 29405572,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Hangatyr-Illidan",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:36:25.000Z",
+    "first_run_id": 29405572,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Celedria-Illidan",
+    "dungeon_name": "Tazavesh: So'leah's Gambit",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:36:25.000Z",
+    "first_run_id": 29405572,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Thiccshaké-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:25:18.000Z",
+    "first_run_id": 29409343,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Smorc-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:25:18.000Z",
+    "first_run_id": 29409343,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Coffee-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:25:18.000Z",
+    "first_run_id": 29409343,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Skewy-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:25:18.000Z",
+    "first_run_id": 29409343,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Frogkisser-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T11:25:18.000Z",
+    "first_run_id": 29409343,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Booze-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:03:18.000Z",
+    "first_run_id": 29374979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Musc-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:03:18.000Z",
+    "first_run_id": 29374979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Helpwarr-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:03:18.000Z",
+    "first_run_id": 29374979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lightstepdru-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 20,
+    "first_completed": "2025-10-25T09:03:18.000Z",
+    "first_run_id": 29374979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shieldsedrud-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:50:37.000Z",
+    "first_run_id": 29377690,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Pathaelex-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T09:50:37.000Z",
+    "first_run_id": 29377690,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Anon775FBC8-Anonymous",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:14.000Z",
+    "first_run_id": 29363342,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bloodymural-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:14.000Z",
+    "first_run_id": 29363342,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Gaydwarf-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:14.000Z",
+    "first_run_id": 29363342,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jimmyhunter-Ragnaros",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:52:14.000Z",
+    "first_run_id": 29363342,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Fwishaman-Thrall",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:44:08.000Z",
+    "first_run_id": 29362187,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Maset-Thrall",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:44:08.000Z",
+    "first_run_id": 29362187,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Trenblasterx-Thrall",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:44:08.000Z",
+    "first_run_id": 29362187,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Enzu-Thrall",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:44:08.000Z",
+    "first_run_id": 29362187,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nymaris-Moon Guard",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:44:08.000Z",
+    "first_run_id": 29362187,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sardito-Azralon",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:19:59.000Z",
+    "first_run_id": 29476955,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Thundyclaps-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:19:59.000Z",
+    "first_run_id": 29476955,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tooti-Icecrown",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T16:19:59.000Z",
+    "first_run_id": 29476955,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Brigzz-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:51:04.000Z",
+    "first_run_id": 29366264,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Mahimahi-Saurfang",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:51:04.000Z",
+    "first_run_id": 29366264,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Seedhorse-Illidan",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:13:00.000Z",
+    "first_run_id": 29458953,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Samchidk-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:13:00.000Z",
+    "first_run_id": 29458953,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Palitini-Illidan",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:13:00.000Z",
+    "first_run_id": 29458953,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Pallypowar-Zul'jin",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:39:42.000Z",
+    "first_run_id": 29363704,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rïzu-Tichondrius",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:39:42.000Z",
+    "first_run_id": 29363704,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Valdorback-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:39:42.000Z",
+    "first_run_id": 29363704,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bushinai-Barthilas",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T14:37:02.000Z",
+    "first_run_id": 29448134,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bombbabe-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T14:37:02.000Z",
+    "first_run_id": 29448134,
+    "completion_count": 1
+  },
+  {
+    "character_id": "AnonDB2B8E9-Anonymous",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T14:37:02.000Z",
+    "first_run_id": 29448134,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Akgamishanks-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:59:24.000Z",
+    "first_run_id": 29471252,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Anneka-Thaurissan",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:59:24.000Z",
+    "first_run_id": 29471252,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Deathknightj-Barthilas",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:45:41.000Z",
+    "first_run_id": 29393968,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Stmz-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:45:41.000Z",
+    "first_run_id": 29393968,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vamoo-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:45:41.000Z",
+    "first_run_id": 29393968,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kakksh-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:45:41.000Z",
+    "first_run_id": 29393968,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Narancia-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:56:10.000Z",
+    "first_run_id": 29470716,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zenricksheel-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:56:10.000Z",
+    "first_run_id": 29470716,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dreadbeàrd-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:56:10.000Z",
+    "first_run_id": 29470716,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Salomé-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:56:10.000Z",
+    "first_run_id": 29470716,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ccunter-Garrosh",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T15:56:10.000Z",
+    "first_run_id": 29470716,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Autumnwindz-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:04:51.000Z",
+    "first_run_id": 29365409,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Xyalari-Mal'Ganis",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:04:51.000Z",
+    "first_run_id": 29365409,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lockandballs-Mal'Ganis",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:04:51.000Z",
+    "first_run_id": 29365409,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nynaxx-Stormrage",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:04:51.000Z",
+    "first_run_id": 29365409,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dermago-Area 52",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:04:51.000Z",
+    "first_run_id": 29365409,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ikuyot-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:05:54.000Z",
+    "first_run_id": 29381845,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ily-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:05:54.000Z",
+    "first_run_id": 29381845,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rainfalls-Mal'Ganis",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:01:51.000Z",
+    "first_run_id": 29364760,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Imite-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:01:51.000Z",
+    "first_run_id": 29364760,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cindyx-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:01:51.000Z",
+    "first_run_id": 29364760,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Moonpala-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:18:42.000Z",
+    "first_run_id": 29427812,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Priestycles-Tichondrius",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:18:42.000Z",
+    "first_run_id": 29427812,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Laycedw-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:18:42.000Z",
+    "first_run_id": 29427812,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nateynight-Frostmourne",
+    "dungeon_name": "Tazavesh: Streets of Wonder",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T13:18:42.000Z",
+    "first_run_id": 29427812,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bagzyy-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:50:57.000Z",
+    "first_run_id": 29408190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Àzunadk-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:50:57.000Z",
+    "first_run_id": 29408190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tamer-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:50:57.000Z",
+    "first_run_id": 29408190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cuteanimegrl-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:50:57.000Z",
+    "first_run_id": 29408190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kaddisblack-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T11:50:57.000Z",
+    "first_run_id": 29408190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zephranê-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:42:01.000Z",
+    "first_run_id": 29367221,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Muk-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:42:01.000Z",
+    "first_run_id": 29367221,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shipkaa-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:42:01.000Z",
+    "first_run_id": 29367221,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zolbloom-Barthilas",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:42:01.000Z",
+    "first_run_id": 29367221,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Isoshot-Jubei'Thos",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T08:42:01.000Z",
+    "first_run_id": 29367221,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Hahabeamxd-Illidan",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:37:38.000Z",
+    "first_run_id": 29432794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Whitemourne-Azralon",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:37:38.000Z",
+    "first_run_id": 29432794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ruiivinha-Stormrage",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:37:38.000Z",
+    "first_run_id": 29432794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Swëëtpizza-Tichondrius",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:37:38.000Z",
+    "first_run_id": 29432794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Netrol-Area 52",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 19,
+    "first_completed": "2025-10-25T13:37:38.000Z",
+    "first_run_id": 29432794,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Narchunt-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:22:36.000Z",
+    "first_run_id": 29403246,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Snowyuki-Barthilas",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:22:36.000Z",
+    "first_run_id": 29403246,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Necrofrost-Barthilas",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:22:36.000Z",
+    "first_run_id": 29403246,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Phey-Illidan",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T11:22:36.000Z",
+    "first_run_id": 29403246,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Knshn-Ragnaros",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:11:17.000Z",
+    "first_run_id": 29476384,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Heloreindeer-Tichondrius",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:11:17.000Z",
+    "first_run_id": 29476384,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zblacker-Illidan",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:11:17.000Z",
+    "first_run_id": 29476384,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Erisgr-Sargeras",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:11:17.000Z",
+    "first_run_id": 29476384,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ihatekeys-Area 52",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T09:01:49.000Z",
+    "first_run_id": 29364723,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sardine-Thunderhorn",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:44:36.000Z",
+    "first_run_id": 29362233,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Môzzie-Area 52",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T08:44:36.000Z",
+    "first_run_id": 29362233,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ggmaterial-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:04:37.000Z",
+    "first_run_id": 29472691,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ducklet-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:04:37.000Z",
+    "first_run_id": 29472691,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kacey-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:04:37.000Z",
+    "first_run_id": 29472691,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lavacoco-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:04:37.000Z",
+    "first_run_id": 29472691,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Faifagreen-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:04:37.000Z",
+    "first_run_id": 29472691,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Xrdan-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:42:01.000Z",
+    "first_run_id": 29392979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Angrydduk-Tichondrius",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:42:01.000Z",
+    "first_run_id": 29392979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Salyre-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:42:01.000Z",
+    "first_run_id": 29392979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vicibrownie-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:42:01.000Z",
+    "first_run_id": 29392979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Omur-Frostmourne",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T10:42:01.000Z",
+    "first_run_id": 29392979,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Stphunt-Illidan",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:24:02.000Z",
+    "first_run_id": 29477805,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tugglez-Area 52",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:24:02.000Z",
+    "first_run_id": 29477805,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Chahaee-Stormrage",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:24:02.000Z",
+    "first_run_id": 29477805,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Evaelfie-Jubei'Thos",
+    "dungeon_name": "The Dawnbreaker",
+    "difficulty_level": 18,
+    "first_completed": "2025-10-25T16:24:02.000Z",
+    "first_run_id": 29477805,
     "completion_count": 1
   }
 ]
