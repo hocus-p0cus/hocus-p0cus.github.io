@@ -7,8 +7,8 @@ This is a static web app that displays Mythic+ dungeon run reports based on data
  - **Region**: EU | **Number of fetched runs**: 42463 | **Last Updated**: August 7, 2025
  - **Region**: NA | **Number of fetched runs**: 28457 | **Last Updated**: August 7, 2025
 ##### TWW Season 3
- - **Region**: EU | **Number of fetched runs**: 29698 | **Last Updated**: November 2, 2025
- - **Region**: NA | **Number of fetched runs**: 13864 | **Last Updated**: November 2, 2025
+ - **Region**: EU | **Number of fetched runs**: 29748 | **Last Updated**: November 2, 2025
+ - **Region**: NA | **Number of fetched runs**: 14210 | **Last Updated**: November 2, 2025
 
 ### 🔍 Features
  - Displays highest and second-highest key levels per dungeon for a specific character
