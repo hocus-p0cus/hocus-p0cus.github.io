@@ -260,6 +260,32 @@ document.addEventListener("DOMContentLoaded", async () => {
   await loadDungeons();
   populateRealmSuggestions();
 
+  // Parse URL query parameters
+  const params = new URLSearchParams(window.location.search);
+  const nameParam = params.get("character");
+  const realmParam = params.get("realm");
+  const regionParam = params.get("region");
+  const seasonParam = params.get("season");
+
+  if (seasonParam) {
+    await setSeason(seasonParam);
+  }
+
+  if (regionParam) {
+    const regionSelect = document.getElementById("region");
+    if (regionSelect) regionSelect.value = regionParam.toLowerCase();
+  }
+
+  if (nameParam && realmParam) {
+    switchInputMode("manual");
+    document.getElementById("name").value = nameParam;
+    document.getElementById("realm").value = realmParam;
+
+    // Wait for realms to populate before generating
+    await new Promise(r => setTimeout(r, 200));
+    await generateReport();
+  }
+
   document.addEventListener("paste", async (event) => {
 
     const activeElement = document.activeElement;
