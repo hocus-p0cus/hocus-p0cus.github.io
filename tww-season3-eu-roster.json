@@ -329007,5 +329007,35 @@
       "Vgfastest-Twisting Nether",
       "Ordulio-Sanguino"
     ]
+  },
+  {
+    "run_id": 32484273,
+    "character_ids": [
+      "Justchad-Kazzak",
+      "Kelleriser-Ragnaros",
+      "Epiroul-Hyjal",
+      "Eirella-Silvermoon",
+      "Purgethis-Kazzak"
+    ]
+  },
+  {
+    "run_id": 32484006,
+    "character_ids": [
+      "Залупин-Howling Fjord",
+      "Xenxen-Hyjal",
+      "Dlkeydh-Stormscale",
+      "Dolboeb-Kazzak",
+      "Tabazpill-Kazzak"
+    ]
+  },
+  {
+    "run_id": 32484023,
+    "character_ids": [
+      "Jinx-Defias Brotherhood",
+      "Skyguyy-Ravencrest",
+      "Nerzx-Draenor",
+      "Tchsashgft-Defias Brotherhood",
+      "Undestro-Defias Brotherhood"
+    ]
   }
 ]
