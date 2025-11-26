@@ -509267,5 +509267,95 @@
       "Zarchik-Draenor",
       "Иксайз-Howling Fjord"
     ]
+  },
+  {
+    "run_id": 36431883,
+    "character_ids": [
+      "Frements-Stormreaver",
+      "Enchisedmy-Stormreaver",
+      "Santaignites-Stormreaver",
+      "Prognana-The Maelstrom",
+      "Кайура-Howling Fjord"
+    ]
+  },
+  {
+    "run_id": 36391513,
+    "character_ids": [
+      "Mandariâ-Eredar",
+      "Игорьвихрь-Gordunni",
+      "Timodk-Stormscale",
+      "Джагмент-Gordunni",
+      "Ebuha-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 36442406,
+    "character_ids": [
+      "Lemonvyo-Ysondre",
+      "Лерионн-Gordunni",
+      "Янезнаю-Gordunni",
+      "Peukkupete-Argent Dawn",
+      "Biwaahunt-Ner'zhul"
+    ]
+  },
+  {
+    "run_id": 36392671,
+    "character_ids": [
+      "Draus-Blackhand",
+      "Lightblooms-Tarren Mill",
+      "Gartman-Blackrock",
+      "Bustamovesx-Twisting Nether",
+      "Clapham-Stormscale"
+    ]
+  },
+  {
+    "run_id": 36392929,
+    "character_ids": [
+      "Scrapps-Stormscale",
+      "Ledonk-Draenor",
+      "Dismiss-Antonidas",
+      "Annehathaway-Silvermoon",
+      "Priceyythree-Twisting Nether"
+    ]
+  },
+  {
+    "run_id": 36390718,
+    "character_ids": [
+      "Bigcrusher-Kazzak",
+      "Unfortunate-Nemesis",
+      "Yoc-Hyjal",
+      "Babymochi-Twisting Nether",
+      "Çhieefi-Thrall"
+    ]
+  },
+  {
+    "run_id": 36391807,
+    "character_ids": [
+      "Жижарефлект-Howling Fjord",
+      "Dikash-Tarren Mill",
+      "Kaludk-Kazzak",
+      "Quankk-Blackhand",
+      "Critorquit-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 36440014,
+    "character_ids": [
+      "Thorosár-Blackrock",
+      "Солление-Gordunni",
+      "Glevenson-Antonidas",
+      "Olivergus-Outland",
+      "Rammoskebab-Eredar"
+    ]
+  },
+  {
+    "run_id": 36420486,
+    "character_ids": [
+      "Pêêrcin-Thrall",
+      "Mundlshamy-Blackhand",
+      "Shaowi-Blackhand",
+      "Elsharia-Blackhand",
+      "Subbok-Kazzak"
+    ]
   }
 ]
