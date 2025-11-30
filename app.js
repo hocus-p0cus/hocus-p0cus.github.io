@@ -6,6 +6,7 @@ let DUNGEON_ICONS = {};
 let slugMapping = null;
 let currentMode = "link";
 let currentSeason = "tww-season3";
+let isGenerating = false; // Add flag to prevent concurrent generations
 
 async function loadDungeons() {
   DUNGEONS = await fetch(`dungeons-${currentSeason}.json`).then(res => res.json());
@@ -119,9 +120,14 @@ function toRaiderIoSlug(seasonKey) {
 }
 
 async function generateReport() {
+  // Prevent concurrent executions
+  if (isGenerating) return;
+  isGenerating = true;
 
   const mode = currentMode;
   const resultDiv = document.getElementById("result");
+  
+  // Clear results immediately to prevent duplicates
   resultDiv.innerHTML = "";
 
   let name, realm, region;
@@ -134,6 +140,7 @@ async function generateReport() {
 
     if (!name || !realm) {
       resultDiv.innerHTML = "<p>Enter both character and realm name.</p>";
+      isGenerating = false;
       return;
     }
 
@@ -143,6 +150,7 @@ async function generateReport() {
 
     if (!match) {
       resultDiv.innerHTML = "<p>Invalid Raider.IO profile link.</p>";
+      isGenerating = false;
       return;
     }
 
@@ -155,6 +163,7 @@ async function generateReport() {
 
     if (!realm) {
       resultDiv.innerHTML = `<p>Unknown realm slug: ${slug}</p>`;
+      isGenerating = false;
       return;
     }
   }
@@ -163,10 +172,13 @@ async function generateReport() {
 
   if (!name || !realm) {
     resultDiv.innerHTML = "<p>Enter both character and realm name.</p>";
+    isGenerating = false;
     return;
   }
 
-  loadRegionData(region).then(({ stats, roster }) => {
+  try {
+    const { stats, roster } = await loadRegionData(region);
+    
     const charStats = stats.filter(
       entry => entry.character_id.toLocaleLowerCase() === characterKey.toLocaleLowerCase()
     );
@@ -253,7 +265,9 @@ async function generateReport() {
         </div>
       `;
     });
-  });
+  } finally {
+    isGenerating = false;
+  }
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
