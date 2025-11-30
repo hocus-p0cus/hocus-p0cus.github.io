@@ -6,7 +6,7 @@ let DUNGEON_ICONS = {};
 let slugMapping = null;
 let currentMode = "link";
 let currentSeason = "tww-season3";
-let isGenerating = false; // Add flag to prevent concurrent generations
+let isGenerating = false;
 
 async function loadDungeons() {
   DUNGEONS = await fetch(`dungeons-${currentSeason}.json`).then(res => res.json());
@@ -17,7 +17,6 @@ async function loadDungeons() {
 
   return { DUNGEONS, DUNGEON_ICONS };
 }
-
 
 async function loadSlugMapping() {
   if (slugMapping) return Promise.resolve(slugMapping);
@@ -44,6 +43,39 @@ async function populateRealmSuggestions() {
   }
 }
 
+// Preprocess raw data into efficient lookup structures
+function preprocessData(stats, roster) {
+  // Character stats: Map<character_id, Map<dungeon_name, Array<entry>>>
+  const characterStats = new Map();
+  
+  for (const entry of stats) {
+    const charId = entry.character_id.toLowerCase();
+    
+    if (!characterStats.has(charId)) {
+      characterStats.set(charId, new Map());
+    }
+    
+    const dungeonMap = characterStats.get(charId);
+    if (!dungeonMap.has(entry.dungeon_name)) {
+      dungeonMap.set(entry.dungeon_name, []);
+    }
+    
+    dungeonMap.get(entry.dungeon_name).push(entry);
+  }
+  
+  // Roster lookup: Map<run_id, Set<character_id>>
+  const rosterByRunId = new Map();
+  
+  for (const rosterEntry of roster) {
+    rosterByRunId.set(
+      rosterEntry.run_id,
+      new Set(rosterEntry.character_ids.map(id => id.toLowerCase()))
+    );
+  }
+  
+  return { characterStats, rosterByRunId };
+}
+
 function loadRegionData(region) {
   const key = `${currentSeason}-${region}`;
   if (dataByRegion[key]) {
@@ -54,13 +86,19 @@ function loadRegionData(region) {
     fetch(`${currentSeason}-${region}-character_dungeon_stats.json`).then(res => res.json()),
     fetch(`${currentSeason}-${region}-roster.json`).then(res => res.json())
   ]).then(([stats, roster]) => {
-    dataByRegion[key] = { stats, roster };
+    // Preprocess data immediately after loading
+    const processed = preprocessData(stats, roster);
+    dataByRegion[key] = {
+      stats,
+      roster,
+      characterStats: processed.characterStats,
+      rosterByRunId: processed.rosterByRunId
+    };
     return dataByRegion[key];
   });
 }
 
 async function setSeason(season) {
-  //if (currentSeason == season) return;
   currentSeason = season;
   await loadDungeons();
 
@@ -70,21 +108,32 @@ async function setSeason(season) {
   generateReport();
 }
 
-function resilientKeyLevel(stats, characterId, timestamp) {
+// Optimized resilient key level calculation using preprocessed data
+function resilientKeyLevel(characterStats, characterId, timestamp) {
+  const charId = characterId.toLowerCase();
+  const dungeonMap = characterStats.get(charId);
+  
+  if (!dungeonMap) return 0;
+  
   const levels = [];
-
+  
   for (const dungeon of DUNGEONS) {
-    const entries = stats.filter(
-      e => e.character_id === characterId &&
-           e.dungeon_name === dungeon &&
-           e.first_completed < timestamp
-    );
-
-    const best = entries.reduce((max, e) => Math.max(max, e.difficulty_level), 0);
+    const entries = dungeonMap.get(dungeon);
+    
+    if (!entries) return 0;
+    
+    // Find best level completed before timestamp
+    let best = 0;
+    for (const entry of entries) {
+      if (entry.first_completed < timestamp) {
+        best = Math.max(best, entry.difficulty_level);
+      }
+    }
+    
     if (best === 0) return 0;
     levels.push(best);
   }
-
+  
   return levels.length ? Math.min(...levels) : 0;
 }
 
@@ -120,21 +169,17 @@ function toRaiderIoSlug(seasonKey) {
 }
 
 async function generateReport() {
-  // Prevent concurrent executions
   if (isGenerating) return;
   isGenerating = true;
 
   const mode = currentMode;
   const resultDiv = document.getElementById("result");
-  
-  // Clear results immediately to prevent duplicates
   resultDiv.innerHTML = "";
 
   let name, realm, region;
 
   if (mode === "manual") {
-
-    name = document.getElementById("name").value.trim().toLocaleLowerCase();
+    name = document.getElementById("name").value.trim().toLowerCase();
     realm = document.getElementById("realm").value.trim();
     region = document.getElementById("region").value;
 
@@ -143,7 +188,6 @@ async function generateReport() {
       isGenerating = false;
       return;
     }
-
   } else {
     const link = document.getElementById("profile-link").value.trim();
     const match = link.match(/^(?:https?:\/\/)?raider\.io\/characters\/(eu|us)\/([^\/]+)\/([^\/?#]+)/i);
@@ -155,7 +199,7 @@ async function generateReport() {
     }
 
     region = match[1].toLowerCase() === "us" ? "na" : match[1].toLowerCase();
-    const slug = decodeURIComponent(match[2].toLocaleLowerCase());
+    const slug = decodeURIComponent(match[2].toLowerCase());
     name = decodeURIComponent(match[3].toLowerCase());
 
     const mapping = await loadSlugMapping();
@@ -177,48 +221,58 @@ async function generateReport() {
   }
 
   try {
-    const { stats, roster } = await loadRegionData(region);
+    const { characterStats, rosterByRunId } = await loadRegionData(region);
     
-    const charStats = stats.filter(
-      entry => entry.character_id.toLocaleLowerCase() === characterKey.toLocaleLowerCase()
-    );
+    const charId = characterKey.toLowerCase();
+    const dungeonMap = characterStats.get(charId);
+    
+    if (!dungeonMap) {
+      resultDiv.innerHTML = "<p>No data found for this character.</p>";
+      return;
+    }
 
     const report = DUNGEONS.map(dungeon => {
-      const entries = charStats.filter(entry => entry.dungeon_name === dungeon);
+      const entries = dungeonMap.get(dungeon);
 
-      if (entries.length === 0) {
+      if (!entries || entries.length === 0) {
         return {
           dungeon,
           runs: []
         };
       }
 
-      const grouped = {};
+      // Group by difficulty level
+      const grouped = new Map();
       for (const entry of entries) {
-        if (!grouped[entry.difficulty_level]) {
-          grouped[entry.difficulty_level] = [];
+        if (!grouped.has(entry.difficulty_level)) {
+          grouped.set(entry.difficulty_level, []);
         }
-        grouped[entry.difficulty_level].push(entry);
+        grouped.get(entry.difficulty_level).push(entry);
       }
 
-      const sortedLevels = Object.keys(grouped)
-        .map(Number)
-        .sort((a, b) => b - a);
-
+      // Get top 2 levels
+      const sortedLevels = Array.from(grouped.keys()).sort((a, b) => b - a);
       const topTwo = sortedLevels.slice(0, 2);
 
       const bestRuns = topTwo.map(level => {
-        const runsAtLevel = grouped[level];
+        const runsAtLevel = grouped.get(level);
         runsAtLevel.sort((a, b) => new Date(a.first_completed) - new Date(b.first_completed));
         const best = runsAtLevel[0];
 
-        const rosterEntries = roster.filter(r => r.run_id === best.first_run_id);
-        const rosterChars = rosterEntries.length > 0 ? rosterEntries[0].character_ids : [];
-
-        const countResilient = rosterChars.filter(id =>
-          id.toLocaleLowerCase() !== characterKey.toLocaleLowerCase() &&
-          resilientKeyLevel(stats, id, best.first_completed) >= level
-        ).length;
+        // Fast roster lookup
+        const rosterChars = rosterByRunId.get(best.first_run_id);
+        
+        let countResilient = 0;
+        if (rosterChars) {
+          for (const rosterId of rosterChars) {
+            if (rosterId !== charId) {
+              const resilientLevel = resilientKeyLevel(characterStats, rosterId, best.first_completed);
+              if (resilientLevel >= level) {
+                countResilient++;
+              }
+            }
+          }
+        }
 
         return {
           level,
@@ -274,7 +328,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   await loadDungeons();
   populateRealmSuggestions();
 
-  // Parse URL query parameters
   const params = new URLSearchParams(window.location.search);
   const nameParam = params.get("character");
   const realmParam = params.get("realm");
@@ -295,13 +348,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     document.getElementById("name").value = nameParam;
     document.getElementById("realm").value = realmParam;
 
-    // Wait for realms to populate before generating
     await new Promise(r => setTimeout(r, 200));
     await generateReport();
   }
 
   document.addEventListener("paste", async (event) => {
-
     const activeElement = document.activeElement;
 
     if (activeElement.tagName === "INPUT" || activeElement.tagName === "TEXTAREA") {
