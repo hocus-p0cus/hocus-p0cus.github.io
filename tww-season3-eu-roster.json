@@ -673453,5 +673453,45 @@
       "Héliös-Dalaran",
       "Airelladk-Tarren Mill"
     ]
+  },
+  {
+    "run_id": 40086896,
+    "character_ids": [
+      "Lilee-Kazzak",
+      "Nàgasiren-Draenor",
+      "Jellyhunter-Blackhand",
+      "Ezrealfrost-Silvermoon",
+      "Kpmg-Archimonde"
+    ]
+  },
+  {
+    "run_id": 40085144,
+    "character_ids": [
+      "Nâmï-Silvermoon",
+      "Artasham-Ravencrest",
+      "Solopumper-Tarren Mill",
+      "Dwarfmanesh-Ravencrest",
+      "Teeniehunter-Thrall"
+    ]
+  },
+  {
+    "run_id": 40085170,
+    "character_ids": [
+      "Twuist-Outland",
+      "Klassic-Ravencrest",
+      "Mêlîôdás-Blackhand",
+      "Mischu-Draenor",
+      "Neapoletani-Outland"
+    ]
+  },
+  {
+    "run_id": 40102316,
+    "character_ids": [
+      "Amnesìa-Magtheridon",
+      "Rullaren-Stormreaver",
+      "Relentlessdx-Tarren Mill",
+      "Toyshield-Silvermoon",
+      "Presly-Silvermoon"
+    ]
   }
 ]
