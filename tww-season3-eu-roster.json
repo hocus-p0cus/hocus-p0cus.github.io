@@ -674353,5 +674353,735 @@
       "Deathfluxx-Ragnaros",
       "Redwãter-Silvermoon"
     ]
+  },
+  {
+    "run_id": 40149702,
+    "character_ids": [
+      "Oddis-Burning Legion",
+      "Badspoonie-Kazzak",
+      "Felfreyja-Kazzak",
+      "Линтари-Howling Fjord",
+      "Pinqyou-Blackrock"
+    ]
+  },
+  {
+    "run_id": 40149408,
+    "character_ids": [
+      "Herecuzmeta-Twisting Nether",
+      "Smradochac-Drak'thul",
+      "Midnajdh-Twisting Nether",
+      "Lemoondt-Twisting Nether",
+      "Teqw-Twisting Nether"
+    ]
+  },
+  {
+    "run_id": 40156506,
+    "character_ids": [
+      "Elsaruwu-Twisting Nether",
+      "Feigndead-Kazzak",
+      "Nyxthetitan-Kazzak",
+      "Deadlavy-Kazzak",
+      "Forcedreroll-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40157834,
+    "character_ids": [
+      "Салатикок-Howling Fjord",
+      "Ladapiora-Silvermoon",
+      "Eblue-Twisting Nether",
+      "Meowus-Kazzak",
+      "Launchz-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40146992,
+    "character_ids": [
+      "Alukahr-Blackmoore",
+      "Idekwtwhwar-Silvermoon",
+      "Zheenh-Twisting Nether",
+      "Enqu-Blackrock",
+      "Meowtide-Sylvanas"
+    ]
+  },
+  {
+    "run_id": 40161379,
+    "character_ids": [
+      "Darkstance-Kazzak",
+      "Truegkiller-Silvermoon",
+      "Piremård-Silvermoon",
+      "Judithot-Doomhammer",
+      "Grâve-Ravencrest"
+    ]
+  },
+  {
+    "run_id": 40140671,
+    "character_ids": [
+      "Kuzaku-Der Mithrilorden",
+      "Solix-Der Mithrilorden",
+      "ßanshe-Kazzak",
+      "Jellyhunter-Blackhand",
+      "Egowar-Twisting Nether"
+    ]
+  },
+  {
+    "run_id": 40139584,
+    "character_ids": [
+      "Terrorbblade-Kazzak",
+      "Ðiseases-Silvermoon",
+      "Keldora-Blackmoore",
+      "Skinnywar-Ravencrest",
+      "Thunderfil-Ravencrest"
+    ]
+  },
+  {
+    "run_id": 40161494,
+    "character_ids": [
+      "Caanibalize-Antonidas",
+      "Kaêl-Tarren Mill",
+      "Jellyhunter-Blackhand",
+      "Nomrci-Silvermoon",
+      "Deathfluxx-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 40147868,
+    "character_ids": [
+      "Vitezsrpski-Sylvanas",
+      "Grokdreadeye-Twisting Nether",
+      "Aimshotxd-Kazzak",
+      "Orphanirl-Kazzak",
+      "Идайбог-Soulflayer"
+    ]
+  },
+  {
+    "run_id": 40158734,
+    "character_ids": [
+      "Sunbloom-Kazzak",
+      "Sf-Blackhand",
+      "Abdola-Kazzak",
+      "Quality-Ysondre",
+      "Deeptalk-Blackmoore"
+    ]
+  },
+  {
+    "run_id": 40165190,
+    "character_ids": [
+      "Arphelius-Draenor",
+      "Yona-Shen'dralar",
+      "Alleriahpala-Tarren Mill",
+      "Cèlestial-Draenor",
+      "Mæss-Hyjal"
+    ]
+  },
+  {
+    "run_id": 40145653,
+    "character_ids": [
+      "Artesto-Skullcrusher",
+      "Pandemonium-Azjol-Nerub",
+      "Razbitum-Culte de la Rive noire",
+      "Softnip-Silvermoon",
+      "Monkiyasabi-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40159271,
+    "character_ids": [
+      "Altahïr-Hyjal",
+      "Oxiwar-Kazzak",
+      "AnonE7D7125-Anonymous",
+      "AnonEB12A54-Anonymous",
+      "Dwarfthegoat-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40163108,
+    "character_ids": [
+      "Findiss-Ravencrest",
+      "Nâmï-Silvermoon",
+      "Artasham-Ravencrest",
+      "Dwarfmanesh-Ravencrest",
+      "Deadlavy-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40156335,
+    "character_ids": [
+      "Amnesìa-Magtheridon",
+      "Catoftheyeet-Tarren Mill",
+      "Relentlessdh-Draenor",
+      "Rabbittwar-Silvermoon",
+      "Rullstolen-Stormreaver"
+    ]
+  },
+  {
+    "run_id": 40160930,
+    "character_ids": [
+      "Catoftheyeet-Tarren Mill",
+      "Äsura-Kazzak",
+      "Whalesome-Tarren Mill",
+      "Asaer-Kazzak",
+      "Kelac-Shattered Halls"
+    ]
+  },
+  {
+    "run_id": 40149846,
+    "character_ids": [
+      "Zenterlox-Twisting Nether",
+      "Landoe-Arathor",
+      "Ashangel-Tarren Mill",
+      "Alcò-Saurfang",
+      "Crallsdu-Blackrock"
+    ]
+  },
+  {
+    "run_id": 40155976,
+    "character_ids": [
+      "Habubenshot-Blackrock",
+      "Jquerry-Drak'thul",
+      "Vatho-Blackhand",
+      "Speëd-Ravencrest",
+      "Hawaikinui-Hyjal"
+    ]
+  },
+  {
+    "run_id": 40144155,
+    "character_ids": [
+      "Feelthepain-Doomhammer",
+      "ßøltzmann-Archimonde",
+      "Abazr-Burning Legion",
+      "Deathmatchqz-Antonidas",
+      "Conradhu-Burning Legion"
+    ]
+  },
+  {
+    "run_id": 40154541,
+    "character_ids": [
+      "Êlfêê-Sylvanas",
+      "Jellyhunter-Blackhand",
+      "Xyrthos-Draenor",
+      "Colddead-Silvermoon",
+      "Egowar-Twisting Nether"
+    ]
+  },
+  {
+    "run_id": 40147262,
+    "character_ids": [
+      "Sf-Blackhand",
+      "Nàgasiren-Draenor",
+      "Ezrealfrost-Silvermoon",
+      "Nobrainhunt-Blackhand",
+      "Kpmg-Archimonde"
+    ]
+  },
+  {
+    "run_id": 40148986,
+    "character_ids": [
+      "Aargü-Dalaran",
+      "Smolfriend-Tarren Mill",
+      "Idayanardh-Kazzak",
+      "Oldkk-Silvermoon",
+      "Pilnadaroma-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40162128,
+    "character_ids": [
+      "Findiss-Ravencrest",
+      "Nâmï-Silvermoon",
+      "Artasham-Ravencrest",
+      "Nightvp-Kazzak",
+      "Dwarfmanesh-Ravencrest"
+    ]
+  },
+  {
+    "run_id": 40143705,
+    "character_ids": [
+      "Shottgun-Kazzak",
+      "Deadlavy-Kazzak",
+      "Utsumi-Kazzak",
+      "Dwarfthegoat-Kazzak",
+      "Shalidh-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40154305,
+    "character_ids": [
+      "Jquerry-Drak'thul",
+      "Eblue-Twisting Nether",
+      "Launchz-Silvermoon",
+      "Meowcqt-Kazzak",
+      "Envoy-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40144548,
+    "character_ids": [
+      "Nahimichila-Twisting Nether",
+      "Эёльви-Howling Fjord",
+      "Alduinmonk-Silvermoon",
+      "Mortalyx-Silvermoon",
+      "Abskurial-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40151157,
+    "character_ids": [
+      "Nahimichila-Twisting Nether",
+      "Alduinmonk-Silvermoon",
+      "Mortalyx-Silvermoon",
+      "Caultsdk-Kazzak",
+      "Tigerheart-Draenor"
+    ]
+  },
+  {
+    "run_id": 40148583,
+    "character_ids": [
+      "Orcsham-Blackhand",
+      "Palpali-Kazzak",
+      "Malefîçent-Kazzak",
+      "Decayx-Silvermoon",
+      "Freyiah-Eredar"
+    ]
+  },
+  {
+    "run_id": 40143607,
+    "character_ids": [
+      "Sunda-Kor'gall",
+      "Aargü-Dalaran",
+      "Nooway-Thrall",
+      "Grillerien-Blackrock",
+      "Kuupaa-Grim Batol"
+    ]
+  },
+  {
+    "run_id": 40146056,
+    "character_ids": [
+      "Junkytank-Ragnaros",
+      "Palacute-Kazzak",
+      "Deeptalk-Blackmoore",
+      "Deadgrimoire-Silvermoon",
+      "Redwãter-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40157355,
+    "character_ids": [
+      "Meijàni-Blackmoore",
+      "Alakyra-Hyjal",
+      "Lóhis-Ravencrest",
+      "Стрессшаман-Howling Fjord",
+      "Zax-Ysondre"
+    ]
+  },
+  {
+    "run_id": 40144444,
+    "character_ids": [
+      "Vicentius-Silvermoon",
+      "Kuliz-Eredar",
+      "Outiso-Kazzak",
+      "Luciferhunt-Ragnaros",
+      "Unførgivenz-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40161370,
+    "character_ids": [
+      "Elsaruwu-Twisting Nether",
+      "Feigndead-Kazzak",
+      "Frozenbladë-Ravencrest",
+      "Artasham-Ravencrest",
+      "Dwarfmanesh-Ravencrest"
+    ]
+  },
+  {
+    "run_id": 40152555,
+    "character_ids": [
+      "Aargü-Dalaran",
+      "Rasmusgodd-Tarren Mill",
+      "Oldkk-Silvermoon",
+      "Tbdh-Silvermoon",
+      "Pilnadaroma-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40149197,
+    "character_ids": [
+      "Zujuzan-Stormscale",
+      "Beeffcake-Auchindoun",
+      "Sashastriker-Blackhand",
+      "Zenderdk-Stormscale",
+      "Sifu-C'Thun"
+    ]
+  },
+  {
+    "run_id": 40154461,
+    "character_ids": [
+      "Tianzhu-Frostwolf",
+      "Jeppesfruga-Kazzak",
+      "Cythra-Burning Legion",
+      "Migueesham-Uldum",
+      "Рэдкинс-Gordunni"
+    ]
+  },
+  {
+    "run_id": 40145890,
+    "character_ids": [
+      "Deathangelz-Kazzak",
+      "Danialwar-Silvermoon",
+      "Kuupaa-Grim Batol",
+      "Katadk-Twisting Nether",
+      "Deathmatchqz-Antonidas"
+    ]
+  },
+  {
+    "run_id": 40139653,
+    "character_ids": [
+      "Íshámaél-Draenor",
+      "Angelheal-Ravencrest",
+      "Demigodm-Blackrock",
+      "Spyshy-Silvermoon",
+      "Namichi-Archimonde"
+    ]
+  },
+  {
+    "run_id": 40154660,
+    "character_ids": [
+      "Slugmode-Kazzak",
+      "Manga-Tarren Mill",
+      "Sadfrexa-Tarren Mill",
+      "Thenansuna-Silvermoon",
+      "Peki-Blackrock"
+    ]
+  },
+  {
+    "run_id": 40152312,
+    "character_ids": [
+      "Rsnpzd-Ravencrest",
+      "Justuber-Tarren Mill",
+      "Gaàra-Silvermoon",
+      "Oldgodx-Silvermoon",
+      "Freddydk-Ravencrest"
+    ]
+  },
+  {
+    "run_id": 40142857,
+    "character_ids": [
+      "Herecuzmeta-Twisting Nether",
+      "Ezman-Twisting Nether",
+      "Midnajdh-Twisting Nether",
+      "Lemoondt-Twisting Nether",
+      "Teqw-Twisting Nether"
+    ]
+  },
+  {
+    "run_id": 40155955,
+    "character_ids": [
+      "Салатикок-Howling Fjord",
+      "Eblue-Twisting Nether",
+      "Launchz-Silvermoon",
+      "Envoy-Kazzak",
+      "Meowtide-Sylvanas"
+    ]
+  },
+  {
+    "run_id": 40144295,
+    "character_ids": [
+      "Nottorious-Draenor",
+      "Dontkilmvibe-Drak'thul",
+      "Turaknight-Archimonde",
+      "Kiasham-Silvermoon",
+      "Jeket-Pozzo dell'Eternità"
+    ]
+  },
+  {
+    "run_id": 40161295,
+    "character_ids": [
+      "Lizu-Antonidas",
+      "Fistpump-Blackrock",
+      "Thunderà-Kazzak",
+      "Talentd-Aggra (Português)",
+      "Yunowarr-Eredar"
+    ]
+  },
+  {
+    "run_id": 40165051,
+    "character_ids": [
+      "Rinn-Silvermoon",
+      "Miaomiaomiao-Draenor",
+      "Shortrageni-Draenor",
+      "Driptinus-Argent Dawn",
+      "Crackiz-Draenor"
+    ]
+  },
+  {
+    "run_id": 40160051,
+    "character_ids": [
+      "Früchtetraum-Nordrassil",
+      "Izánagi-Twisting Nether",
+      "Opopanax-Silvermoon",
+      "Schizoidman-Twisting Nether",
+      "Turtleprot-Ravencrest"
+    ]
+  },
+  {
+    "run_id": 40157909,
+    "character_ids": [
+      "Мунипусичка-Soulflayer",
+      "Rasmusgodd-Tarren Mill",
+      "Bonesmasher-Kazzak",
+      "Brokensmilee-Kazzak",
+      "Deathembrace-Antonidas"
+    ]
+  },
+  {
+    "run_id": 40143603,
+    "character_ids": [
+      "Zenterlox-Twisting Nether",
+      "Gozgodzilla-Tarren Mill",
+      "Freddydk-Ravencrest",
+      "Dhmu-Ravencrest",
+      "Femboymaxing-Tarren Mill"
+    ]
+  },
+  {
+    "run_id": 40146683,
+    "character_ids": [
+      "Daohuntr-Silvermoon",
+      "Nabie-Ravencrest",
+      "Mewtide-Ravencrest",
+      "Spectre-Ahn'Qiraj",
+      "Turtleprot-Ravencrest"
+    ]
+  },
+  {
+    "run_id": 40148410,
+    "character_ids": [
+      "Êlfêê-Sylvanas",
+      "Truegkiller-Silvermoon",
+      "Xyrthos-Draenor",
+      "Extrohunt-Kazzak",
+      "Musio-Tarren Mill"
+    ]
+  },
+  {
+    "run_id": 40154791,
+    "character_ids": [
+      "Lightdáwn-Silvermoon",
+      "Mîdorî-Archimonde",
+      "Ratdudee-Kazzak",
+      "Piremård-Silvermoon",
+      "Extrohunt-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40146785,
+    "character_ids": [
+      "Herus-Zul'jin",
+      "Cchurz-Blackrock",
+      "Elevaor-Sylvanas",
+      "Execute-Burning Steppes",
+      "Xy-Deathwing"
+    ]
+  },
+  {
+    "run_id": 40144931,
+    "character_ids": [
+      "Artanist-Tarren Mill",
+      "Mostfazamani-Silvermoon",
+      "Kaêl-Tarren Mill",
+      "Tizohunterr-Silvermoon",
+      "Deathfluxx-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 40142271,
+    "character_ids": [
+      "Seïman-Hyjal",
+      "Ухастикк-Gordunni",
+      "Woundedlord-Ravencrest",
+      "Листвгневе-Gordunni",
+      "Zanguexd-Los Errantes"
+    ]
+  },
+  {
+    "run_id": 40139860,
+    "character_ids": [
+      "Fiftyonred-Tarren Mill",
+      "Flemsse-Tarren Mill",
+      "Бавча-Eversong",
+      "Deylawar-Blackrock",
+      "Mateuszvoid-Burning Legion"
+    ]
+  },
+  {
+    "run_id": 40147005,
+    "character_ids": [
+      "Ilovepricey-Hyjal",
+      "Jzwqt-Ysondre",
+      "Доброеутречк-Howling Fjord",
+      "Mokjosak-Ysondre",
+      "Andisham-Twisting Nether"
+    ]
+  },
+  {
+    "run_id": 40148223,
+    "character_ids": [
+      "Junkytank-Ragnaros",
+      "Palacute-Kazzak",
+      "Deeptalk-Blackmoore",
+      "Deadgrimoire-Silvermoon",
+      "Redwãter-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40141516,
+    "character_ids": [
+      "Sapphyra-Quel'Thalas",
+      "Zujuzan-Stormscale",
+      "Nanooh-Hyjal",
+      "Softnip-Silvermoon",
+      "Nazx-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 40141299,
+    "character_ids": [
+      "Kuliz-Eredar",
+      "Outisxd-Kazzak",
+      "Uglylabubu-Draenor",
+      "Luciferhunt-Ragnaros",
+      "Unførgivenz-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40148999,
+    "character_ids": [
+      "Bráveheart-Kazzak",
+      "Slasherwon-Doomhammer",
+      "Utsumi-Kazzak",
+      "Dwarfthegoat-Kazzak",
+      "Unførgivenz-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40139682,
+    "character_ids": [
+      "Alphzáck-Sanguino",
+      "Exlexdk-Tarren Mill",
+      "Fistpump-Blackrock",
+      "Wamka-Silvermoon",
+      "Drbear-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 40159773,
+    "character_ids": [
+      "Мунипусичка-Soulflayer",
+      "Rasmusgodd-Tarren Mill",
+      "Bonesmasher-Kazzak",
+      "Brokensmilee-Kazzak",
+      "Deathembrace-Antonidas"
+    ]
+  },
+  {
+    "run_id": 40146314,
+    "character_ids": [
+      "Luminour-Hyjal",
+      "Zyalestra-Azuremyst",
+      "Rubber-Tarren Mill",
+      "Rawenblu-Outland",
+      "Femboymaxing-Tarren Mill"
+    ]
+  },
+  {
+    "run_id": 40140339,
+    "character_ids": [
+      "Topsin-Draenor",
+      "Быстринах-Howling Fjord",
+      "Akorsa-Kazzak",
+      "Breitnasee-Antonidas",
+      "Zusna-Tarren Mill"
+    ]
+  },
+  {
+    "run_id": 40142826,
+    "character_ids": [
+      "Lzy-Stormreaver",
+      "Asdgripgodx-Stormreaver",
+      "Millasofia-Ravencrest",
+      "Kosa-Stormreaver",
+      "Gigaskeida-Stormreaver"
+    ]
+  },
+  {
+    "run_id": 40157607,
+    "character_ids": [
+      "Sunbloom-Kazzak",
+      "Sf-Blackhand",
+      "Abdola-Kazzak",
+      "Quality-Ysondre",
+      "Deeptalk-Blackmoore"
+    ]
+  },
+  {
+    "run_id": 40142040,
+    "character_ids": [
+      "Drupally-Ragnaros",
+      "Drenzen-Ragnaros",
+      "Grokdreadeye-Twisting Nether",
+      "Deàth-Bronzebeard",
+      "Amazinghaze-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 40143945,
+    "character_ids": [
+      "Xfrost-Sunstrider",
+      "Karbonatgigi-Blackrock",
+      "Cythra-Burning Legion",
+      "Kystalamain-Hyjal",
+      "Nexlim-Kazzak"
+    ]
+  },
+  {
+    "run_id": 40146995,
+    "character_ids": [
+      "Nahimichila-Twisting Nether",
+      "Эёльви-Howling Fjord",
+      "Alduinmonk-Silvermoon",
+      "Mortalyx-Silvermoon",
+      "Base-Vol'jin"
+    ]
+  },
+  {
+    "run_id": 40156109,
+    "character_ids": [
+      "Hashidk-Kazzak",
+      "Nàgasiren-Draenor",
+      "Jellyhunter-Blackhand",
+      "Ezrealfrost-Silvermoon",
+      "Kpmg-Archimonde"
+    ]
+  },
+  {
+    "run_id": 40142790,
+    "character_ids": [
+      "Junkytank-Ragnaros",
+      "Palacute-Kazzak",
+      "Deeptalk-Blackmoore",
+      "Krrag-Silvermoon",
+      "Redwãter-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40164451,
+    "character_ids": [
+      "Narthlyn-Draenor",
+      "Legendkîller-Burning Legion",
+      "Zultrix-Twisting Nether",
+      "Ффростик-Howling Fjord",
+      "Impslinger-Twisting Nether"
+    ]
   }
 ]
