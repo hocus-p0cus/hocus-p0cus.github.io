@@ -675083,5 +675083,45 @@
       "Ффростик-Howling Fjord",
       "Impslinger-Twisting Nether"
     ]
+  },
+  {
+    "run_id": 40175962,
+    "character_ids": [
+      "Valtýr-Skullcrusher",
+      "Shamansever-Twisting Nether",
+      "Hèisènbèrg-Draenor",
+      "Fien-Silvermoon",
+      "Sadaó-Draenor"
+    ]
+  },
+  {
+    "run_id": 40166489,
+    "character_ids": [
+      "Sanvenganza-Ravencrest",
+      "Nàgasiren-Draenor",
+      "Jellyhunter-Blackhand",
+      "Ezrealfrost-Silvermoon",
+      "Kpmg-Archimonde"
+    ]
+  },
+  {
+    "run_id": 40166984,
+    "character_ids": [
+      "Nimoé-Ravencrest",
+      "Pablomdlr-Ravencrest",
+      "Slugmode-Kazzak",
+      "Manga-Tarren Mill",
+      "Thenansuna-Silvermoon"
+    ]
+  },
+  {
+    "run_id": 40167952,
+    "character_ids": [
+      "Catoftheyeet-Tarren Mill",
+      "Melvaclap-Twisting Nether",
+      "Livakovic-Twisting Nether",
+      "Falanir-Ravencrest",
+      "Crumblé-Twisting Nether"
+    ]
   }
 ]
