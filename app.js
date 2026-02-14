@@ -1,21 +1,26 @@
 const dataByRegion = {};
 
 let DUNGEONS = [];
-let DUNGEON_ICONS = {};
 
 let slugMapping = null;
 let currentMode = "link";
 let currentSeason = "tww-season3";
 let isGenerating = false;
 
+function slugify(name) {
+  let slugged = name;
+  // 1) Remove all punctuation except dashes
+  slugged = slugged.replace(/[!@#$%^&\*\(\)~`_\+=\[\]\{\};:"\.\,<>\/?'-]/g, '');
+  // 2) Replace spaces with dashes
+  slugged = slugged.replace(/\s+/g, '-');
+  // 3) Lowercase it
+  slugged = slugged.toLowerCase();
+  return slugged;
+}
+
 async function loadDungeons() {
   DUNGEONS = await fetch(`dungeons-${currentSeason}.json`).then(res => res.json());
-
-  if (Object.keys(DUNGEON_ICONS).length === 0) {
-    DUNGEON_ICONS = await fetch("dungeon_icons.json").then(res => res.json());
-  }
-
-  return { DUNGEONS, DUNGEON_ICONS };
+  return { DUNGEONS };
 }
 
 async function loadSlugMapping() {
@@ -289,7 +294,7 @@ async function generateReport() {
     });
 
     report.forEach(entry => {
-      const dungeonIcon = DUNGEON_ICONS[entry.dungeon] || "icons/default-dungeon.png";
+      const dungeonIcon = `icons/${slugify(entry.dungeon)}.png`;
       
       let runsContent = '';
       if (entry.runs.length === 0) {
