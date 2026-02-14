@@ -7,6 +7,15 @@ let currentMode = "link";
 let currentSeason = "tww-season3";
 let isGenerating = false;
 
+const CONFIG = {
+  seasons: [
+    { id: 'tww-season2', label: 'TWW Season 2' },
+    { id: 'tww-season3', label: 'TWW Season 3', default: true }
+  ],
+  regions: ['eu', 'na'],
+  dataPath: 'data'
+};
+
 function slugify(name) {
   let slugged = name;
   // 1) Remove all punctuation except dashes
@@ -18,14 +27,26 @@ function slugify(name) {
   return slugged;
 }
 
+function getSeasonDataPath(season, filename) {
+  return `${CONFIG.dataPath}/${season}/${filename}`;
+}
+
+function getRegionDataPath(season, region, type) {
+  // type: 'character_dungeon_stats' or 'roster'
+  const filename = `${season}-${region}-${type}.json`;
+  return `${CONFIG.dataPath}/${season}/${region}/${filename}`;
+}
+
 async function loadDungeons() {
-  DUNGEONS = await fetch(`dungeons-${currentSeason}.json`).then(res => res.json());
+  const dungeonPath = getSeasonDataPath(currentSeason, 'dungeons.json');
+  DUNGEONS = await fetch(dungeonPath).then(res => res.json());
   return { DUNGEONS };
 }
 
 async function loadSlugMapping() {
   if (slugMapping) return Promise.resolve(slugMapping);
-  return fetch("slug_mapping.json")
+  // Slug mapping is global, not season-specific
+  return fetch(`${CONFIG.dataPath}/slug_mapping.json`)
     .then(res => res.json())
     .then(data => {
       slugMapping = data;
@@ -88,8 +109,8 @@ function loadRegionData(region) {
   }
 
   return Promise.all([
-    fetch(`${currentSeason}-${region}-character_dungeon_stats.json`).then(res => res.json()),
-    fetch(`${currentSeason}-${region}-roster.json`).then(res => res.json())
+    fetch(getRegionDataPath(currentSeason, region, 'character_dungeon_stats')).then(res => res.json()),
+    fetch(getRegionDataPath(currentSeason, region, 'roster')).then(res => res.json())
   ]).then(([stats, roster]) => {
     // Preprocess data immediately after loading
     const processed = preprocessData(stats, roster);
@@ -107,8 +128,13 @@ async function setSeason(season) {
   currentSeason = season;
   await loadDungeons();
 
-  document.querySelectorAll(".season-button").forEach(btn => btn.classList.remove("active"));
-  document.querySelector(`.season-button[onclick="setSeason('${season}')"]`).classList.add("active");
+  // Update active state on all season buttons
+  document.querySelectorAll(".season-button").forEach(btn => {
+    btn.classList.remove("active");
+    if (btn.dataset.season === season) {
+      btn.classList.add("active");
+    }
+  });
 
   generateReport();
 }
@@ -329,7 +355,26 @@ async function generateReport() {
   }
 }
 
+// Initialize season buttons dynamically from config
+function initializeSeasonButtons() {
+  const seasonToggle = document.querySelector('.season-toggle');
+  if (!seasonToggle) return;
+
+  seasonToggle.innerHTML = '';
+  
+  CONFIG.seasons.forEach(season => {
+    const button = document.createElement('button');
+    button.className = 'season-button' + (season.default ? ' active' : '');
+    button.textContent = season.label;
+    button.dataset.season = season.id; // Add data attribute for easy lookup
+    button.onclick = () => setSeason(season.id);
+    seasonToggle.appendChild(button);
+  });
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
+  initializeSeasonButtons();
+  
   await loadDungeons();
   populateRealmSuggestions();
 
