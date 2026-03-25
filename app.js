@@ -4,13 +4,14 @@ let DUNGEONS = [];
 
 let slugMapping = null;
 let currentMode = "link";
-let currentSeason = "tww-season3";
+let currentSeason = "mn-season1";
 let isGenerating = false;
 
 const CONFIG = {
   seasons: [
     { id: 'tww-season2', label: 'TWW Season 2' },
-    { id: 'tww-season3', label: 'TWW Season 3', default: true }
+    { id: 'tww-season3', label: 'TWW Season 3'},
+    { id: 'mn-season1', label: 'MN Season 1', default: true }
   ],
   regions: ['eu', 'na'],
   dataPath: 'data'
