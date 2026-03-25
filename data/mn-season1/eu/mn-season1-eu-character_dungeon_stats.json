@@ -1,0 +1,1642 @@
+[
+  {
+    "character_id": "Xhanon-Kazzak",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 14,
+    "first_completed": "2026-03-25T07:09:31.000Z",
+    "first_run_id": 205290,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Monksea-Ravencrest",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 14,
+    "first_completed": "2026-03-25T07:09:31.000Z",
+    "first_run_id": 205290,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Turbogronil-Archimonde",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 14,
+    "first_completed": "2026-03-25T07:09:31.000Z",
+    "first_run_id": 205290,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Riworra-Kazzak",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 14,
+    "first_completed": "2026-03-25T07:09:31.000Z",
+    "first_run_id": 205290,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tomelvis-Draenor",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 14,
+    "first_completed": "2026-03-25T07:09:31.000Z",
+    "first_run_id": 205290,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Yukíl-Sylvanas",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:23:15.000Z",
+    "first_run_id": 208980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Devilbeard-Blackmoore",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:23:15.000Z",
+    "first_run_id": 208980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dinglew-Blackmoore",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:23:15.000Z",
+    "first_run_id": 208980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Neunfünf-Blackmoore",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:23:15.000Z",
+    "first_run_id": 208980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Generational-Blackmoore",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:23:15.000Z",
+    "first_run_id": 208980,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Micelino-Drak'thul",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:23:40.000Z",
+    "first_run_id": 209106,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Flazedk-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:23:40.000Z",
+    "first_run_id": 209106,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tntree-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:23:40.000Z",
+    "first_run_id": 209106,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Blm-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:23:40.000Z",
+    "first_run_id": 209106,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Babakhan-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:23:40.000Z",
+    "first_run_id": 209106,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Теомаатрр-Howling Fjord",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:27:51.000Z",
+    "first_run_id": 224829,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Майкимагус-Howling Fjord",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:27:51.000Z",
+    "first_run_id": 224829,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Сандрагорик-Gordunni",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:27:51.000Z",
+    "first_run_id": 224829,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Элслэйерх-Howling Fjord",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:27:51.000Z",
+    "first_run_id": 224829,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Maitaidh-Kazzak",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:27:51.000Z",
+    "first_run_id": 224829,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Forender-Aegwynn",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:37:14.000Z",
+    "first_run_id": 235181,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bodenaggro-Thrall",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:37:14.000Z",
+    "first_run_id": 235181,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Conola-Thrall",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:37:14.000Z",
+    "first_run_id": 235181,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Fistblind-Thrall",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:37:14.000Z",
+    "first_run_id": 235181,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rubÿ-Antonidas",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:37:14.000Z",
+    "first_run_id": 235181,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Иссефина-Gordunni",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:44:18.000Z",
+    "first_run_id": 215947,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Запахвыдры-Howling Fjord",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:44:18.000Z",
+    "first_run_id": 215947,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Remfan-Tarren Mill",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:44:18.000Z",
+    "first_run_id": 215947,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Далармон-Howling Fjord",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:44:18.000Z",
+    "first_run_id": 215947,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Лимон-Howling Fjord",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:44:18.000Z",
+    "first_run_id": 215947,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sotaxwar-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:46:44.000Z",
+    "first_run_id": 216775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vxdudu-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:46:44.000Z",
+    "first_run_id": 216775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dødlampeto-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:46:44.000Z",
+    "first_run_id": 216775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Greenlooks-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:46:44.000Z",
+    "first_run_id": 216775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Paymage-Twisting Nether",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:46:44.000Z",
+    "first_run_id": 216775,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zevdudu-Kazzak",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:47:16.000Z",
+    "first_run_id": 232969,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Unholybulk-Drak'thul",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:47:16.000Z",
+    "first_run_id": 232969,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Freakxz-Kazzak",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:47:16.000Z",
+    "first_run_id": 232969,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vadanmonk-Kazzak",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:47:16.000Z",
+    "first_run_id": 232969,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Wigglypuff-Draenor",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:47:16.000Z",
+    "first_run_id": 232969,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Abeto-Zul'jin",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:49:07.000Z",
+    "first_run_id": 229603,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Khazdimonk-Zul'jin",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:49:07.000Z",
+    "first_run_id": 229603,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Elbo-Zul'jin",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:49:07.000Z",
+    "first_run_id": 229603,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Madarak-Sanguino",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:49:07.000Z",
+    "first_run_id": 229603,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vexx-Zul'jin",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:49:07.000Z",
+    "first_run_id": 229603,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Holyzadek-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:07.000Z",
+    "first_run_id": 218431,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Grimlli-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:07.000Z",
+    "first_run_id": 218431,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Horsefarmer-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:07.000Z",
+    "first_run_id": 218431,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Medwayjr-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:07.000Z",
+    "first_run_id": 218431,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Abiegaelle-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:07.000Z",
+    "first_run_id": 218431,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Críms-Draenor",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:26.000Z",
+    "first_run_id": 218562,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Replairpr-Draenor",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:26.000Z",
+    "first_run_id": 218562,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Wortxd-Draenor",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:26.000Z",
+    "first_run_id": 218562,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Logik-Draenor",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:26.000Z",
+    "first_run_id": 218562,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Pricéyybeam-Medivh",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:52:26.000Z",
+    "first_run_id": 218562,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Yukíl-Sylvanas",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:53:39.000Z",
+    "first_run_id": 218939,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Devilbeard-Blackmoore",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:53:39.000Z",
+    "first_run_id": 218939,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dinglew-Blackmoore",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:53:39.000Z",
+    "first_run_id": 218939,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Neunfünf-Blackmoore",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:53:39.000Z",
+    "first_run_id": 218939,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Generational-Blackmoore",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:53:39.000Z",
+    "first_run_id": 218939,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tupackow-Archimonde",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:15.000Z",
+    "first_run_id": 226772,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Motiv-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:15.000Z",
+    "first_run_id": 226772,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Fistcup-Antonidas",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:15.000Z",
+    "first_run_id": 226772,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Keÿ-Archimonde",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:15.000Z",
+    "first_run_id": 226772,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lînnt-Blackrock",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:15.000Z",
+    "first_run_id": 226772,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Roohappy-Kazzak",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:39.000Z",
+    "first_run_id": 219194,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Caoni-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:39.000Z",
+    "first_run_id": 219194,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sandersonr-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:39.000Z",
+    "first_run_id": 219194,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kombat-Ragnaros",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:39.000Z",
+    "first_run_id": 219194,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sadb-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:54:39.000Z",
+    "first_run_id": 219194,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Thannys-Ysondre",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:56:33.000Z",
+    "first_run_id": 226096,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kaladiel-Dalaran",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:56:33.000Z",
+    "first_run_id": 226096,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Énnoïs-Hyjal",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:56:33.000Z",
+    "first_run_id": 226096,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Thyx-Hyjal",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:56:33.000Z",
+    "first_run_id": 226096,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bigmoumou-Hyjal",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 13,
+    "first_completed": "2026-03-25T07:56:33.000Z",
+    "first_run_id": 226096,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Scarrshaman-Kazzak",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:57:51.000Z",
+    "first_run_id": 220382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nïghtmarëz-Draenor",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:57:51.000Z",
+    "first_run_id": 220382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Drakevalvo-Draenor",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:57:51.000Z",
+    "first_run_id": 220382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Mercile-Frostmane",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:57:51.000Z",
+    "first_run_id": 220382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Azby-Draenor",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T07:57:51.000Z",
+    "first_run_id": 220382,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Anon130190-Anonymous",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:00:44.000Z",
+    "first_run_id": 230444,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Winnee-Tarren Mill",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:00:44.000Z",
+    "first_run_id": 230444,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Curris-Silvermoon",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:00:44.000Z",
+    "first_run_id": 230444,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cynoor-Argent Dawn",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:00:44.000Z",
+    "first_run_id": 230444,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Elantach-Frostmane",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:00:44.000Z",
+    "first_run_id": 230444,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Syzana-Blackrock",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:01:32.000Z",
+    "first_run_id": 221310,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kirmesboxer-Blackrock",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:01:32.000Z",
+    "first_run_id": 221310,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Magistrát-Blackrock",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:01:32.000Z",
+    "first_run_id": 221310,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Xárie-Silvermoon",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:01:32.000Z",
+    "first_run_id": 221310,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Gaddagatzn-Thrall",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:01:32.000Z",
+    "first_run_id": 221310,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Forender-Aegwynn",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:24.000Z",
+    "first_run_id": 235190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bodenaggro-Thrall",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:24.000Z",
+    "first_run_id": 235190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Conola-Thrall",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:24.000Z",
+    "first_run_id": 235190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Fistblind-Thrall",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:24.000Z",
+    "first_run_id": 235190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rubÿ-Antonidas",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:24.000Z",
+    "first_run_id": 235190,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cps-Kazzak",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:43.000Z",
+    "first_run_id": 223354,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Onlydecent-Draenor",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:43.000Z",
+    "first_run_id": 223354,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nynsa-Azshara",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:43.000Z",
+    "first_run_id": 223354,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Roams-Draenor",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:43.000Z",
+    "first_run_id": 223354,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sivarcaet-Argent Dawn",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:07:43.000Z",
+    "first_run_id": 223354,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Heálu-Tarren Mill",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:09:37.000Z",
+    "first_run_id": 223816,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Shtreangow-Twisting Nether",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:09:37.000Z",
+    "first_run_id": 223816,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kaada-Silvermoon",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:09:37.000Z",
+    "first_run_id": 223816,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ringzorf-Twisting Nether",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:09:37.000Z",
+    "first_run_id": 223816,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dangersh-Twisting Nether",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:09:37.000Z",
+    "first_run_id": 223816,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Manniche-Kazzak",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:04.000Z",
+    "first_run_id": 228557,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Wopø-Blackrock",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:04.000Z",
+    "first_run_id": 228557,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Iamwallner-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:04.000Z",
+    "first_run_id": 228557,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kevingates-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:04.000Z",
+    "first_run_id": 228557,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Talliim-Draenor",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:04.000Z",
+    "first_run_id": 228557,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Líu-Hyjal",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:10.000Z",
+    "first_run_id": 223938,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Celedrien-Draenor",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:10.000Z",
+    "first_run_id": 223938,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Specithick-Silvermoon",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:10.000Z",
+    "first_run_id": 223938,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sipdk-Silvermoon",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:10.000Z",
+    "first_run_id": 223938,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Egirlchaser-Silvermoon",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:10:10.000Z",
+    "first_run_id": 223938,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Шери-Howling Fjord",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:12:37.000Z",
+    "first_run_id": 225022,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Linchm-Silvermoon",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:12:37.000Z",
+    "first_run_id": 225022,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ladapiora-Silvermoon",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:12:37.000Z",
+    "first_run_id": 225022,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ловенорн-Gordunni",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:12:37.000Z",
+    "first_run_id": 225022,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Альнарион-Howling Fjord",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:12:37.000Z",
+    "first_run_id": 225022,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Abeto-Zul'jin",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:15:33.000Z",
+    "first_run_id": 229605,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Khazdimonk-Zul'jin",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:15:33.000Z",
+    "first_run_id": 229605,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Elbo-Zul'jin",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:15:33.000Z",
+    "first_run_id": 229605,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Madarak-Sanguino",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:15:33.000Z",
+    "first_run_id": 229605,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vexx-Zul'jin",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:15:33.000Z",
+    "first_run_id": 229605,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Moridin-Kazzak",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:16:48.000Z",
+    "first_run_id": 226328,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Harrvell-Kazzak",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:16:48.000Z",
+    "first_run_id": 226328,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Yorgasmic-Tarren Mill",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:16:48.000Z",
+    "first_run_id": 226328,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kfcdwarf-Kazzak",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:16:48.000Z",
+    "first_run_id": 226328,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vigilock-Kazzak",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:16:48.000Z",
+    "first_run_id": 226328,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Unholyxd-Draenor",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:17:38.000Z",
+    "first_run_id": 226531,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Märdel-Arathor",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:17:38.000Z",
+    "first_run_id": 226531,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jäý-Twisting Nether",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:17:38.000Z",
+    "first_run_id": 226531,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Darkleaps-Silvermoon",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:17:38.000Z",
+    "first_run_id": 226531,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Minirev-Ravencrest",
+    "dungeon_name": "Pit of Saron",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:17:38.000Z",
+    "first_run_id": 226531,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kyoma-Burning Legion",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:41.000Z",
+    "first_run_id": 229421,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jurcane-Kazzak",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:41.000Z",
+    "first_run_id": 229421,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ynmyrt-Burning Legion",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:41.000Z",
+    "first_run_id": 229421,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Vicentiusbot-Silvermoon",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:41.000Z",
+    "first_run_id": 229421,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rafliskoenha-Burning Legion",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:41.000Z",
+    "first_run_id": 229421,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Yukíl-Sylvanas",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:59.000Z",
+    "first_run_id": 229463,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Devilbeard-Blackmoore",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:59.000Z",
+    "first_run_id": 229463,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dinglew-Blackmoore",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:59.000Z",
+    "first_run_id": 229463,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Neunfünf-Blackmoore",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:59.000Z",
+    "first_run_id": 229463,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Generational-Blackmoore",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:25:59.000Z",
+    "first_run_id": 229463,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Brølý-Draenor",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:26:18.000Z",
+    "first_run_id": 229586,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sharn-Emeriss",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:26:18.000Z",
+    "first_run_id": 229586,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ameliajensen-Dentarg",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:26:18.000Z",
+    "first_run_id": 229586,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Ärï-Tarren Mill",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:26:18.000Z",
+    "first_run_id": 229586,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Laffamonk-Runetotem",
+    "dungeon_name": "Windrunner Spire",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:26:18.000Z",
+    "first_run_id": 229586,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Holyzadek-Tarren Mill",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:27:04.000Z",
+    "first_run_id": 229739,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Grimlli-Tarren Mill",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:27:04.000Z",
+    "first_run_id": 229739,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Horsefarmer-Twisting Nether",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:27:04.000Z",
+    "first_run_id": 229739,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Medwayjr-Tarren Mill",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:27:04.000Z",
+    "first_run_id": 229739,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Abiegaelle-Tarren Mill",
+    "dungeon_name": "Seat of the Triumvirate",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:27:04.000Z",
+    "first_run_id": 229739,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Asuppercut-Archimonde",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:05.000Z",
+    "first_run_id": 230002,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Syrm-Hyjal",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:05.000Z",
+    "first_run_id": 230002,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Linakittyd-Hyjal",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:05.000Z",
+    "first_run_id": 230002,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Zixâ-Hyjal",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:05.000Z",
+    "first_run_id": 230002,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Aidenx-Archimonde",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:05.000Z",
+    "first_run_id": 230002,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Lirík-Lightbringer",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:07.000Z",
+    "first_run_id": 230037,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Monkburger-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:07.000Z",
+    "first_run_id": 230037,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Joakiìm-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:07.000Z",
+    "first_run_id": 230037,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Necrodari-Twisting Nether",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:07.000Z",
+    "first_run_id": 230037,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Foidcel-Tarren Mill",
+    "dungeon_name": "Skyreach",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:28:07.000Z",
+    "first_run_id": 230037,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Åzsharå-Hyjal",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:28.000Z",
+    "first_run_id": 230355,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Thylaei-Hyjal",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:28.000Z",
+    "first_run_id": 230355,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Raparotar-Hyjal",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:28.000Z",
+    "first_run_id": 230355,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Dåvyjønes-Dalaran",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:28.000Z",
+    "first_run_id": 230355,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cäsey-Dalaran",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:28.000Z",
+    "first_run_id": 230355,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cowl-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:55.000Z",
+    "first_run_id": 230406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Steacrack-Tarren Mill",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:55.000Z",
+    "first_run_id": 230406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Wàko-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:55.000Z",
+    "first_run_id": 230406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Парабрахма-Gordunni",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:55.000Z",
+    "first_run_id": 230406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Hazardh-Sylvanas",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:29:55.000Z",
+    "first_run_id": 230406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Pay-Twisting Nether",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:31:34.000Z",
+    "first_run_id": 230799,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Valarixx-Twisting Nether",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:31:34.000Z",
+    "first_run_id": 230799,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Boreasxo-Kazzak",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:31:34.000Z",
+    "first_run_id": 230799,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Uglyturtle-Draenor",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:31:34.000Z",
+    "first_run_id": 230799,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Misukken-Ravencrest",
+    "dungeon_name": "Algeth'ar Academy",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:31:34.000Z",
+    "first_run_id": 230799,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cps-Kazzak",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:37:25.000Z",
+    "first_run_id": 232351,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Onlydecent-Draenor",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:37:25.000Z",
+    "first_run_id": 232351,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nynsa-Azshara",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:37:25.000Z",
+    "first_run_id": 232351,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Roams-Draenor",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:37:25.000Z",
+    "first_run_id": 232351,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sivarcaet-Argent Dawn",
+    "dungeon_name": "Maisara Caverns",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:37:25.000Z",
+    "first_run_id": 232351,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Jamty-Silvermoon",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:43:03.000Z",
+    "first_run_id": 233892,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cibers-Silvermoon",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:43:03.000Z",
+    "first_run_id": 233892,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Sociophobie-Silvermoon",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:43:03.000Z",
+    "first_run_id": 233892,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Xyrinbrew-Twisting Nether",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:43:03.000Z",
+    "first_run_id": 233892,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Тимкер-Howling Fjord",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:43:03.000Z",
+    "first_run_id": 233892,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Hadoukenx-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:52.000Z",
+    "first_run_id": 234406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nubishke-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:52.000Z",
+    "first_run_id": 234406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bêkoo-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:52.000Z",
+    "first_run_id": 234406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Tandatsu-Draenor",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:52.000Z",
+    "first_run_id": 234406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Kiyz-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:52.000Z",
+    "first_run_id": 234406,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Skylee-Drak'thul",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:57.000Z",
+    "first_run_id": 234426,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Niiol-Burning Blade",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:57.000Z",
+    "first_run_id": 234426,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Nikkira-Drak'thul",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:57.000Z",
+    "first_run_id": 234426,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cukeerog-Drak'thul",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:57.000Z",
+    "first_run_id": 234426,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Raveana-Drak'thul",
+    "dungeon_name": "Nexus-Point Xenas",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:44:57.000Z",
+    "first_run_id": 234426,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Wounderz-Ragnaros",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:46:08.000Z",
+    "first_run_id": 234760,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Cinderpala-Blackhand",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:46:08.000Z",
+    "first_run_id": 234760,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Rammoskebab-Eredar",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:46:08.000Z",
+    "first_run_id": 234760,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Crumblé-Twisting Nether",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:46:08.000Z",
+    "first_run_id": 234760,
+    "completion_count": 1
+  },
+  {
+    "character_id": "Bullrag-Ragnaros",
+    "dungeon_name": "Magisters' Terrace",
+    "difficulty_level": 12,
+    "first_completed": "2026-03-25T08:46:08.000Z",
+    "first_run_id": 234760,
+    "completion_count": 1
+  }
+]
