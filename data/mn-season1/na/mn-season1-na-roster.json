@@ -3572,7 +3572,7 @@
   {
     "run_id": 163195,
     "character_ids": [
-      "Dorontian-Bleeding Hollow",
+      "Hexpala-Bleeding Hollow",
       "Skiddyy-Bleeding Hollow",
       "Necklace-Bleeding Hollow",
       "Foodtruck-Stormrage",
@@ -12995,7 +12995,7 @@
       "Shnuggles-Zul'jin",
       "Psilocnn-Mal'Ganis",
       "Yourichi-Frostmourne",
-      "AnonEDA1554-Anonymous",
+      "Lanlv-Illidan",
       "Ögdrujahad-Quel'Thalas"
     ]
   },
@@ -31585,7 +31585,7 @@
       "Yagaami-Nemesis",
       "Gabyt-Stormrage",
       "Eschadh-Stormrage",
-      "Anon985222D-Anonymous",
+      "Ömnipotent-Azralon",
       "Terrylabonte-Sisters of Elune"
     ]
   },
@@ -32955,7 +32955,7 @@
       "Yagaami-Nemesis",
       "Gabyt-Stormrage",
       "Eschadh-Stormrage",
-      "Anon985222D-Anonymous",
+      "Ömnipotent-Azralon",
       "Litric-Stormrage"
     ]
   },
@@ -35305,7 +35305,7 @@
       "Frostygnome-Wyrmrest Accord",
       "Asesinap-Illidan",
       "Tahnno-Stormrage",
-      "AnonEDA1554-Anonymous",
+      "Lanlv-Illidan",
       "Anríttsa-Stormrage"
     ]
   },
@@ -37864,7 +37864,7 @@
     "character_ids": [
       "Mashrooms-Mal'Ganis",
       "Stinkycorpse-Area 52",
-      "AnonEDA1554-Anonymous",
+      "Lanlv-Illidan",
       "Soakerdeluxe-Area 52",
       "Jaegerstahl-Moon Guard"
     ]
@@ -41716,7 +41716,7 @@
       "Littlecap-Stormrage",
       "Halcom-Sargeras",
       "Micahx-Tichondrius",
-      "Moufflé-Kel'Thuzad"
+      "Anklébitèr-Kel'Thuzad"
     ]
   },
   {
@@ -44685,7 +44685,7 @@
       "Mfivecomp-Proudmoore",
       "Randorzz-Mal'Ganis",
       "Slander-Zul'jin",
-      "AnonEDA1554-Anonymous",
+      "Lanlv-Illidan",
       "Diary-Sargeras"
     ]
   },
@@ -46037,6 +46037,7186 @@
       "Masetmonk-Thrall",
       "Enzu-Thrall",
       "Nymazuris-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 920332,
+    "character_ids": [
+      "Holynésia-Zul'jin",
+      "Ðanmachi-Azralon",
+      "AnonDDD12B7-Anonymous",
+      "Dknyna-Azralon",
+      "Yoshimit-Illidan"
+    ]
+  },
+  {
+    "run_id": 896301,
+    "character_ids": [
+      "Virielle-Frostmourne",
+      "Iscarriot-Frostmourne",
+      "Oyen-Frostmourne",
+      "Kurundel-Frostmourne",
+      "Eniende-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 893075,
+    "character_ids": [
+      "Fmboomin-Bleeding Hollow",
+      "Plaw-Bleeding Hollow",
+      "Ikanan-Bleeding Hollow",
+      "Thorior-Bleeding Hollow",
+      "Artorus-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 893107,
+    "character_ids": [
+      "Vanelli-Bleeding Hollow",
+      "Fmboomin-Bleeding Hollow",
+      "Plaw-Bleeding Hollow",
+      "Ikanan-Bleeding Hollow",
+      "Artorus-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 893109,
+    "character_ids": [
+      "Vanelli-Bleeding Hollow",
+      "Fmboomin-Bleeding Hollow",
+      "Plaw-Bleeding Hollow",
+      "Ikanan-Bleeding Hollow",
+      "Artorus-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 993583,
+    "character_ids": [
+      "Brook-Stormrage",
+      "Rozdoran-Stormrage",
+      "Fluffyzombie-Stormrage",
+      "Cynnela-Stormrage",
+      "Pâínkíller-Stormrage"
+    ]
+  },
+  {
+    "run_id": 896174,
+    "character_ids": [
+      "Thesquidgame-Frostmourne",
+      "Odinson-Frostmourne",
+      "Milkthecoww-Barthilas",
+      "Lolhealbot-Frostmourne",
+      "Stormspirit-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 916126,
+    "character_ids": [
+      "Frizzles-Saurfang",
+      "Divineon-Saurfang",
+      "Ellaine-Nagrand",
+      "Tahlia-Caelestrasz",
+      "Kungpao-Caelestrasz"
+    ]
+  },
+  {
+    "run_id": 908937,
+    "character_ids": [
+      "Buddamax-Zul'jin",
+      "Lyreith-Illidan",
+      "AnonCF63E2D-Anonymous",
+      "Crane-Deathwing",
+      "Bellaggor-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 971780,
+    "character_ids": [
+      "Hkkspaladin-Frostmourne",
+      "Yehdardi-Frostmourne",
+      "Swoleman-Frostmourne",
+      "Ultivih-Frostmourne",
+      "Kidilli-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 911750,
+    "character_ids": [
+      "Edthedwarf-Stormrage",
+      "Jeipal-Stormrage",
+      "Anxietyslave-Stormrage",
+      "Destrou-Mal'Ganis",
+      "Zladelock-Stormrage"
+    ]
+  },
+  {
+    "run_id": 924378,
+    "character_ids": [
+      "Wonkice-Stormrage",
+      "Tunguin-Bleeding Hollow",
+      "Cottagez-Hyjal",
+      "Cobrashocks-Bleeding Hollow",
+      "Zoe-Hyjal"
+    ]
+  },
+  {
+    "run_id": 908089,
+    "character_ids": [
+      "Spennsa-Frostmourne",
+      "Elwhy-Frostmourne",
+      "Parashock-Frostmourne",
+      "Pumpsaiyan-Frostmourne",
+      "Jink-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 926790,
+    "character_ids": [
+      "Strawhats-Dreadmaul",
+      "Plantman-Frostmourne",
+      "Raboot-Frostmourne",
+      "Faifablue-Frostmourne",
+      "Hayà-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 940294,
+    "character_ids": [
+      "Cynimagic-Sargeras",
+      "Novei-Sargeras",
+      "Groundbeef-Silvermoon",
+      "Sadeyn-Sargeras",
+      "Kaibeam-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 922445,
+    "character_ids": [
+      "Bwonarea-Mal'Ganis",
+      "Jab-Winterhoof",
+      "Vraull-Mal'Ganis",
+      "Druskvoker-Mal'Ganis",
+      "Arcbloodh-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 924375,
+    "character_ids": [
+      "Wonkice-Stormrage",
+      "Tunguin-Bleeding Hollow",
+      "Cottagez-Hyjal",
+      "Cobrashocks-Bleeding Hollow",
+      "Zoe-Hyjal"
+    ]
+  },
+  {
+    "run_id": 920051,
+    "character_ids": [
+      "Pezky-Area 52",
+      "Twopig-Frostmourne",
+      "Theeo-Sargeras",
+      "Tostepsahead-Illidan",
+      "Belialshammy-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 930186,
+    "character_ids": [
+      "Dudadadidida-Illidan",
+      "Girinbow-Stormrage",
+      "Chudadaprist-Illidan",
+      "Diqx-Illidan",
+      "Lvsexinqing-Illidan"
+    ]
+  },
+  {
+    "run_id": 920009,
+    "character_ids": [
+      "Aeious-Moon Guard",
+      "Miriellah-Area 52",
+      "Ástrí-Illidan",
+      "Vørë-Stormrage",
+      "Kimenudh-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1064080,
+    "character_ids": [
+      "Settek-Stormrage",
+      "Draxiss-Stormrage",
+      "Blazian-Area 52",
+      "Ramatron-Stormrage",
+      "Exaggerator-Stormrage"
+    ]
+  },
+  {
+    "run_id": 911897,
+    "character_ids": [
+      "Twistyxd-Frostmourne",
+      "Rimwaztok-Frostmourne",
+      "Jaìme-Frostmourne",
+      "Drargon-Frostmourne",
+      "Peapouch-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 916013,
+    "character_ids": [
+      "Frizzles-Saurfang",
+      "Ellaine-Nagrand",
+      "Divineon-Saurfang",
+      "Tahlia-Caelestrasz",
+      "Kungpao-Caelestrasz"
+    ]
+  },
+  {
+    "run_id": 916466,
+    "character_ids": [
+      "Latiòs-Stormrage",
+      "Warsrior-Area 52",
+      "Novvum-Tichondrius",
+      "Evandzhelina-Area 52",
+      "Ilumisse-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 899868,
+    "character_ids": [
+      "Mhureth-Area 52",
+      "Ammuu-Moon Guard",
+      "Trondruid-Draka",
+      "Vallck-Mannoroth",
+      "Zenikai-Illidan"
+    ]
+  },
+  {
+    "run_id": 915311,
+    "character_ids": [
+      "Rickhot-Quel'Thalas",
+      "Sabermaul-Area 52",
+      "Agpambondi-Sargeras",
+      "Thekoomer-Mal'Ganis",
+      "Zenforrm-Illidan"
+    ]
+  },
+  {
+    "run_id": 995087,
+    "character_ids": [
+      "Randmage-Frostmourne",
+      "Paladin-Frostmourne",
+      "Fatd-Frostmourne",
+      "Warlockthis-Frostmourne",
+      "Oochi-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 992665,
+    "character_ids": [
+      "Duxmage-Frostmourne",
+      "Baltironzz-Frostmourne",
+      "Spooi-Barthilas",
+      "Seliana-Frostmourne",
+      "Visherademon-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 908914,
+    "character_ids": [
+      "Deepps-Mal'Ganis",
+      "Dodeyparton-Mal'Ganis",
+      "Poundinghunt-Stormrage",
+      "Shadeofgreys-Proudmoore",
+      "Smoovmonk-Illidan"
+    ]
+  },
+  {
+    "run_id": 924372,
+    "character_ids": [
+      "Tunguin-Bleeding Hollow",
+      "Cottagez-Hyjal",
+      "Raviolidk-Hyjal",
+      "Cobrashocks-Bleeding Hollow",
+      "Zoe-Hyjal"
+    ]
+  },
+  {
+    "run_id": 926805,
+    "character_ids": [
+      "Âirak-Ragnaros",
+      "Mumorte-Ragnaros",
+      "Pøzoom-Ragnaros",
+      "Mitsugu-Ragnaros",
+      "Kovuker-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 907955,
+    "character_ids": [
+      "Stiggzpala-Tichondrius",
+      "Duxliberty-Barthilas",
+      "Hardzex-Area 52",
+      "Phannagaruu-Frostmourne",
+      "Kiinkii-Area 52"
+    ]
+  },
+  {
+    "run_id": 940122,
+    "character_ids": [
+      "Bazee-Thrall",
+      "Weazem-Thrall",
+      "Fkbrindar-Tichondrius",
+      "Yixuan-Sen'jin",
+      "Leandrósm-Illidan"
+    ]
+  },
+  {
+    "run_id": 907123,
+    "character_ids": [
+      "Grimmdk-Frostmourne",
+      "Arallia-Khaz'goroth",
+      "Frostx-Frostmourne",
+      "Heralol-Frostmourne",
+      "Nezzidari-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 896709,
+    "character_ids": [
+      "Nowise-Illidan",
+      "Snowa-Area 52",
+      "Ellria-Area 52",
+      "Needmorepets-Tichondrius",
+      "Koreanbrewbq-Boulderfist"
+    ]
+  },
+  {
+    "run_id": 1011133,
+    "character_ids": [
+      "Trenblast-Tichondrius",
+      "Toils-Zul'jin",
+      "Madhawi-Feathermoon",
+      "Cyts-Tichondrius",
+      "Demongrass-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 898511,
+    "character_ids": [
+      "Teldrasa-Azgalor",
+      "Keylimeepie-Illidan",
+      "Xyraxuz-Stormrage",
+      "Bandda-Area 52",
+      "Nernu-Area 52"
+    ]
+  },
+  {
+    "run_id": 922455,
+    "character_ids": [
+      "Bwonarea-Mal'Ganis",
+      "Jab-Winterhoof",
+      "Vraull-Mal'Ganis",
+      "Druskvoker-Mal'Ganis",
+      "Arcbloodh-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 908947,
+    "character_ids": [
+      "Ifry-Area 52",
+      "Lyreith-Illidan",
+      "Twopac-Area 52",
+      "Persuasions-Mal'Ganis",
+      "Sebaholic-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 902660,
+    "character_ids": [
+      "Cælliõpë-Area 52",
+      "Gulldåñ-Area 52",
+      "Dadbangerx-Thrall",
+      "Lexiras-Stormrage",
+      "Dracthyros-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 918524,
+    "character_ids": [
+      "Itzzo-Illidan",
+      "Ograda-Azralon",
+      "Emberski-Sargeras",
+      "Oluiz-Azralon",
+      "Noctemdh-Sargeras"
+    ]
+  },
+  {
+    "run_id": 925924,
+    "character_ids": [
+      "Raynfall-Bleeding Hollow",
+      "Katacola-Dentarg",
+      "Magicpriest-Sargeras",
+      "Chivendor-Sargeras",
+      "Dylanxd-Sargeras"
+    ]
+  },
+  {
+    "run_id": 896188,
+    "character_ids": [
+      "Rink-Frostmourne",
+      "Retriglute-Frostmourne",
+      "Fizzythegoat-Frostmourne",
+      "Dizzylifee-Frostmourne",
+      "Crsoaow-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 928702,
+    "character_ids": [
+      "Notguy-Barthilas",
+      "Dogknips-Proudmoore",
+      "Bakagor-Mal'Ganis",
+      "Cigi-Mal'Ganis",
+      "Crasherdh-Illidan"
+    ]
+  },
+  {
+    "run_id": 902275,
+    "character_ids": [
+      "Jeeun-Tichondrius",
+      "Ctierdamage-Tichondrius",
+      "Alunagryn-Boulderfist",
+      "Chowroon-Tichondrius",
+      "Onlyphansly-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 983774,
+    "character_ids": [
+      "Huyn-Barthilas",
+      "Photismos-Frostmourne",
+      "Novcc-Barthilas",
+      "Wuhaheiha-Frostmourne",
+      "Kriegx-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 907959,
+    "character_ids": [
+      "Galo-Hyjal",
+      "Elwhy-Frostmourne",
+      "Parashock-Frostmourne",
+      "Justchiji-Frostmourne",
+      "Jink-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 902783,
+    "character_ids": [
+      "Storymage-Sargeras",
+      "Kukúí-Quel'Thalas",
+      "Acheilos-Dalaran",
+      "Gruesomelock-Illidan",
+      "Móñk-Shattered Hand"
+    ]
+  },
+  {
+    "run_id": 899832,
+    "character_ids": [
+      "Mageeboey-Area 52",
+      "Hotweenie-Illidan",
+      "Gàrrosh-Proudmoore",
+      "Chainedogre-Area 52",
+      "Lorionnmonk-Area 52"
+    ]
+  },
+  {
+    "run_id": 896163,
+    "character_ids": [
+      "Ottõ-Stormrage",
+      "Pyråmid-Area 52",
+      "Inviswar-Stormrage",
+      "Shádöwx-Stormrage",
+      "Sayarmar-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 920530,
+    "character_ids": [
+      "Orangeneko-Illidan",
+      "Zellamdk-Illidan",
+      "Tinphoon-Illidan",
+      "Xirequacker-Illidan",
+      "Aemeaths-Illidan"
+    ]
+  },
+  {
+    "run_id": 908880,
+    "character_ids": [
+      "Shalesmash-Area 52",
+      "Chicknourish-Burning Legion",
+      "Gronkz-Stormrage",
+      "Cosmictanktv-Proudmoore",
+      "Notpoo-Area 52"
+    ]
+  },
+  {
+    "run_id": 916284,
+    "character_ids": [
+      "Latiòs-Stormrage",
+      "Bopittwistit-Area 52",
+      "Blackshaft-Area 52",
+      "Asesinap-Illidan",
+      "Revelynn-Blackhand"
+    ]
+  },
+  {
+    "run_id": 995098,
+    "character_ids": [
+      "Randmage-Frostmourne",
+      "Paladin-Frostmourne",
+      "Fatd-Frostmourne",
+      "Warlockthis-Frostmourne",
+      "Oochi-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 922470,
+    "character_ids": [
+      "Bwonarea-Mal'Ganis",
+      "Jab-Winterhoof",
+      "Vraull-Mal'Ganis",
+      "Druskvoker-Mal'Ganis",
+      "Arcbloodh-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 992638,
+    "character_ids": [
+      "Duxmage-Frostmourne",
+      "Baltironzz-Frostmourne",
+      "Spooi-Barthilas",
+      "Seliana-Frostmourne",
+      "Visherademon-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 955636,
+    "character_ids": [
+      "Redhasmagic-Barthilas",
+      "Kookuang-Tichondrius",
+      "Kinkou-Barthilas",
+      "Buchi-Barthilas",
+      "Ozzyawa-Barthilas"
+    ]
+  },
+  {
+    "run_id": 926146,
+    "character_ids": [
+      "Farscythz-Area 52",
+      "Kittyykat-Frostmourne",
+      "Jjd-Illidan",
+      "Branari-Area 52",
+      "Lexiras-Stormrage"
+    ]
+  },
+  {
+    "run_id": 914116,
+    "character_ids": [
+      "Akiaura-Agamaggan",
+      "Dogknips-Proudmoore",
+      "Bakagor-Mal'Ganis",
+      "Vallck-Mannoroth",
+      "Cigi-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 940008,
+    "character_ids": [
+      "Bazee-Thrall",
+      "Weazem-Thrall",
+      "Fkbrindar-Tichondrius",
+      "Yixuan-Sen'jin",
+      "Leandrósm-Illidan"
+    ]
+  },
+  {
+    "run_id": 915335,
+    "character_ids": [
+      "Rickhot-Quel'Thalas",
+      "Evandruid-Stormrage",
+      "Khyeva-Area 52",
+      "Xhulou-Stormrage",
+      "Kungfupoo-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 919314,
+    "character_ids": [
+      "Fidorawr-Moon Guard",
+      "Skyandra-Moon Guard",
+      "Waterveil-Moon Guard",
+      "Overlordmoon-Moon Guard",
+      "Kirinichiban-Area 52"
+    ]
+  },
+  {
+    "run_id": 908953,
+    "character_ids": [
+      "Dapperspud-Frostmourne",
+      "Warsrior-Area 52",
+      "Lyreith-Illidan",
+      "Evandzhelina-Area 52",
+      "Novasdh-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 971799,
+    "character_ids": [
+      "Yehdardi-Frostmourne",
+      "Zlxoxo-Frostmourne",
+      "Bittergrip-Frostmourne",
+      "Swoleman-Frostmourne",
+      "Gargoyleman-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 896212,
+    "character_ids": [
+      "Atthegates-Altar of Storms",
+      "Kaisuxlol-Moon Guard",
+      "Acheilos-Dalaran",
+      "Floordecor-Tichondrius",
+      "Ankollogist-Area 52"
+    ]
+  },
+  {
+    "run_id": 904340,
+    "character_ids": [
+      "Jeeun-Tichondrius",
+      "Ctierdamage-Tichondrius",
+      "Alunagryn-Boulderfist",
+      "Chowroon-Tichondrius",
+      "Onlyphansly-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 901176,
+    "character_ids": [
+      "Mageeboey-Area 52",
+      "Kurtec-Frostmourne",
+      "Oshamonster-Area 52",
+      "Jimmýdh-Area 52",
+      "Tavidh-Stormrage"
+    ]
+  },
+  {
+    "run_id": 891391,
+    "character_ids": [
+      "Norangnabi-Tichondrius",
+      "Teldrasa-Azgalor",
+      "Gaethknight-Tichondrius",
+      "Sandowo-Tichondrius",
+      "Yorijori-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 908823,
+    "character_ids": [
+      "Alexaä-Area 52",
+      "Lukethepug-Dalaran",
+      "Snowyn-Illidan",
+      "Goodyy-Area 52",
+      "Justmuffin-Area 52"
+    ]
+  },
+  {
+    "run_id": 921956,
+    "character_ids": [
+      "Nepotism-Zul'jin",
+      "Asaltto-Illidan",
+      "Hokie-Mal'Ganis",
+      "Ilyarozanov-Illidan",
+      "Peatmanda-Sargeras"
+    ]
+  },
+  {
+    "run_id": 902787,
+    "character_ids": [
+      "Fanyue-Quel'Thalas",
+      "Amersi-Frostmourne",
+      "Cmokey-Frostmourne",
+      "Móñk-Shattered Hand",
+      "Strzy-Illidan"
+    ]
+  },
+  {
+    "run_id": 892448,
+    "character_ids": [
+      "Muglackshond-Frostmourne",
+      "Kizk-Zul'jin",
+      "Rayalla-Onyxia",
+      "Krillaris-Illidan",
+      "Vonuun-Stormrage"
+    ]
+  },
+  {
+    "run_id": 892815,
+    "character_ids": [
+      "Ritelle-Wyrmrest Accord",
+      "Anarchic-Zul'jin",
+      "Iruden-Spinebreaker",
+      "Faloot-Tichondrius",
+      "Lynvara-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 908888,
+    "character_ids": [
+      "Deepps-Mal'Ganis",
+      "Poundinghunt-Stormrage",
+      "Shadeofgreys-Proudmoore",
+      "Cosmictanktv-Proudmoore",
+      "Smoovmonk-Illidan"
+    ]
+  },
+  {
+    "run_id": 961315,
+    "character_ids": [
+      "Gyozalover-Tichondrius",
+      "Erenei-Tichondrius",
+      "Pikashaman-Thrall",
+      "Hauntxo-Tichondrius",
+      "Onlykegs-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 921033,
+    "character_ids": [
+      "Yungprocx-Tichondrius",
+      "Zaicó-Area 52",
+      "Dotfever-Area 52",
+      "Isabrewa-Proudmoore",
+      "Rivusdh-Area 52"
+    ]
+  },
+  {
+    "run_id": 940522,
+    "character_ids": [
+      "Kanamage-Illidan",
+      "Drpuñetazos-Garithos",
+      "Shapeshift-Zul'jin",
+      "Heosol-Illidan",
+      "Mefbleiser-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 893710,
+    "character_ids": [
+      "Krethrah-Hakkar",
+      "Kubz-Area 52",
+      "Jademengsk-Turalyon",
+      "Slimthiq-Proudmoore",
+      "Trojãn-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 992456,
+    "character_ids": [
+      "Duxmage-Frostmourne",
+      "Baltironzz-Frostmourne",
+      "Spooi-Barthilas",
+      "Seliana-Frostmourne",
+      "Visherademon-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 916492,
+    "character_ids": [
+      "Futanarichan-Mal'Ganis",
+      "Dhuntis-Area 52",
+      "Goleirofabio-Azralon",
+      "AnonFDF2FF7-Anonymous",
+      "Drygor-Illidan"
+    ]
+  },
+  {
+    "run_id": 893953,
+    "character_ids": [
+      "Fairun-Frostmourne",
+      "Galo-Hyjal",
+      "Codythekingg-Illidan",
+      "Gruhan-Korgath",
+      "Ilidean-Illidan"
+    ]
+  },
+  {
+    "run_id": 900057,
+    "character_ids": [
+      "Slyzin-Area 52",
+      "Osnu-Ragnaros",
+      "Linkstery-Darrowmere",
+      "Tòntò-Area 52",
+      "Stryphe-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 894262,
+    "character_ids": [
+      "Slime-Illidan",
+      "Tän-Bleeding Hollow",
+      "Vayk-Bleeding Hollow",
+      "Redizle-Wildhammer",
+      "Aetheris-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 894566,
+    "character_ids": [
+      "Yuchiyo-Barthilas",
+      "Nespyy-Frostmourne",
+      "Scythè-Frostmourne",
+      "Nsõ-Frostmourne",
+      "Acress-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 894608,
+    "character_ids": [
+      "Plasmaxd-Ragnaros",
+      "Retwings-Daggerspine",
+      "Luvalot-Arthas",
+      "Gigachad-Arthas",
+      "Momô-Arthas"
+    ]
+  },
+  {
+    "run_id": 894806,
+    "character_ids": [
+      "Seraphimqt-Illidan",
+      "Statdru-Area 52",
+      "Hexualheals-Sargeras",
+      "Tbcmaingame-Illidan",
+      "Vynashdh-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 895577,
+    "character_ids": [
+      "Armandeusx-Illidan",
+      "Riä-Illidan",
+      "Micc-Thrall",
+      "Carméla-Wyrmrest Accord",
+      "Nvd-Mannoroth"
+    ]
+  },
+  {
+    "run_id": 895635,
+    "character_ids": [
+      "Ammuu-Moon Guard",
+      "Chasenx-Area 52",
+      "Knin-Area 52",
+      "Celrathun-Sargeras",
+      "Vicimonkie-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 966921,
+    "character_ids": [
+      "Nozuk-Kel'Thuzad",
+      "Puurebear-Area 52",
+      "Bermangus-Area 52",
+      "Narfmonk-Area 52",
+      "Felvoiid-Area 52"
+    ]
+  },
+  {
+    "run_id": 896150,
+    "character_ids": [
+      "Mershme-Illidan",
+      "Afreecalion-Area 52",
+      "Blipblap-Illidan",
+      "Llpss-Illidan",
+      "Gnubootylol-Illidan"
+    ]
+  },
+  {
+    "run_id": 896152,
+    "character_ids": [
+      "Whanhèda-Stormrage",
+      "Faypally-Proudmoore",
+      "Dronk-Moon Guard",
+      "Seedhorse-Illidan",
+      "Revelynn-Blackhand"
+    ]
+  },
+  {
+    "run_id": 896194,
+    "character_ids": [
+      "Milouri-Stormrage",
+      "Chicknourish-Burning Legion",
+      "Emobolg-Tichondrius",
+      "Jjd-Illidan",
+      "Pablomonky-Stormrage"
+    ]
+  },
+  {
+    "run_id": 896284,
+    "character_ids": [
+      "Miatharas-Sargeras",
+      "Koreanpork-Sargeras",
+      "Audijr-Mal'Ganis",
+      "Meanestman-Sargeras",
+      "Zellarah-Sargeras"
+    ]
+  },
+  {
+    "run_id": 896434,
+    "character_ids": [
+      "Davobust-Khaz'goroth",
+      "Midwa-Aman'Thul",
+      "Jojosdruid-Frostmourne",
+      "Kashade-Aman'Thul",
+      "Thundercant-Dath'Remar"
+    ]
+  },
+  {
+    "run_id": 938571,
+    "character_ids": [
+      "Eleiviate-Sargeras",
+      "Nisiopal-Sargeras",
+      "Floridawoman-Sargeras",
+      "Shaff-Stormrage",
+      "Noctemdh-Sargeras"
+    ]
+  },
+  {
+    "run_id": 914097,
+    "character_ids": [
+      "Akiaura-Agamaggan",
+      "Falsocria-Azralon",
+      "Intrikit-Mal'Ganis",
+      "Bakagor-Mal'Ganis",
+      "Cigi-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 897164,
+    "character_ids": [
+      "Pát-Khaz'goroth",
+      "Eternalmop-Stormrage",
+      "Ytu-Mal'Ganis",
+      "Thiicc-Illidan",
+      "Kiossk-Sargeras"
+    ]
+  },
+  {
+    "run_id": 916523,
+    "character_ids": [
+      "Ironfistt-Saurfang",
+      "Slothination-Dath'Remar",
+      "Cerrong-Saurfang",
+      "Sáubãnh-Barthilas",
+      "Mixed-Khaz'goroth"
+    ]
+  },
+  {
+    "run_id": 939937,
+    "character_ids": [
+      "Bazee-Thrall",
+      "Weazem-Thrall",
+      "Fkbrindar-Tichondrius",
+      "Yixuan-Sen'jin",
+      "Leandrósm-Illidan"
+    ]
+  },
+  {
+    "run_id": 897750,
+    "character_ids": [
+      "Ipdfwu-Proudmoore",
+      "Boostipal-Tichondrius",
+      "Shovelknight-Stormrage",
+      "Fewsha-Korgath",
+      "Fishnchimps-Rivendare"
+    ]
+  },
+  {
+    "run_id": 897896,
+    "character_ids": [
+      "Ricstrong-Frostmourne",
+      "Dawnxp-Tichondrius",
+      "Jordarni-Frostmourne",
+      "Papablèss-Tichondrius",
+      "Kicknflip-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 928074,
+    "character_ids": [
+      "Barthory-Azralon",
+      "Frostygnome-Wyrmrest Accord",
+      "Invicting-Frostmourne",
+      "Saliana-Azralon",
+      "Expobeam-Azralon"
+    ]
+  },
+  {
+    "run_id": 898157,
+    "character_ids": [
+      "Luthaenus-Zul'jin",
+      "Zatox-Zul'jin",
+      "Overlordtwig-Stormrage",
+      "Allyourluck-Illidan",
+      "Serelynn-Sargeras"
+    ]
+  },
+  {
+    "run_id": 898181,
+    "character_ids": [
+      "Avie-Saurfang",
+      "Nôodle-Zul'jin",
+      "Deerbear-Area 52",
+      "Nethía-Stormrage",
+      "Ezarith-Stormrage"
+    ]
+  },
+  {
+    "run_id": 898293,
+    "character_ids": [
+      "Gloopgloop-Frostmourne",
+      "Fma-Aman'Thul",
+      "Nezagu-Frostmourne",
+      "Nativ-Aman'Thul",
+      "Willyb-Aman'Thul"
+    ]
+  },
+  {
+    "run_id": 919317,
+    "character_ids": [
+      "Fidorawr-Moon Guard",
+      "Skyandra-Moon Guard",
+      "Waterveil-Moon Guard",
+      "Overlordmoon-Moon Guard",
+      "Kirinichiban-Area 52"
+    ]
+  },
+  {
+    "run_id": 921066,
+    "character_ids": [
+      "Unhoogghly-Mal'Ganis",
+      "Yogurtmonkey-Thrall",
+      "Rivchi-Proudmoore",
+      "Donniboy-Mal'Ganis",
+      "Runo-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 898613,
+    "character_ids": [
+      "Tricksystems-Tichondrius",
+      "Awooweewaa-Nagrand",
+      "Tàzdingo-Tichondrius",
+      "Arzyn-Mal'Ganis",
+      "Kigglypuff-Illidan"
+    ]
+  },
+  {
+    "run_id": 898614,
+    "character_ids": [
+      "Ambívalence-Moon Guard",
+      "Satarial-Stormrage",
+      "Goobledooble-Moon Guard",
+      "Xiaolan-Proudmoore",
+      "Kyurose-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 983957,
+    "character_ids": [
+      "Kywoo-Frostmourne",
+      "Manbob-Area 52",
+      "Captinpink-Area 52",
+      "Ralphina-Illidan",
+      "Demonslayeru-Stormrage"
+    ]
+  },
+  {
+    "run_id": 899014,
+    "character_ids": [
+      "Evniki-Illidan",
+      "Nerøna-Area 52",
+      "Kungfubaron-Area 52",
+      "Littlevoker-Zul'jin",
+      "Ziiqq-Illidan"
+    ]
+  },
+  {
+    "run_id": 899382,
+    "character_ids": [
+      "Mythridates-Illidan",
+      "Vernen-Tichondrius",
+      "Vistalala-Sargeras",
+      "Dragheera-Zul'jin",
+      "Waffl-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 923599,
+    "character_ids": [
+      "Ograda-Azralon",
+      "Emberski-Sargeras",
+      "Oluiz-Azralon",
+      "Bodewig-Thrall",
+      "Deathstrokes-Quel'Thalas"
+    ]
+  },
+  {
+    "run_id": 1043431,
+    "character_ids": [
+      "Rukaris-Area 52",
+      "Størmhide-Feathermoon",
+      "Zungaponga-Area 52",
+      "Apôllyon-Scarlet Crusade",
+      "Spendragõn-Area 52"
+    ]
+  },
+  {
+    "run_id": 899769,
+    "character_ids": [
+      "Dalbear-Area 52",
+      "Kungdru-Wyrmrest Accord",
+      "Droki-Uldum",
+      "Daladowson-Proudmoore",
+      "Talkevo-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 925427,
+    "character_ids": [
+      "Maxdps-Area 52",
+      "Duxx-Mannoroth",
+      "Iildevo-Tichondrius",
+      "Wyf-Frostmourne",
+      "Mahndoo-Area 52"
+    ]
+  },
+  {
+    "run_id": 915419,
+    "character_ids": [
+      "Shnuggles-Zul'jin",
+      "Evandruid-Stormrage",
+      "Kate-Thrall",
+      "Xhulou-Stormrage",
+      "Kungfupoo-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 900403,
+    "character_ids": [
+      "Gzi-Zul'jin",
+      "Terrylabonte-Sisters of Elune",
+      "Valtir-Tichondrius",
+      "Zelldk-Khaz'goroth",
+      "Penlandis-Illidan"
+    ]
+  },
+  {
+    "run_id": 900647,
+    "character_ids": [
+      "Makeekakaa-Illidan",
+      "Xemaruz-Frostmourne",
+      "Boomermanz-Frostmourne",
+      "Katripria-Frostmourne",
+      "Wanwam-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 901025,
+    "character_ids": [
+      "Rektpal-Frostmourne",
+      "Craftywafty-Frostmourne",
+      "Sofelle-Caelestrasz",
+      "Wàzoo-Frostmourne",
+      "Cäligulä-Barthilas"
+    ]
+  },
+  {
+    "run_id": 920035,
+    "character_ids": [
+      "Oneseconds-Illidan",
+      "Ejaaydk-Area 52",
+      "Demonkow-Lightning's Blade",
+      "Kissweaver-Area 52",
+      "Keyflambae-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 901073,
+    "character_ids": [
+      "Takspally-Thrall",
+      "Willsmith-Lightbringer",
+      "Gothh-Mal'Ganis",
+      "Masetmonk-Thrall",
+      "Enzwho-Thrall"
+    ]
+  },
+  {
+    "run_id": 901061,
+    "character_ids": [
+      "Rootfifth-Dalaran",
+      "Vandrant-Dalaran",
+      "Andorius-Tichondrius",
+      "Arcaik-Tichondrius",
+      "Hollapeño-Stormrage"
+    ]
+  },
+  {
+    "run_id": 901431,
+    "character_ids": [
+      "Rickhot-Quel'Thalas",
+      "Light-Kirin Tor",
+      "Buffpriestt-Area 52",
+      "Xihuan-Illidan",
+      "Lastedh-Area 52"
+    ]
+  },
+  {
+    "run_id": 901435,
+    "character_ids": [
+      "Joeywinsly-Area 52",
+      "Bëëftard-Tichondrius",
+      "Debixie-Kul Tiras",
+      "Sydbrew-Area 52",
+      "Juicemcmonk-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 959294,
+    "character_ids": [
+      "Zeroapm-Frostmourne",
+      "Psygerzero-Barthilas",
+      "Onlyform-Stormrage",
+      "Frogh-Barthilas",
+      "Hauntz-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 901879,
+    "character_ids": [
+      "Alexaä-Area 52",
+      "Litherius-Illidan",
+      "Väcalola-Illidan",
+      "Zubxs-Illidan",
+      "Ceelinda-Illidan"
+    ]
+  },
+  {
+    "run_id": 901798,
+    "character_ids": [
+      "Coldyeller-Tichondrius",
+      "Lofidk-Area 52",
+      "Bentheblasta-Area 52",
+      "Toffyr-Tichondrius",
+      "Bblaney-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 901916,
+    "character_ids": [
+      "Gòdspi-Barthilas",
+      "Réflection-Tichondrius",
+      "Brobinhood-Illidan",
+      "Bigwigsvoke-Area 52",
+      "Controlfate-Illidan"
+    ]
+  },
+  {
+    "run_id": 904344,
+    "character_ids": [
+      "Jeeun-Tichondrius",
+      "Ctierdamage-Tichondrius",
+      "Alunagryn-Boulderfist",
+      "Chowroon-Tichondrius",
+      "Onlyphansly-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 903477,
+    "character_ids": [
+      "Pinkbrd-Area 52",
+      "Nonöm-Zul'jin",
+      "Nãi-Illidan",
+      "Warmmilk-Mal'Ganis",
+      "Birko-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 901960,
+    "character_ids": [
+      "Warsrior-Area 52",
+      "Dilö-Area 52",
+      "Blackshaft-Area 52",
+      "Evandzhelina-Area 52",
+      "Lanlv-Illidan"
+    ]
+  },
+  {
+    "run_id": 902251,
+    "character_ids": [
+      "Oldboy-Moon Guard",
+      "Finichír-Area 52",
+      "Cuprehan-Stormrage",
+      "Mindgames-Bleeding Hollow",
+      "Dheuro-Kil'jaeden"
+    ]
+  },
+  {
+    "run_id": 936993,
+    "character_ids": [
+      "Séreníty-Frostmourne",
+      "Rendymarsh-Frostmourne",
+      "Tabitrisao-Dath'Remar",
+      "Miistyy-Frostmourne",
+      "Pepg-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 902559,
+    "character_ids": [
+      "Natashy-Zul'jin",
+      "Heâdhunter-Sargeras",
+      "Zanjy-Area 52",
+      "Vallck-Mannoroth",
+      "Twiztedwayz-Thrall"
+    ]
+  },
+  {
+    "run_id": 902811,
+    "character_ids": [
+      "Notoriousz-Mal'Ganis",
+      "Praetørian-Tichondrius",
+      "Caidreth-Moon Guard",
+      "Sorrowsham-Sargeras",
+      "Asesinap-Illidan"
+    ]
+  },
+  {
+    "run_id": 903189,
+    "character_ids": [
+      "Itstk-Kel'Thuzad",
+      "Jediyuh-Tichondrius",
+      "Illness-Mal'Ganis",
+      "Myrisae-Stormrage",
+      "Verysuss-Stormrage"
+    ]
+  },
+  {
+    "run_id": 927078,
+    "character_ids": [
+      "Nàthra-Thrall",
+      "Herkuless-Area 52",
+      "Habaneristo-Tichondrius",
+      "Amarxd-Azgalor",
+      "Bokoharambae-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 903556,
+    "character_ids": [
+      "Ryanspally-Area 52",
+      "Nosaoo-Zul'jin",
+      "Ooze-Moon Guard",
+      "Luceed-Frostmourne",
+      "Lopaka-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 904008,
+    "character_ids": [
+      "Kenju-Blackrock",
+      "Bigpet-Kel'Thuzad",
+      "Noed-Gurubashi",
+      "Branari-Area 52",
+      "Burntcookies-Area 52"
+    ]
+  },
+  {
+    "run_id": 904601,
+    "character_ids": [
+      "Muglackshond-Frostmourne",
+      "Koalaface-Frostmourne",
+      "Gaethknight-Tichondrius",
+      "Sephilis-Frostmourne",
+      "Yorijori-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 905257,
+    "character_ids": [
+      "Knauer-Tichondrius",
+      "Dkariñoo-Quel'Thalas",
+      "Quixotic-Zul'jin",
+      "Forrestfists-Zul'jin",
+      "Mömmy-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 945870,
+    "character_ids": [
+      "Arimore-Area 52",
+      "Bant-Frostmourne",
+      "Dixieleet-Area 52",
+      "Soow-Area 52",
+      "Cugenc-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 927169,
+    "character_ids": [
+      "Lexiahx-Frostmourne",
+      "Miaomiaomiao-Thaurissan",
+      "Muk-Frostmourne",
+      "Shipkuhh-Frostmourne",
+      "Doublebrew-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 911467,
+    "character_ids": [
+      "Speedypeter-Zul'jin",
+      "Dodeyparton-Mal'Ganis",
+      "Codyhunt-Illidan",
+      "Tavidh-Stormrage",
+      "Critvoid-Thrall"
+    ]
+  },
+  {
+    "run_id": 905925,
+    "character_ids": [
+      "Slapsixnine-Moon Guard",
+      "Vitalitie-Area 52",
+      "Krethrah-Hakkar",
+      "Youknownot-Tichondrius",
+      "Lunchbox-Thrall"
+    ]
+  },
+  {
+    "run_id": 905991,
+    "character_ids": [
+      "Mmrgll-Stormrage",
+      "Farscythz-Area 52",
+      "Corwaloka-Stormrage",
+      "Daisylock-Area 52",
+      "Strzy-Illidan"
+    ]
+  },
+  {
+    "run_id": 906283,
+    "character_ids": [
+      "Critbot-Proudmoore",
+      "Dhuntis-Area 52",
+      "Oshamonster-Area 52",
+      "Odrax-Illidan",
+      "Rayalla-Onyxia"
+    ]
+  },
+  {
+    "run_id": 906317,
+    "character_ids": [
+      "Mershme-Illidan",
+      "Afreecalion-Area 52",
+      "Blipblap-Illidan",
+      "Llpss-Illidan",
+      "Gnubootylol-Illidan"
+    ]
+  },
+  {
+    "run_id": 938525,
+    "character_ids": [
+      "Eleiviate-Sargeras",
+      "Nisiopal-Sargeras",
+      "Floridawoman-Sargeras",
+      "Shaff-Stormrage",
+      "Impepega-Illidan"
+    ]
+  },
+  {
+    "run_id": 906963,
+    "character_ids": [
+      "Davobust-Khaz'goroth",
+      "Midwa-Aman'Thul",
+      "Jojosdruid-Frostmourne",
+      "Kashade-Aman'Thul",
+      "Thundercant-Dath'Remar"
+    ]
+  },
+  {
+    "run_id": 921038,
+    "character_ids": [
+      "Unhoogghly-Mal'Ganis",
+      "Yogurtmonkey-Thrall",
+      "Rivchi-Proudmoore",
+      "Donniboy-Mal'Ganis",
+      "Runo-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 907001,
+    "character_ids": [
+      "Keliderstol-Illidan",
+      "Cokehyena-Area 52",
+      "Chickichimei-Area 52",
+      "Publicbus-Tichondrius",
+      "Zekya-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 992663,
+    "character_ids": [
+      "Baltironzz-Frostmourne",
+      "Spooi-Barthilas",
+      "Seliana-Frostmourne",
+      "Garaganta-Frostmourne",
+      "Visherademon-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 941588,
+    "character_ids": [
+      "Slickhpsttv-Stormrage",
+      "Traklok-Kil'jaeden",
+      "Tilean-Frostmourne",
+      "Jimmýdh-Area 52",
+      "Selerotdh-Area 52"
+    ]
+  },
+  {
+    "run_id": 908025,
+    "character_ids": [
+      "Ammuu-Moon Guard",
+      "Eternalmop-Stormrage",
+      "Ytu-Mal'Ganis",
+      "Thiicc-Illidan",
+      "Kiossk-Sargeras"
+    ]
+  },
+  {
+    "run_id": 908328,
+    "character_ids": [
+      "Sunasyaht-Illidan",
+      "Gobitron-Area 52",
+      "Elmmerfud-Tichondrius",
+      "Djinnmonk-Sargeras",
+      "Hahabeamxd-Illidan"
+    ]
+  },
+  {
+    "run_id": 939895,
+    "character_ids": [
+      "Weazem-Thrall",
+      "Fkbrindar-Tichondrius",
+      "Yixuan-Sen'jin",
+      "Leandrósm-Illidan",
+      "Rawrdh-Illidan"
+    ]
+  },
+  {
+    "run_id": 914078,
+    "character_ids": [
+      "Armandeusx-Illidan",
+      "Gompachiro-Illidan",
+      "Riä-Illidan",
+      "Kayymonk-Stormrage",
+      "Nvd-Mannoroth"
+    ]
+  },
+  {
+    "run_id": 910213,
+    "character_ids": [
+      "Skorri-Zul'jin",
+      "Grippycooch-Barthilas",
+      "Shimmothy-Emerald Dream",
+      "Versus-Area 52",
+      "Benkeî-Area 52"
+    ]
+  },
+  {
+    "run_id": 920262,
+    "character_ids": [
+      "Ephémère-Illidan",
+      "Ceddy-Area 52",
+      "Malozev-Tichondrius",
+      "Chicknourish-Burning Legion",
+      "Drchase-Quel'Thalas"
+    ]
+  },
+  {
+    "run_id": 908780,
+    "character_ids": [
+      "Nespyy-Frostmourne",
+      "Scythè-Frostmourne",
+      "Nsõ-Frostmourne",
+      "Totezmagoats-Stormrage",
+      "Acress-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 909913,
+    "character_ids": [
+      "Taelmin-Stormrage",
+      "Retwings-Daggerspine",
+      "Luvalot-Arthas",
+      "Gigachad-Arthas",
+      "Momô-Arthas"
+    ]
+  },
+  {
+    "run_id": 910220,
+    "character_ids": [
+      "Fma-Aman'Thul",
+      "Newswatcher-Barthilas",
+      "Cashr-Frostmourne",
+      "Nativ-Aman'Thul",
+      "Willyb-Aman'Thul"
+    ]
+  },
+  {
+    "run_id": 910940,
+    "character_ids": [
+      "Palakas-Stormrage",
+      "Sabbith-Burning Legion",
+      "Valec-Area 52",
+      "Stw-Area 52",
+      "Deemunhuntoh-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 911857,
+    "character_ids": [
+      "Gzi-Zul'jin",
+      "Paladindita-Ragnaros",
+      "Satanssister-Area 52",
+      "Twopac-Area 52",
+      "Zàomega-Alterac Mountains"
+    ]
+  },
+  {
+    "run_id": 911858,
+    "character_ids": [
+      "Jaysplosion-Frostmourne",
+      "Pillbox-Frostmourne",
+      "Jennay-Saurfang",
+      "Huntingscree-Sargeras",
+      "Bogonk-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 912264,
+    "character_ids": [
+      "Blinc-Barthilas",
+      "Litherius-Illidan",
+      "Tuwillika-Wyrmrest Accord",
+      "Jabmöney-Darrowmere",
+      "Ceelinda-Illidan"
+    ]
+  },
+  {
+    "run_id": 912346,
+    "character_ids": [
+      "Joeywinsly-Area 52",
+      "Shiningcawks-Frostmourne",
+      "Yuchiyo-Barthilas",
+      "Chikaren-Frostmourne",
+      "Poilockpoi-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 923534,
+    "character_ids": [
+      "Solignis-Shadowsong",
+      "Untameablex-Tichondrius",
+      "Xsín-Zul'jin",
+      "Thoir-Mok'Nathal",
+      "Altffour-Hakkar"
+    ]
+  },
+  {
+    "run_id": 912943,
+    "character_ids": [
+      "Ambívalence-Moon Guard",
+      "Satarial-Stormrage",
+      "Goobledooble-Moon Guard",
+      "Xiaolan-Proudmoore",
+      "Kyurose-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 913001,
+    "character_ids": [
+      "Bluetail-Wyrmrest Accord",
+      "Asaltto-Illidan",
+      "Yapr-Proudmoore",
+      "Imao-Frostmourne",
+      "Bowser-Deathwing"
+    ]
+  },
+  {
+    "run_id": 914583,
+    "character_ids": [
+      "Zeroapm-Frostmourne",
+      "Psygerzero-Barthilas",
+      "Onlyform-Stormrage",
+      "Remirgatkona-Barthilas",
+      "Frogh-Barthilas"
+    ]
+  },
+  {
+    "run_id": 940625,
+    "character_ids": [
+      "Kanamage-Illidan",
+      "Drpuñetazos-Garithos",
+      "Pasteurise-Illidan",
+      "Heosol-Illidan",
+      "Mefbleiser-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 914028,
+    "character_ids": [
+      "Thesquidgame-Frostmourne",
+      "Faypally-Proudmoore",
+      "Elliji-Tichondrius",
+      "Carméla-Wyrmrest Accord",
+      "Revelynn-Blackhand"
+    ]
+  },
+  {
+    "run_id": 936987,
+    "character_ids": [
+      "Nèrp-Aman'Thul",
+      "Moonrin-Khaz'goroth",
+      "Verii-Aman'Thul",
+      "Bavragor-Aman'Thul",
+      "Legeorge-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 926031,
+    "character_ids": [
+      "Gwyness-Kil'jaeden",
+      "Captinpink-Area 52",
+      "Jjd-Illidan",
+      "Reptar-Anetheron",
+      "Móñk-Shattered Hand"
+    ]
+  },
+  {
+    "run_id": 916642,
+    "character_ids": [
+      "Pexus-Stormrage",
+      "Hajimiiyo-Illidan",
+      "Sorrowsham-Sargeras",
+      "Zhachy-Ysera",
+      "Värius-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 915243,
+    "character_ids": [
+      "Natashy-Zul'jin",
+      "Orchsmashh-Area 52",
+      "Bakedrice-Mal'Ganis",
+      "Petrsykora-Stormrage",
+      "Zanjy-Area 52"
+    ]
+  },
+  {
+    "run_id": 948607,
+    "character_ids": [
+      "Fidorawr-Moon Guard",
+      "Skyandra-Moon Guard",
+      "Waterveil-Moon Guard",
+      "Overlordmoon-Moon Guard",
+      "Kirinichiban-Area 52"
+    ]
+  },
+  {
+    "run_id": 915749,
+    "character_ids": [
+      "Terrylabonte-Sisters of Elune",
+      "Affietaffie-Area 52",
+      "Asesinap-Illidan",
+      "Penlandis-Illidan",
+      "Noctemdh-Sargeras"
+    ]
+  },
+  {
+    "run_id": 916664,
+    "character_ids": [
+      "Dbraz-Illidan",
+      "Lumaa-Wyrmrest Accord",
+      "Alberic-Tichondrius",
+      "Aerogosa-Mannoroth",
+      "Akahashydh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 921080,
+    "character_ids": [
+      "Unhoogghly-Mal'Ganis",
+      "Yogurtmonkey-Thrall",
+      "Rivchi-Proudmoore",
+      "Donniboy-Mal'Ganis",
+      "Runo-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 992641,
+    "character_ids": [
+      "Duxmage-Frostmourne",
+      "Baltironzz-Frostmourne",
+      "Spooi-Barthilas",
+      "Garaganta-Frostmourne",
+      "Visherademon-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 917330,
+    "character_ids": [
+      "Ricstrong-Frostmourne",
+      "Craftywafty-Frostmourne",
+      "Jordarni-Frostmourne",
+      "Kicknflip-Frostmourne",
+      "Catfemboi-Stormrage"
+    ]
+  },
+  {
+    "run_id": 917387,
+    "character_ids": [
+      "Animalchoi-Tichondrius",
+      "Silverj-Frostmourne",
+      "Ghundyr-Tichondrius",
+      "Stupedlock-Tichondrius",
+      "Keybinds-Jaedenar"
+    ]
+  },
+  {
+    "run_id": 918252,
+    "character_ids": [
+      "Tatenashi-Caelestrasz",
+      "Aspiring-Nagrand",
+      "Shamayonaise-Nagrand",
+      "Shwack-Nagrand",
+      "Timmythedrgn-Saurfang"
+    ]
+  },
+  {
+    "run_id": 939989,
+    "character_ids": [
+      "Weazem-Thrall",
+      "Fkbrindar-Tichondrius",
+      "Yixuan-Sen'jin",
+      "Leandrósm-Illidan",
+      "Rawrdh-Illidan"
+    ]
+  },
+  {
+    "run_id": 918469,
+    "character_ids": [
+      "Vîrus-Barthilas",
+      "Mike-Caelestrasz",
+      "Sec-Zul'jin",
+      "Lightyearzz-Tichondrius",
+      "Emiliia-Barthilas"
+    ]
+  },
+  {
+    "run_id": 933935,
+    "character_ids": [
+      "Abled-Frostmourne",
+      "Zeodude-Frostmourne",
+      "Djparaplegic-Frostmourne",
+      "Zacx-Frostmourne",
+      "Forcedtodh-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 919606,
+    "character_ids": [
+      "Milkyzaddy-Barthilas",
+      "Imnotenz-Zul'jin",
+      "Lianzj-Frostmourne",
+      "Cucumbersxo-Barthilas",
+      "Glide-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 919603,
+    "character_ids": [
+      "Mexien-Frostmourne",
+      "Nezagu-Frostmourne",
+      "Hopezherbz-Black Dragonflight",
+      "Angrypriesty-Frostmourne",
+      "Sakakiyuuya-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 919612,
+    "character_ids": [
+      "Rainfalls-Mal'Ganis",
+      "Holykeste-Illidan",
+      "Vlendk-Tichondrius",
+      "Oshamonster-Area 52",
+      "Paperbrew-Area 52"
+    ]
+  },
+  {
+    "run_id": 919955,
+    "character_ids": [
+      "Ammuu-Moon Guard",
+      "Eternalmop-Stormrage",
+      "Ytu-Mal'Ganis",
+      "Thiicc-Illidan",
+      "Kiossk-Sargeras"
+    ]
+  },
+  {
+    "run_id": 920203,
+    "character_ids": [
+      "Itstk-Kel'Thuzad",
+      "Praetørian-Tichondrius",
+      "Tinylegs-Tichondrius",
+      "Wifekicker-Frostmourne",
+      "Smoovmonk-Illidan"
+    ]
+  },
+  {
+    "run_id": 938231,
+    "character_ids": [
+      "Skorri-Zul'jin",
+      "Chicknourish-Burning Legion",
+      "Grippycooch-Barthilas",
+      "Shimmothy-Emerald Dream",
+      "Benkeî-Area 52"
+    ]
+  },
+  {
+    "run_id": 920603,
+    "character_ids": [
+      "Davobust-Khaz'goroth",
+      "Midwa-Aman'Thul",
+      "Jojosdruid-Frostmourne",
+      "Kashade-Aman'Thul",
+      "Thundercant-Dath'Remar"
+    ]
+  },
+  {
+    "run_id": 945863,
+    "character_ids": [
+      "Arimore-Area 52",
+      "Okayplayyer-Illidan",
+      "Dixieleet-Area 52",
+      "Ooyu-Moonrunner",
+      "Kecub-Sargeras"
+    ]
+  },
+  {
+    "run_id": 922025,
+    "character_ids": [
+      "Gbulls-Area 52",
+      "Illness-Mal'Ganis",
+      "Zygunda-Illidan",
+      "Goodgodman-Area 52",
+      "Outrageoús-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 922687,
+    "character_ids": [
+      "Qwïnn-Zul'jin",
+      "Darchar-Tichondrius",
+      "Cbk-Hyjal",
+      "Forrestfists-Zul'jin",
+      "Impepega-Illidan"
+    ]
+  },
+  {
+    "run_id": 941538,
+    "character_ids": [
+      "Fierce-Illidan",
+      "Hevokz-Stormrage",
+      "Cabelas-Tichondrius",
+      "Zaddyshampog-Tichondrius",
+      "Cleos-Duskwood"
+    ]
+  },
+  {
+    "run_id": 925571,
+    "character_ids": [
+      "Light-Kirin Tor",
+      "Guagua-Tichondrius",
+      "Warmmilk-Mal'Ganis",
+      "Birko-Mal'Ganis",
+      "Goofygecko-Illidan"
+    ]
+  },
+  {
+    "run_id": 1019522,
+    "character_ids": [
+      "Gingersnapss-Jubei'Thos",
+      "Helpmyaggro-Tichondrius",
+      "Xarrah-Mal'Ganis",
+      "Spicyßoi-Frostmourne",
+      "Slima-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 988502,
+    "character_ids": [
+      "Ograda-Azralon",
+      "Emberski-Sargeras",
+      "Oluiz-Azralon",
+      "Fláre-Quel'Thalas",
+      "Waffl-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 928083,
+    "character_ids": [
+      "Warsrior-Area 52",
+      "Knauer-Tichondrius",
+      "Evandzhelina-Area 52",
+      "Pasteurise-Illidan",
+      "Grippy-Shadowmoon"
+    ]
+  },
+  {
+    "run_id": 924768,
+    "character_ids": [
+      "Scoochi-Illidan",
+      "Quixotic-Zul'jin",
+      "Bessospins-Illidan",
+      "Blamefists-Stormrage",
+      "Strzy-Illidan"
+    ]
+  },
+  {
+    "run_id": 956869,
+    "character_ids": [
+      "Milouri-Stormrage",
+      "Dilö-Area 52",
+      "Shockdealer-Stormrage",
+      "Pablomonky-Stormrage",
+      "Fadush-Stormrage"
+    ]
+  },
+  {
+    "run_id": 992765,
+    "character_ids": [
+      "Mne-Frostmourne",
+      "Séreníty-Frostmourne",
+      "Rendymarsh-Frostmourne",
+      "Insanedrood-Barthilas",
+      "Pepg-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 925773,
+    "character_ids": [
+      "Blinc-Barthilas",
+      "Bearlyllegal-Area 52",
+      "Bulok-Moon Guard",
+      "Tuwillika-Wyrmrest Accord",
+      "Giac-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 925994,
+    "character_ids": [
+      "Palakas-Stormrage",
+      "Sabbith-Burning Legion",
+      "Valec-Area 52",
+      "Stw-Area 52",
+      "Deemunhuntoh-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 962766,
+    "character_ids": [
+      "Paluekin-Illidan",
+      "Teddybull-Barthilas",
+      "Jaìme-Frostmourne",
+      "Amarxd-Azgalor",
+      "Dotfever-Area 52"
+    ]
+  },
+  {
+    "run_id": 975803,
+    "character_ids": [
+      "Ottõ-Stormrage",
+      "Pyråmid-Area 52",
+      "Inviswar-Stormrage",
+      "Shádöwx-Stormrage",
+      "Sayarmar-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 927622,
+    "character_ids": [
+      "Slavesowner-Frostmourne",
+      "Leafy-Frostmourne",
+      "Tamer-Frostmourne",
+      "Gamam-Frostmourne",
+      "Roguedruid-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 927709,
+    "character_ids": [
+      "Terrylabonte-Sisters of Elune",
+      "Notoriousz-Mal'Ganis",
+      "Caidreth-Moon Guard",
+      "Viciøusbrew-Stormrage",
+      "Zhachy-Ysera"
+    ]
+  },
+  {
+    "run_id": 929160,
+    "character_ids": [
+      "Anshemusha-Tichondrius",
+      "Yapr-Proudmoore",
+      "Dillyymonk-Tichondrius",
+      "Sanloriellus-Frostmourne",
+      "Theunzelmain-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 929180,
+    "character_ids": [
+      "Fma-Aman'Thul",
+      "Xternal-Frostmourne",
+      "Cashr-Frostmourne",
+      "Nativ-Aman'Thul",
+      "Willyb-Aman'Thul"
+    ]
+  },
+  {
+    "run_id": 929224,
+    "character_ids": [
+      "Milkyzaddy-Barthilas",
+      "Imnotenz-Zul'jin",
+      "Lianzj-Frostmourne",
+      "Cucumbersxo-Barthilas",
+      "Glide-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 929421,
+    "character_ids": [
+      "Ricstrong-Frostmourne",
+      "Jordarni-Frostmourne",
+      "Ahmrila-Illidan",
+      "Raykaza-Azralon",
+      "Noed-Gurubashi"
+    ]
+  },
+  {
+    "run_id": 929451,
+    "character_ids": [
+      "Pass-Tichondrius",
+      "Tresg-Azuremyst",
+      "Satanssister-Area 52",
+      "Fistyy-Khaz'goroth",
+      "Akahashydh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 948603,
+    "character_ids": [
+      "Fidorawr-Moon Guard",
+      "Skyandra-Moon Guard",
+      "Waterveil-Moon Guard",
+      "Overlordmoon-Moon Guard",
+      "Kirinichiban-Area 52"
+    ]
+  },
+  {
+    "run_id": 929846,
+    "character_ids": [
+      "Shadynmagus-Frostmourne",
+      "Holycok-Frostmourne",
+      "Jessypotts-Frostmourne",
+      "Owey-Frostmourne",
+      "Bumrushed-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 930721,
+    "character_ids": [
+      "Muglackshond-Frostmourne",
+      "Llano-Area 52",
+      "Solsti-Frostmourne",
+      "Trench-Khaz'goroth",
+      "Severeddh-Barthilas"
+    ]
+  },
+  {
+    "run_id": 940521,
+    "character_ids": [
+      "Sokzuela-Illidan",
+      "Lassaellin-Illidan",
+      "Pavalok-Illidan",
+      "Kumironx-Illidan",
+      "Zippiend-Illidan"
+    ]
+  },
+  {
+    "run_id": 932335,
+    "character_ids": [
+      "Zeroapm-Frostmourne",
+      "Psygerzero-Barthilas",
+      "Onlyform-Stormrage",
+      "Frogh-Barthilas",
+      "Excape-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 976869,
+    "character_ids": [
+      "Içedøut-Mal'Ganis",
+      "Unhoogghly-Mal'Ganis",
+      "Mxyie-Zul'jin",
+      "Donniboy-Mal'Ganis",
+      "Runo-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 932633,
+    "character_ids": [
+      "Sixtec-Tichondrius",
+      "Brickblade-Tichondrius",
+      "Lichie-Tichondrius",
+      "Benkeî-Area 52",
+      "Narutoes-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 932672,
+    "character_ids": [
+      "Davobust-Khaz'goroth",
+      "Midwa-Aman'Thul",
+      "Jojosdruid-Frostmourne",
+      "Kashade-Aman'Thul",
+      "Thundercant-Dath'Remar"
+    ]
+  },
+  {
+    "run_id": 932864,
+    "character_ids": [
+      "Shalù-Tichondrius",
+      "Effyxd-Stormrage",
+      "Hopezherbz-Black Dragonflight",
+      "Chimian-Proudmoore",
+      "Criispo-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1019518,
+    "character_ids": [
+      "Herkuless-Area 52",
+      "Helpmyaggro-Tichondrius",
+      "Whitekhmer-Frostmourne",
+      "AnonE21DE6D-Anonymous",
+      "Érêbus-Illidan"
+    ]
+  },
+  {
+    "run_id": 938254,
+    "character_ids": [
+      "Haggled-Area 52",
+      "Ollivander-Whisperwind",
+      "Padaic-Sargeras",
+      "Mavrickdk-Thrall",
+      "Astagan-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1063196,
+    "character_ids": [
+      "Elliji-Tichondrius",
+      "Warmmilk-Mal'Ganis",
+      "Cbk-Hyjal",
+      "Birko-Mal'Ganis",
+      "Impepega-Illidan"
+    ]
+  },
+  {
+    "run_id": 933968,
+    "character_ids": [
+      "Starfighter-Illidan",
+      "Sum-Illidan",
+      "Damaar-Dalaran",
+      "Justwolfy-Mal'Ganis",
+      "Laveymonk-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1009292,
+    "character_ids": [
+      "Neilmage-Frostmourne",
+      "Slowpoke-Dreadmaul",
+      "Greatowl-Barthilas",
+      "Luceed-Frostmourne",
+      "Scholarr-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 994127,
+    "character_ids": [
+      "Soulpal-Frostmourne",
+      "Kiàrá-Frostmourne",
+      "Tailwagger-Frostmourne",
+      "Tooheym-Frostmourne",
+      "Kindh-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 935528,
+    "character_ids": [
+      "Arcanefire-Garrosh",
+      "Noá-Stormrage",
+      "Mynacookies-Stormrage",
+      "Retiredmonk-Proudmoore",
+      "Leafeons-Stormrage"
+    ]
+  },
+  {
+    "run_id": 937131,
+    "character_ids": [
+      "Keliderstol-Illidan",
+      "Nothinglose-Echo Isles",
+      "Cokehyena-Area 52",
+      "Chickichimei-Area 52",
+      "Publicbus-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 937486,
+    "character_ids": [
+      "Statdru-Area 52",
+      "Qwix-Proudmoore",
+      "Pawnsunday-Dath'Remar",
+      "Kecub-Sargeras",
+      "Vynashdh-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 974289,
+    "character_ids": [
+      "Combustizar-Zul'jin",
+      "Paniç-Tichondrius",
+      "Chicknourish-Burning Legion",
+      "Zanddk-Tichondrius",
+      "Whiskeale-Stormrage"
+    ]
+  },
+  {
+    "run_id": 937698,
+    "character_ids": [
+      "Ammuu-Moon Guard",
+      "Eternalmop-Stormrage",
+      "Ytu-Mal'Ganis",
+      "Thiicc-Illidan",
+      "Záráéna-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 989872,
+    "character_ids": [
+      "Bigdikbusta-Jubei'Thos",
+      "Yuchiyo-Barthilas",
+      "Nuugz-Frostmourne",
+      "Tezlakoil-Barthilas",
+      "Bearsbrew-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 941473,
+    "character_ids": [
+      "Blinklan-Tichondrius",
+      "Holykeste-Illidan",
+      "Cabelas-Tichondrius",
+      "Zaddyshampog-Tichondrius",
+      "Jimmýdh-Area 52"
+    ]
+  },
+  {
+    "run_id": 941632,
+    "character_ids": [
+      "Nossibop-Frostmourne",
+      "Sxra-Frostmourne",
+      "Lerookx-Barthilas",
+      "Insanedrood-Barthilas",
+      "Tilean-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 939516,
+    "character_ids": [
+      "Aryaxo-Illidan",
+      "Outsidar-Frostmourne",
+      "Trickymonk-Frostmourne",
+      "Paktan-Barthilas",
+      "Muffinsbruh-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 939521,
+    "character_ids": [
+      "Castuh-Frostmourne",
+      "Dumasspally-Stormrage",
+      "Zuffø-Illidan",
+      "Farmerben-Frostmourne",
+      "Cmokey-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 975826,
+    "character_ids": [
+      "Ottõ-Stormrage",
+      "Pyråmid-Area 52",
+      "Inviswar-Stormrage",
+      "Shádöwx-Stormrage",
+      "Sayarmar-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 958464,
+    "character_ids": [
+      "Feipo-Dath'Remar",
+      "Gabirela-Frostmourne",
+      "Squírtle-Frostmourne",
+      "Chillichink-Barthilas",
+      "Naany-Nagrand"
+    ]
+  },
+  {
+    "run_id": 940228,
+    "character_ids": [
+      "Blinc-Barthilas",
+      "Bearlyllegal-Area 52",
+      "Bulok-Moon Guard",
+      "Tuwillika-Wyrmrest Accord",
+      "Giac-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 959802,
+    "character_ids": [
+      "Notoriousz-Mal'Ganis",
+      "Illness-Mal'Ganis",
+      "Caidreth-Moon Guard",
+      "Sorrowsham-Sargeras",
+      "Viciøusbrew-Stormrage"
+    ]
+  },
+  {
+    "run_id": 940956,
+    "character_ids": [
+      "Floormatx-Frostmourne",
+      "Wulfhun-Illidan",
+      "Tinyfatchode-Frostmourne",
+      "Branari-Area 52",
+      "Axy-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 995192,
+    "character_ids": [
+      "Jammjomy-Area 52",
+      "Hisokita-Area 52",
+      "Lickmyheal-Area 52",
+      "Dankestmonk-Sargeras",
+      "Ziiqq-Illidan"
+    ]
+  },
+  {
+    "run_id": 941901,
+    "character_ids": [
+      "Joeywinsly-Area 52",
+      "Slavesowner-Frostmourne",
+      "Leafy-Frostmourne",
+      "Tamer-Frostmourne",
+      "Roguedruid-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 957715,
+    "character_ids": [
+      "Ominiknightz-Azralon",
+      "Sipla-Illidan",
+      "Bubams-Sargeras",
+      "Lakoocha-Stormrage",
+      "Nvd-Mannoroth"
+    ]
+  },
+  {
+    "run_id": 984122,
+    "character_ids": [
+      "Tresg-Azuremyst",
+      "Zolshee-Proudmoore",
+      "Bluèè-Stormrage",
+      "Supwaay-Stormrage",
+      "Meragedh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1084024,
+    "character_ids": [
+      "Retriglute-Frostmourne",
+      "Fizzythegoat-Frostmourne",
+      "Dizzylifee-Frostmourne",
+      "Yunggthugg-Frostmourne",
+      "Crsoaow-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 942805,
+    "character_ids": [
+      "Milkyzaddy-Barthilas",
+      "Imnotenz-Zul'jin",
+      "Lianzj-Frostmourne",
+      "Cucumbersxo-Barthilas",
+      "Glide-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 944439,
+    "character_ids": [
+      "Faypally-Proudmoore",
+      "Trohm-Stormrage",
+      "Juntari-Area 52",
+      "Dillyymonk-Tichondrius",
+      "Blamefists-Stormrage"
+    ]
+  },
+  {
+    "run_id": 948605,
+    "character_ids": [
+      "Fidorawr-Moon Guard",
+      "Skyandra-Moon Guard",
+      "Waterveil-Moon Guard",
+      "Overlordmoon-Moon Guard",
+      "Kirinichiban-Area 52"
+    ]
+  },
+  {
+    "run_id": 944844,
+    "character_ids": [
+      "Hurukaj-Area 52",
+      "Clevinhoo-Illidan",
+      "Luvalot-Arthas",
+      "Mômö-Arthas",
+      "Gigachad-Arthas"
+    ]
+  },
+  {
+    "run_id": 944861,
+    "character_ids": [
+      "Trxperfect-Stormrage",
+      "Awooweewaa-Nagrand",
+      "Eleikobrew-Mal'Ganis",
+      "Burntcookies-Area 52",
+      "Rokkblind-Sargeras"
+    ]
+  },
+  {
+    "run_id": 953864,
+    "character_ids": [
+      "Humam-Bleeding Hollow",
+      "Toeenjoyer-Zul'jin",
+      "Madarauchiha-Undermine",
+      "Enth-Dalaran",
+      "Thenihility-Dalaran"
+    ]
+  },
+  {
+    "run_id": 945893,
+    "character_ids": [
+      "Toecheck-Thrall",
+      "Amerio-Frostmourne",
+      "Fizzydeath-Frostmourne",
+      "Trîstan-Cenarius",
+      "Demonadmiral-Illidan"
+    ]
+  },
+  {
+    "run_id": 946326,
+    "character_ids": [
+      "Pôrô-Tichondrius",
+      "Nakpala-Stormrage",
+      "Rbzy-Stormrage",
+      "Sum-Illidan",
+      "Marsipher-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 946332,
+    "character_ids": [
+      "Terramop-Barthilas",
+      "Mike-Caelestrasz",
+      "Solsti-Frostmourne",
+      "Trench-Khaz'goroth",
+      "Severeddh-Barthilas"
+    ]
+  },
+  {
+    "run_id": 1009445,
+    "character_ids": [
+      "Lexiahx-Frostmourne",
+      "Slowpoke-Dreadmaul",
+      "Muk-Frostmourne",
+      "Shipkuhh-Frostmourne",
+      "Doublebrew-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 955575,
+    "character_ids": [
+      "Jabronijojo-Area 52",
+      "Emiliiaqt-Area 52",
+      "Goozlé-Proudmoore",
+      "Neddludd-Lightbringer",
+      "Sasusmith-Stormrage"
+    ]
+  },
+  {
+    "run_id": 976974,
+    "character_ids": [
+      "Içedøut-Mal'Ganis",
+      "Moggyy-Illidan",
+      "Unhoogghly-Mal'Ganis",
+      "Donniboy-Mal'Ganis",
+      "Runo-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 950967,
+    "character_ids": [
+      "Meowerr-Area 52",
+      "Akaraenz-Illidan",
+      "Melielyna-Area 52",
+      "Awuacate-Ragnaros",
+      "Argongorr-Area 52"
+    ]
+  },
+  {
+    "run_id": 948683,
+    "character_ids": [
+      "Dustacular-Tichondrius",
+      "Mynacookies-Stormrage",
+      "Retiredmonk-Proudmoore",
+      "Leafeons-Stormrage",
+      "Babonzai-Area 52"
+    ]
+  },
+  {
+    "run_id": 985784,
+    "character_ids": [
+      "Jaysplosion-Frostmourne",
+      "Jdotbeta-Stormrage",
+      "Mixed-Khaz'goroth",
+      "Arcosephale-Frostmourne",
+      "Bogonk-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1019531,
+    "character_ids": [
+      "Gzi-Zul'jin",
+      "Helpmyaggro-Tichondrius",
+      "Herkuless-Area 52",
+      "Nothinglose-Echo Isles",
+      "AnonE21DE6D-Anonymous"
+    ]
+  },
+  {
+    "run_id": 949446,
+    "character_ids": [
+      "Dapperspud-Frostmourne",
+      "Unleáshed-Frostmourne",
+      "Soundr-Frostmourne",
+      "Damomonk-Frostmourne",
+      "Timelord-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1014282,
+    "character_ids": [
+      "Icalzz-Area 52",
+      "Vayocham-Tichondrius",
+      "Bessospins-Illidan",
+      "Notpoo-Area 52",
+      "Mömmy-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 995175,
+    "character_ids": [
+      "Lorculémage-Saurfang",
+      "Inorb-Frostmourne",
+      "Warbsy-Nagrand",
+      "Fj-Frostmourne",
+      "Rinss-Barthilas"
+    ]
+  },
+  {
+    "run_id": 950328,
+    "character_ids": [
+      "Smyteme-Area 52",
+      "Deerpriest-Tichondrius",
+      "Slantsix-Tichondrius",
+      "Littlevoker-Zul'jin",
+      "Excaldúrs-Stormrage"
+    ]
+  },
+  {
+    "run_id": 951992,
+    "character_ids": [
+      "Alpepe-Frostmourne",
+      "Ohfuk-Barthilas",
+      "Notearth-Frostmourne",
+      "Faifablue-Frostmourne",
+      "Hayà-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 952073,
+    "character_ids": [
+      "Effyxd-Stormrage",
+      "Moonzi-Zul'jin",
+      "Overpøwered-Frostmourne",
+      "Sofelle-Caelestrasz",
+      "Vaxenroth-Sargeras"
+    ]
+  },
+  {
+    "run_id": 952396,
+    "character_ids": [
+      "Ammuu-Moon Guard",
+      "Eternalmop-Stormrage",
+      "Ytu-Mal'Ganis",
+      "Thiicc-Illidan",
+      "Záráéna-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 953118,
+    "character_ids": [
+      "Neilmage-Frostmourne",
+      "Ily-Frostmourne",
+      "Nsõ-Frostmourne",
+      "Sooniiz-Illidan",
+      "Gkjuan-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 953218,
+    "character_ids": [
+      "Zarpan-Illidan",
+      "Tharok-Nagrand",
+      "Oreasha-Frostmourne",
+      "Yotto-Illidan",
+      "Aldaßoltz-Aerie Peak"
+    ]
+  },
+  {
+    "run_id": 992464,
+    "character_ids": [
+      "Huffpaint-Frostmourne",
+      "Séreníty-Frostmourne",
+      "Rendymarsh-Frostmourne",
+      "Blokekissers-Barthilas",
+      "Pepg-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 956005,
+    "character_ids": [
+      "Etatche-Area 52",
+      "Deerbear-Area 52",
+      "Insanedrood-Barthilas",
+      "Buggáx-Ragnaros",
+      "Ghóuls-Kil'jaeden"
+    ]
+  },
+  {
+    "run_id": 953668,
+    "character_ids": [
+      "Jocker-Illidan",
+      "Móocifer-Barthilas",
+      "Tehintan-Barthilas",
+      "Gotthejuice-Frostmourne",
+      "Mxyie-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 954009,
+    "character_ids": [
+      "Brrst-Area 52",
+      "Dumasspally-Stormrage",
+      "Zygunda-Illidan",
+      "Drshaboinkyy-Hakkar",
+      "Figliaa-Sargeras"
+    ]
+  },
+  {
+    "run_id": 955391,
+    "character_ids": [
+      "Aryaxo-Illidan",
+      "Soaztotem-Tichondrius",
+      "Trickymonk-Frostmourne",
+      "Paktan-Barthilas",
+      "Muffinsbruh-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 956585,
+    "character_ids": [
+      "Fma-Aman'Thul",
+      "Xternal-Frostmourne",
+      "Cashr-Frostmourne",
+      "Nativ-Aman'Thul",
+      "Willyb-Aman'Thul"
+    ]
+  },
+  {
+    "run_id": 956705,
+    "character_ids": [
+      "Slambul-Illidan",
+      "Dodeyparton-Mal'Ganis",
+      "Zolshee-Proudmoore",
+      "Subilats-Ragnaros",
+      "Critvoid-Thrall"
+    ]
+  },
+  {
+    "run_id": 975810,
+    "character_ids": [
+      "Ottõ-Stormrage",
+      "Pyråmid-Area 52",
+      "Inviswar-Stormrage",
+      "Shádöwx-Stormrage",
+      "Sayarmar-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 958478,
+    "character_ids": [
+      "Feipo-Dath'Remar",
+      "Gabirela-Frostmourne",
+      "Squírtle-Frostmourne",
+      "Yunique-Dath'Remar",
+      "Chillichink-Barthilas"
+    ]
+  },
+  {
+    "run_id": 959833,
+    "character_ids": [
+      "Notoriousz-Mal'Ganis",
+      "Illness-Mal'Ganis",
+      "Caidreth-Moon Guard",
+      "Amarxd-Azgalor",
+      "Viciøusbrew-Stormrage"
+    ]
+  },
+  {
+    "run_id": 957865,
+    "character_ids": [
+      "Vîrus-Barthilas",
+      "Trohm-Stormrage",
+      "Sec-Zul'jin",
+      "Lightyearzz-Tichondrius",
+      "Emiliia-Barthilas"
+    ]
+  },
+  {
+    "run_id": 1024463,
+    "character_ids": [
+      "Saucison-Area 52",
+      "Ricstrong-Frostmourne",
+      "Remouth-Zul'jin",
+      "Jordarni-Frostmourne",
+      "Showtimè-Area 52"
+    ]
+  },
+  {
+    "run_id": 958546,
+    "character_ids": [
+      "Lexiahx-Frostmourne",
+      "Slowpoke-Dreadmaul",
+      "Muk-Frostmourne",
+      "Shipkuhh-Frostmourne",
+      "Doublebrew-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 983079,
+    "character_ids": [
+      "Lerookx-Barthilas",
+      "Grippycooch-Barthilas",
+      "Shimmothy-Emerald Dream",
+      "Blamefists-Stormrage",
+      "Nelthaxia-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 961223,
+    "character_ids": [
+      "Dhuntis-Area 52",
+      "Ahmrila-Illidan",
+      "Warlockjason-Proudmoore",
+      "Noed-Gurubashi",
+      "Kynyssanara-Sargeras"
+    ]
+  },
+  {
+    "run_id": 960424,
+    "character_ids": [
+      "Toecheck-Thrall",
+      "Amerio-Frostmourne",
+      "Fizzydeath-Frostmourne",
+      "Trîstan-Cenarius",
+      "Demonadmiral-Illidan"
+    ]
+  },
+  {
+    "run_id": 960856,
+    "character_ids": [
+      "Jaysplosion-Frostmourne",
+      "Poogíe-Frostmourne",
+      "Mixed-Khaz'goroth",
+      "Arcosephale-Frostmourne",
+      "Bogonk-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 960979,
+    "character_ids": [
+      "Faypally-Proudmoore",
+      "Rbzy-Stormrage",
+      "Nxbru-Azralon",
+      "Vexus-Garona",
+      "Sabolol-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 961450,
+    "character_ids": [
+      "Rainfalls-Mal'Ganis",
+      "Joeywinsly-Area 52",
+      "Paniç-Tichondrius",
+      "Nezagu-Frostmourne",
+      "Trench-Khaz'goroth"
+    ]
+  },
+  {
+    "run_id": 976460,
+    "character_ids": [
+      "Pôrô-Tichondrius",
+      "Jayem-Barthilas",
+      "Retwings-Daggerspine",
+      "Mølax-Mal'Ganis",
+      "Nvd-Mannoroth"
+    ]
+  },
+  {
+    "run_id": 961939,
+    "character_ids": [
+      "Faraah-Demon Soul",
+      "Thìghs-Moon Guard",
+      "Goodgodman-Area 52",
+      "Criispo-Stormrage",
+      "Lanlv-Illidan"
+    ]
+  },
+  {
+    "run_id": 962132,
+    "character_ids": [
+      "Toonchi-Stormrage",
+      "Slander-Zul'jin",
+      "Ooyu-Moonrunner",
+      "Diary-Sargeras",
+      "Randorzz-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 962325,
+    "character_ids": [
+      "Goththighs-Blade's Edge",
+      "Zanddk-Tichondrius",
+      "Pattrice-Thrall",
+      "Rishikar-Bleeding Hollow",
+      "Ziiqq-Illidan"
+    ]
+  },
+  {
+    "run_id": 962948,
+    "character_ids": [
+      "Alpepe-Frostmourne",
+      "Ohfuk-Barthilas",
+      "Notearth-Frostmourne",
+      "Faifablue-Frostmourne",
+      "Hayà-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 992976,
+    "character_ids": [
+      "Milkyzaddy-Barthilas",
+      "Kaalz-Barthilas",
+      "Lzjian-Frostmourne",
+      "Glide-Frostmourne",
+      "Quazâr-Barthilas"
+    ]
+  },
+  {
+    "run_id": 963342,
+    "character_ids": [
+      "Mskaykäy-Barthilas",
+      "Leveck-Frostmourne",
+      "Redbot-Frostmourne",
+      "Roytide-Frostmourne",
+      "Alizê-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 987267,
+    "character_ids": [
+      "Pass-Tichondrius",
+      "Holykeste-Illidan",
+      "Bubbletokill-Dalaran",
+      "Rüi-Tichondrius",
+      "Bessospins-Illidan"
+    ]
+  },
+  {
+    "run_id": 979353,
+    "character_ids": [
+      "Darkmage-Khaz'goroth",
+      "Mike-Caelestrasz",
+      "Spacegliding-Frostmourne",
+      "Kugelpanzer-Frostmourne",
+      "Luckylukey-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1001352,
+    "character_ids": [
+      "Matturion-Barthilas",
+      "Indianlarry-Barthilas",
+      "Fakemustache-Frostmourne",
+      "Harvoy-Barthilas",
+      "Sinpai-Barthilas"
+    ]
+  },
+  {
+    "run_id": 966397,
+    "character_ids": [
+      "Mistcold-Stormrage",
+      "Mezobloom-Stormrage",
+      "Leøn-Alterac Mountains",
+      "Sofelle-Caelestrasz",
+      "Mömmy-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 966610,
+    "character_ids": [
+      "Bluetail-Wyrmrest Accord",
+      "Awooweewaa-Nagrand",
+      "Scythè-Frostmourne",
+      "Cranekick-Thrall",
+      "Burntcookies-Area 52"
+    ]
+  },
+  {
+    "run_id": 992826,
+    "character_ids": [
+      "Doonx-Barthilas",
+      "Tânk-Jubei'Thos",
+      "Makeekakaa-Illidan",
+      "Blössom-Kel'Thuzad",
+      "Kynder-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 969157,
+    "character_ids": [
+      "Fortports-Zul'jin",
+      "Vayocham-Tichondrius",
+      "Noxmk-Area 52",
+      "Sindracgos-Stormrage",
+      "Excaldúrs-Stormrage"
+    ]
+  },
+  {
+    "run_id": 969329,
+    "character_ids": [
+      "Fma-Aman'Thul",
+      "Xternal-Frostmourne",
+      "Cashr-Frostmourne",
+      "Nativ-Aman'Thul",
+      "Willyb-Aman'Thul"
+    ]
+  },
+  {
+    "run_id": 969451,
+    "character_ids": [
+      "Wømbat-Illidan",
+      "Keypusher-Illidan",
+      "Jaronxoxo-Illidan",
+      "Pêrsephone-Illidan",
+      "Inder-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 969458,
+    "character_ids": [
+      "Enemage-Barthilas",
+      "Eternalmop-Stormrage",
+      "Ytu-Mal'Ganis",
+      "Thiicc-Illidan",
+      "Záráéna-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 969468,
+    "character_ids": [
+      "Effyxd-Stormrage",
+      "Casimyr-Area 52",
+      "Hurukaj-Area 52",
+      "Argongorr-Area 52",
+      "Yorijori-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1021587,
+    "character_ids": [
+      "Içedøut-Mal'Ganis",
+      "Bighugh-Mal'Ganis",
+      "Moggyy-Illidan",
+      "Donniboy-Mal'Ganis",
+      "Runo-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 970644,
+    "character_ids": [
+      "Lorculémage-Saurfang",
+      "Mikeymage-Barthilas",
+      "Inorb-Frostmourne",
+      "Qwarziez-Barthilas",
+      "Spazpriiest-Barthilas"
+    ]
+  },
+  {
+    "run_id": 978064,
+    "character_ids": [
+      "Notoriousz-Mal'Ganis",
+      "Untameablex-Tichondrius",
+      "Dhuntis-Area 52",
+      "Caidreth-Moon Guard",
+      "Urïi-Stormrage"
+    ]
+  },
+  {
+    "run_id": 970969,
+    "character_ids": [
+      "Pikky-Barthilas",
+      "Arrti-Barthilas",
+      "Juntari-Area 52",
+      "Mxyie-Zul'jin",
+      "Thomax-Sargeras"
+    ]
+  },
+  {
+    "run_id": 971020,
+    "character_ids": [
+      "Pb-Ravencrest",
+      "Bèn-Azralon",
+      "Sum-Illidan",
+      "Blackshaft-Area 52",
+      "Frï-Azralon"
+    ]
+  },
+  {
+    "run_id": 971069,
+    "character_ids": [
+      "Blinc-Barthilas",
+      "Séreníty-Frostmourne",
+      "Rendymarsh-Frostmourne",
+      "Chicknourish-Burning Legion",
+      "Pepg-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 973402,
+    "character_ids": [
+      "Ambÿ-Frostmourne",
+      "Milkthecoww-Barthilas",
+      "Galvanics-Barthilas",
+      "Rinss-Barthilas",
+      "Blokekissers-Barthilas"
+    ]
+  },
+  {
+    "run_id": 971707,
+    "character_ids": [
+      "Elasmus-Area 52",
+      "Dilö-Area 52",
+      "Cerbera-Tichondrius",
+      "Facai-Dalaran",
+      "Selybrook-Area 52"
+    ]
+  },
+  {
+    "run_id": 1024274,
+    "character_ids": [
+      "Sipla-Illidan",
+      "Dankyagank-Dalaran",
+      "Subilats-Ragnaros",
+      "Sorrydad-Tichondrius",
+      "Cacau-Illidan"
+    ]
+  },
+  {
+    "run_id": 1026711,
+    "character_ids": [
+      "Ajjay-Frostmourne",
+      "Corzell-Frostmourne",
+      "Roadkill-Gundrak",
+      "Jiusebumps-Frostmourne",
+      "Tiingled-Barthilas"
+    ]
+  },
+  {
+    "run_id": 973459,
+    "character_ids": [
+      "Saucison-Area 52",
+      "Royalphoenix-Area 52",
+      "Omegakory-Illidan",
+      "Healthefeels-Aman'Thul",
+      "Quanxibomba-Stormrage"
+    ]
+  },
+  {
+    "run_id": 973555,
+    "character_ids": [
+      "Toonchi-Stormrage",
+      "Nezagu-Frostmourne",
+      "Happeeii-Frostmourne",
+      "Nêrv-Frostmourne",
+      "Trench-Khaz'goroth"
+    ]
+  },
+  {
+    "run_id": 973816,
+    "character_ids": [
+      "Kitenic-Proudmoore",
+      "Deerbear-Area 52",
+      "Overpøwered-Frostmourne",
+      "Nethía-Stormrage",
+      "Ezarith-Stormrage"
+    ]
+  },
+  {
+    "run_id": 987875,
+    "character_ids": [
+      "Jaìme-Frostmourne",
+      "Ahneh-Barthilas",
+      "Monkthejohn-Thaurissan",
+      "Modern-Frostmourne",
+      "Nuze-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 974218,
+    "character_ids": [
+      "Fisho-Proudmoore",
+      "Uniquex-Zul'jin",
+      "Lilsoap-Illidan",
+      "Shootymcstab-Barthilas",
+      "Kovimonk-Sargeras"
+    ]
+  },
+  {
+    "run_id": 974351,
+    "character_ids": [
+      "Maickeenone-Area 52",
+      "Darthdivined-Area 52",
+      "Setrius-Illidan",
+      "Cbk-Hyjal",
+      "Figliaa-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1060326,
+    "character_ids": [
+      "Kaju-Nemesis",
+      "Dawnxp-Tichondrius",
+      "Tombjörn-Thrall",
+      "Cleos-Duskwood",
+      "Branari-Area 52"
+    ]
+  },
+  {
+    "run_id": 974753,
+    "character_ids": [
+      "Pôrô-Tichondrius",
+      "Wápples-Stormrage",
+      "Sitomey-Emerald Dream",
+      "Prochaoz-Stormrage",
+      "Rûri-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 974913,
+    "character_ids": [
+      "Fruitydk-Frostmourne",
+      "Húntèr-Frostmourne",
+      "Yourichi-Frostmourne",
+      "Zulrik-Frostmourne",
+      "Defutkut-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 975107,
+    "character_ids": [
+      "Frizzles-Saurfang",
+      "Khaali-Nagrand",
+      "Ellaine-Nagrand",
+      "Forcain-Saurfang",
+      "Tahlia-Caelestrasz"
+    ]
+  },
+  {
+    "run_id": 983101,
+    "character_ids": [
+      "Grippycooch-Barthilas",
+      "Shimmothy-Emerald Dream",
+      "Shaado-Nemesis",
+      "Blamefists-Stormrage",
+      "Nelthaxia-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1035337,
+    "character_ids": [
+      "Kky-Frostmourne",
+      "Dwarfdine-Frostmourne",
+      "Abcar-Frostmourne",
+      "Pollux-Frostmourne",
+      "Judecca-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 982152,
+    "character_ids": [
+      "Turtleecods-Area 52",
+      "Guagua-Tichondrius",
+      "Trohm-Stormrage",
+      "Dillyymonk-Tichondrius",
+      "Speedaddict-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 995210,
+    "character_ids": [
+      "Housë-Frostmourne",
+      "Nikola-Dreadmaul",
+      "Hisokita-Area 52",
+      "Franlavoo-Frostmourne",
+      "Nootbrew-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 982619,
+    "character_ids": [
+      "Archmagëyty-Frostmourne",
+      "Sugg-Frostmourne",
+      "Jaayz-Frostmourne",
+      "Voltagemonk-Frostmourne",
+      "Wyf-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 977180,
+    "character_ids": [
+      "Thandery-Nagrand",
+      "Appowulf-Saurfang",
+      "Shinblood-Frostmourne",
+      "Ruebz-Nagrand",
+      "Trass-Dreadmaul"
+    ]
+  },
+  {
+    "run_id": 1025958,
+    "character_ids": [
+      "Isurecare-Frostmourne",
+      "Chappersxx-Frostmourne",
+      "Kevx-Frostmourne",
+      "Phantah-Frostmourne",
+      "Wyrdmonk-Nagrand"
+    ]
+  },
+  {
+    "run_id": 977466,
+    "character_ids": [
+      "Nobackshot-Tichondrius",
+      "Nsõ-Frostmourne",
+      "Luceed-Frostmourne",
+      "Sooniiz-Illidan",
+      "Gkjuan-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 978029,
+    "character_ids": [
+      "Kajim-Azralon",
+      "Paladindita-Ragnaros",
+      "Praximus-Mal'Ganis",
+      "Larrisinha-Zul'jin",
+      "Demonméat-Area 52"
+    ]
+  },
+  {
+    "run_id": 978350,
+    "character_ids": [
+      "Terramop-Barthilas",
+      "Ily-Frostmourne",
+      "Liam-Caelestrasz",
+      "Zips-Thaurissan",
+      "Nightchuger-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 994289,
+    "character_ids": [
+      "Zãnarkand-Barthilas",
+      "Snotshöt-Nagrand",
+      "Narsham-Barthilas",
+      "Zhoz-Barthilas",
+      "Sparvo-Nagrand"
+    ]
+  },
+  {
+    "run_id": 979688,
+    "character_ids": [
+      "Gàrrosh-Proudmoore",
+      "Mindgames-Bleeding Hollow",
+      "Aldaßoltz-Aerie Peak",
+      "Mõrlock-Sargeras",
+      "Shybeard-Sargeras"
+    ]
+  },
+  {
+    "run_id": 979699,
+    "character_ids": [
+      "Rbzy-Stormrage",
+      "Amharie-Quel'Thalas",
+      "Chazbabylon-Tichondrius",
+      "Punchyzac-Frostmourne",
+      "Tazriak-Deathwing"
+    ]
+  },
+  {
+    "run_id": 983503,
+    "character_ids": [
+      "Bluetail-Wyrmrest Accord",
+      "Raeda-Ragnaros",
+      "Nothinglose-Echo Isles",
+      "Koreanpork-Sargeras",
+      "Meanestman-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1034468,
+    "character_ids": [
+      "Pass-Tichondrius",
+      "Bubbletokill-Dalaran",
+      "Remouth-Zul'jin",
+      "Rüi-Tichondrius",
+      "Bessospins-Illidan"
+    ]
+  },
+  {
+    "run_id": 980499,
+    "character_ids": [
+      "Minkel-Barthilas",
+      "Faypally-Proudmoore",
+      "Jades-Area 52",
+      "Tanko-Sargeras",
+      "Soulish-Dalaran"
+    ]
+  },
+  {
+    "run_id": 983683,
+    "character_ids": [
+      "Santababy-Frostmourne",
+      "Madhatter-Frostmourne",
+      "Virustotal-Frostmourne",
+      "Kweeshamanz-Frostmourne",
+      "Wretched-Ner'zhul"
+    ]
+  },
+  {
+    "run_id": 982048,
+    "character_ids": [
+      "Casimyr-Area 52",
+      "Madarauchiha-Undermine",
+      "Thetotem-Illidan",
+      "Laveymonk-Sargeras",
+      "Craos-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 982696,
+    "character_ids": [
+      "Jaycube-Frostmourne",
+      "Zhangyuanyin-Frostmourne",
+      "Haif-Frostmourne",
+      "Letmetalk-Frostmourne",
+      "Xiaodangao-Barthilas"
+    ]
+  },
+  {
+    "run_id": 988442,
+    "character_ids": [
+      "Gzi-Zul'jin",
+      "Kiszflower-Area 52",
+      "Lowcortisøl-Stormrage",
+      "Xsín-Zul'jin",
+      "Rindowo-Illidan"
+    ]
+  },
+  {
+    "run_id": 983362,
+    "character_ids": [
+      "Scottypally-Area 52",
+      "Havoket-Quel'Thalas",
+      "Valahwei-Stormrage",
+      "Teribullduce-Gurubashi",
+      "Krowe-Area 52"
+    ]
+  },
+  {
+    "run_id": 985033,
+    "character_ids": [
+      "Jayem-Barthilas",
+      "Shaddai-Illidan",
+      "Deerpriest-Tichondrius",
+      "Fallenleaves-Tichondrius",
+      "Zencarya-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 984233,
+    "character_ids": [
+      "Nilm-Area 52",
+      "Moonzi-Zul'jin",
+      "Anra-Area 52",
+      "Upsydoown-Azralon",
+      "Buttërcüp-Illidan"
+    ]
+  },
+  {
+    "run_id": 985123,
+    "character_ids": [
+      "Wømbat-Illidan",
+      "Keypusher-Illidan",
+      "Jaronxoxo-Illidan",
+      "Pêrsephone-Illidan",
+      "Inder-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1021596,
+    "character_ids": [
+      "Içedøut-Mal'Ganis",
+      "Bighugh-Mal'Ganis",
+      "Moggyy-Illidan",
+      "Donniboy-Mal'Ganis",
+      "Runo-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 985615,
+    "character_ids": [
+      "Hyperelle-Frostmourne",
+      "Kastian-Frostmourne",
+      "Tárkki-Frostmourne",
+      "Râzê-Barthilas",
+      "Sansa-Gundrak"
+    ]
+  },
+  {
+    "run_id": 985922,
+    "character_ids": [
+      "Kembarpala-Frostmourne",
+      "Burjan-Frostmourne",
+      "Ayksee-Frostmourne",
+      "Kalopsya-Frostmourne",
+      "Muppitdh-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 986124,
+    "character_ids": [
+      "Fma-Aman'Thul",
+      "Xternal-Frostmourne",
+      "Frymii-Frostmourne",
+      "Nativ-Aman'Thul",
+      "Willyb-Aman'Thul"
+    ]
+  },
+  {
+    "run_id": 986196,
+    "character_ids": [
+      "Débrinha-Stormrage",
+      "Pb-Ravencrest",
+      "Bèn-Azralon",
+      "Blackshaft-Area 52",
+      "Frï-Azralon"
+    ]
+  },
+  {
+    "run_id": 1008932,
+    "character_ids": [
+      "Notoriousz-Mal'Ganis",
+      "Remirgatkona-Barthilas",
+      "Dhuntis-Area 52",
+      "Caidreth-Moon Guard",
+      "Noxmk-Area 52"
+    ]
+  },
+  {
+    "run_id": 986512,
+    "character_ids": [
+      "Themyz-Ragnaros",
+      "Deepflipflop-Sargeras",
+      "Mosterkio-Illidan",
+      "Izquierdo-Dalaran",
+      "Papablèss-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 986517,
+    "character_ids": [
+      "Blinkx-Sargeras",
+      "Crittu-Frostmourne",
+      "Pfìzer-Tichondrius",
+      "Kahlista-Tichondrius",
+      "Mogged-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 987868,
+    "character_ids": [
+      "Jaìme-Frostmourne",
+      "Ahneh-Barthilas",
+      "Monkthejohn-Thaurissan",
+      "Modern-Frostmourne",
+      "Nuze-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 987010,
+    "character_ids": [
+      "Toonchi-Stormrage",
+      "Shalù-Tichondrius",
+      "Cadmanxx-Mal'Ganis",
+      "Teresamayer-Proudmoore",
+      "Chimian-Proudmoore"
+    ]
+  },
+  {
+    "run_id": 1024492,
+    "character_ids": [
+      "Saucison-Area 52",
+      "Speedypeter-Zul'jin",
+      "Vaelyth-Thrall",
+      "Cleos-Duskwood",
+      "Axldh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 987783,
+    "character_ids": [
+      "Bricksmash-Bleeding Hollow",
+      "Priect-Stormrage",
+      "Drankincup-Magtheridon",
+      "Kregore-Stormrage",
+      "Fameyx-Stormrage"
+    ]
+  },
+  {
+    "run_id": 987995,
+    "character_ids": [
+      "Doonx-Barthilas",
+      "Tânk-Jubei'Thos",
+      "Blössom-Kel'Thuzad",
+      "Kynder-Frostmourne",
+      "Muffinsbruh-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1024211,
+    "character_ids": [
+      "Krønxx-Azralon",
+      "ßypass-Proudmoore",
+      "Syllo-Illidan",
+      "Dankyagank-Dalaran",
+      "Sorrydad-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 988484,
+    "character_ids": [
+      "Undeaad-Area 52",
+      "Lighthb-Quel'Thalas",
+      "Effyxd-Stormrage",
+      "Vayocham-Tichondrius",
+      "Rødbrew-Stormrage"
+    ]
+  },
+  {
+    "run_id": 989225,
+    "character_ids": [
+      "Scythè-Frostmourne",
+      "Myneli-Moon Guard",
+      "Gyatthicc-Barthilas",
+      "Carméla-Wyrmrest Accord",
+      "Gamam-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 995205,
+    "character_ids": [
+      "Reactz-Stormrage",
+      "Hisokita-Area 52",
+      "Mimi-Malygos",
+      "Shampainx-Stormrage",
+      "Lemora-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1011765,
+    "character_ids": [
+      "Luchoo-Nagrand",
+      "Ttvghostskid-Frostmourne",
+      "Grodfield-Frostmourne",
+      "Shamzor-Frostmourne",
+      "Mxyie-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 990192,
+    "character_ids": [
+      "Retwings-Daggerspine",
+      "Inviswar-Stormrage",
+      "Clevinhoo-Illidan",
+      "Blamefists-Stormrage",
+      "Ghóuls-Kil'jaeden"
+    ]
+  },
+  {
+    "run_id": 1025796,
+    "character_ids": [
+      "Mne-Frostmourne",
+      "Chappersxx-Frostmourne",
+      "Húntèr-Frostmourne",
+      "Wyrdmonk-Nagrand",
+      "Wyf-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 990843,
+    "character_ids": [
+      "Emiliiaqt-Area 52",
+      "Coldhurted-Burning Blade",
+      "Pytorchy-Area 52",
+      "Shintarou-Stormrage",
+      "Rortzz-Stormrage"
+    ]
+  },
+  {
+    "run_id": 994296,
+    "character_ids": [
+      "Zãnarkand-Barthilas",
+      "Snotshöt-Nagrand",
+      "Narsham-Barthilas",
+      "Zhoz-Barthilas",
+      "Sparvo-Nagrand"
+    ]
+  },
+  {
+    "run_id": 992204,
+    "character_ids": [
+      "Rodzinmage-Area 52",
+      "Eltravesti-Zul'jin",
+      "Novelus-Bleeding Hollow",
+      "Healthefeels-Aman'Thul",
+      "Alkidan-Illidan"
+    ]
+  },
+  {
+    "run_id": 999339,
+    "character_ids": [
+      "Danage-Zul'jin",
+      "Zepherousdk-Frostmourne",
+      "Liam-Caelestrasz",
+      "Jaayz-Frostmourne",
+      "Voltagemonk-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 992702,
+    "character_ids": [
+      "Goodechicken-Frostmourne",
+      "Jordarni-Frostmourne",
+      "Delpezzosp-Stormrage",
+      "Buttfumble-Illidan",
+      "Littlevoker-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 992727,
+    "character_ids": [
+      "Reyandrin-Stormrage",
+      "Matrenka-Bleeding Hollow",
+      "Nïik-Stormrage",
+      "Kylewl-Stormrage",
+      "Smellmä-Stormrage"
+    ]
+  },
+  {
+    "run_id": 992867,
+    "character_ids": [
+      "Ezpeasy-Barthilas",
+      "Anguinis-Frostmourne",
+      "Triplebrew-Barthilas",
+      "Alexsbussy-Frostmourne",
+      "Momoxd-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 994454,
+    "character_ids": [
+      "Thandery-Nagrand",
+      "Appowulf-Saurfang",
+      "Shinblood-Frostmourne",
+      "Ruebz-Nagrand",
+      "Madrixs-Barthilas"
+    ]
+  },
+  {
+    "run_id": 994931,
+    "character_ids": [
+      "Gzi-Zul'jin",
+      "Rbzy-Stormrage",
+      "Evoll-Stormrage",
+      "Killeroddy-Area 52",
+      "Goodgodman-Area 52"
+    ]
+  },
+  {
+    "run_id": 1056871,
+    "character_ids": [
+      "Milouri-Stormrage",
+      "Glasshoof-Stormrage",
+      "Nahdru-Mal'Ganis",
+      "Gozen-Bleeding Hollow",
+      "Eleikobrew-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1049540,
+    "character_ids": [
+      "Speedyblinks-Tichondrius",
+      "Dixieleet-Area 52",
+      "Aceviouslock-Stormrage",
+      "Yekinamonk-Area 52",
+      "Soraceil-Illidan"
+    ]
+  },
+  {
+    "run_id": 995468,
+    "character_ids": [
+      "Zorno-Mal'Ganis",
+      "Mike-Caelestrasz",
+      "Offodroodh-Illidan",
+      "Robbywaffs-Zul'jin",
+      "Peatmanda-Sargeras"
+    ]
+  },
+  {
+    "run_id": 995673,
+    "character_ids": [
+      "Flue-Frostmourne",
+      "Eczy-Frostmourne",
+      "Ravindrannor-Saurfang",
+      "Lightjay-Barthilas",
+      "Justchiji-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 995724,
+    "character_ids": [
+      "Ikilluwat-Area 52",
+      "Xtinctz-Stormrage",
+      "Lemmefarm-Stormrage",
+      "Grippycooch-Barthilas",
+      "Serrilia-Khaz'goroth"
+    ]
+  },
+  {
+    "run_id": 996939,
+    "character_ids": [
+      "Minkel-Barthilas",
+      "Faypally-Proudmoore",
+      "Jades-Area 52",
+      "Tanko-Sargeras",
+      "Soulish-Dalaran"
+    ]
+  },
+  {
+    "run_id": 997133,
+    "character_ids": [
+      "Kodeezy-Arthas",
+      "Cranghoul-Thrall",
+      "Apostle-Blackhand",
+      "Thetotem-Illidan",
+      "Deathblooms-Anetheron"
+    ]
+  },
+  {
+    "run_id": 1008966,
+    "character_ids": [
+      "Edorasmage-Illidan",
+      "Jayem-Barthilas",
+      "Møønguard-Stormrage",
+      "Brainson-Area 52",
+      "Mimo-Shadowsong"
+    ]
+  },
+  {
+    "run_id": 1028205,
+    "character_ids": [
+      "Duelzero-Sargeras",
+      "Oreosmaster-Tichondrius",
+      "Illusionzsp-Dalaran",
+      "Sorrowsham-Sargeras",
+      "Genetîcs-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1019225,
+    "character_ids": [
+      "Nexxey-Frostmourne",
+      "Goldendk-Frostmourne",
+      "Gillshot-Frostmourne",
+      "Erä-Frostmourne",
+      "Nocte-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1049596,
+    "character_ids": [
+      "Tyàkc-Tichondrius",
+      "Toiletwata-Mal'Ganis",
+      "Spàrk-Zul'jin",
+      "Kakúzo-Quel'Thalas",
+      "Záráéna-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1062188,
+    "character_ids": [
+      "Bershwarr-Frostmourne",
+      "Madhatter-Frostmourne",
+      "Zhangyuanyin-Frostmourne",
+      "Ribson-Area 52",
+      "Wretched-Ner'zhul"
+    ]
+  },
+  {
+    "run_id": 998919,
+    "character_ids": [
+      "Jayia-Aegwynn",
+      "Danhunter-Aegwynn",
+      "Neebz-Mal'Ganis",
+      "Draftm-Illidan",
+      "Pyradh-Thrall"
+    ]
+  },
+  {
+    "run_id": 999089,
+    "character_ids": [
+      "Monkeysound-Illidan",
+      "Sabbith-Burning Legion",
+      "Pikky-Barthilas",
+      "Skullshine-Blood Furnace",
+      "Thomax-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1034433,
+    "character_ids": [
+      "Pass-Tichondrius",
+      "Themyz-Ragnaros",
+      "Deepflipflop-Sargeras",
+      "Mosterkio-Illidan",
+      "Izquierdo-Dalaran"
+    ]
+  },
+  {
+    "run_id": 999617,
+    "character_ids": [
+      "Lorculémage-Saurfang",
+      "Inorb-Frostmourne",
+      "Hopezherbz-Black Dragonflight",
+      "Gkjuan-Frostmourne",
+      "Fabdemon-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1000281,
+    "character_ids": [
+      "Chewsdaybruv-Zul'jin",
+      "Morhin-Zul'jin",
+      "Warsrior-Area 52",
+      "Vertorios-Illidan",
+      "Evandzhelina-Area 52"
+    ]
+  },
+  {
+    "run_id": 1000695,
+    "character_ids": [
+      "Thehighkwip-Stormrage",
+      "Sparrklez-Barthilas",
+      "Sabolol-Bleeding Hollow",
+      "Capncode-Stormrage",
+      "Augtisdik-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1052835,
+    "character_ids": [
+      "Shozokui-Thrall",
+      "Amharie-Quel'Thalas",
+      "Vaxi-Kael'thas",
+      "Killzrez-Area 52",
+      "Chay-Malfurion"
+    ]
+  },
+  {
+    "run_id": 1084749,
+    "character_ids": [
+      "Shnozz-Tichondrius",
+      "Abcddk-Tichondrius",
+      "Pfìzer-Tichondrius",
+      "Tt-Sargeras",
+      "Janguu-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1020038,
+    "character_ids": [
+      "Adget-Caelestrasz",
+      "Nsõ-Frostmourne",
+      "Luceed-Frostmourne",
+      "Ethyyl-Frostmourne",
+      "Sooniiz-Illidan"
+    ]
+  },
+  {
+    "run_id": 1001964,
+    "character_ids": [
+      "Tulkren-Dalaran",
+      "Padori-Thrall",
+      "Juntari-Area 52",
+      "Oscar-Thrall",
+      "Sifts-Thrall"
+    ]
+  },
+  {
+    "run_id": 1084750,
+    "character_ids": [
+      "Ghari-Area 52",
+      "Liyna-Stormrage",
+      "Kurugh-Illidan",
+      "Coltër-Mal'Ganis",
+      "Hochu-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1002072,
+    "character_ids": [
+      "Scottypally-Area 52",
+      "Moonzi-Zul'jin",
+      "Vøiðhunter-Stormrage",
+      "Henkar-Proudmoore",
+      "Trippsbrew-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1002988,
+    "character_ids": [
+      "Bronkwar-Azralon",
+      "Syllo-Illidan",
+      "Dankyagank-Dalaran",
+      "Shumonk-Tichondrius",
+      "Ransömware-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1003054,
+    "character_ids": [
+      "Bricksmash-Bleeding Hollow",
+      "Priect-Stormrage",
+      "Drankincup-Magtheridon",
+      "Kregore-Stormrage",
+      "Fameyx-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1003320,
+    "character_ids": [
+      "Brrst-Area 52",
+      "Kurtec-Frostmourne",
+      "Pewpewgoboom-Illidan",
+      "Tub-Sargeras",
+      "Lissandrak-Area 52"
+    ]
+  },
+  {
+    "run_id": 1064087,
+    "character_ids": [
+      "Stuckstepmõm-Tichondrius",
+      "Skôll-Area 52",
+      "Metronice-Dalaran",
+      "Mantinees-Azralon",
+      "Demelarion-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 1004341,
+    "character_ids": [
+      "Scythè-Frostmourne",
+      "Outsidar-Frostmourne",
+      "Drunk-Frostmourne",
+      "Burntcookies-Area 52",
+      "Evokyr-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1025953,
+    "character_ids": [
+      "Mne-Frostmourne",
+      "Chappersxx-Frostmourne",
+      "Greshh-Frostmourne",
+      "Wyrdmonk-Nagrand",
+      "Giac-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1008880,
+    "character_ids": [
+      "Glizzyboi-Zul'jin",
+      "Shalù-Tichondrius",
+      "Todamax-Area 52",
+      "Teresamayer-Proudmoore",
+      "Chimian-Proudmoore"
+    ]
+  },
+  {
+    "run_id": 1005585,
+    "character_ids": [
+      "Sasavot-Stormrage",
+      "Flexzxf-Stormrage",
+      "Remirgatkona-Barthilas",
+      "Duncanshort-Stormrage",
+      "Nafdh-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1005592,
+    "character_ids": [
+      "Deniro-Frostmourne",
+      "Dentee-Frostmourne",
+      "Frigidam-Barthilas",
+      "Glaivetossa-Frostmourne",
+      "Pegazus-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1005935,
+    "character_ids": [
+      "Fma-Aman'Thul",
+      "Xternal-Frostmourne",
+      "Frymii-Frostmourne",
+      "Nativ-Aman'Thul",
+      "Willyb-Aman'Thul"
+    ]
+  },
+  {
+    "run_id": 1084315,
+    "character_ids": [
+      "Spritesyrup-Stormrage",
+      "Nyften-Mal'Ganis",
+      "Dreadelune-Stormrage",
+      "Zeusidon-Mal'Ganis",
+      "Netodh-Azralon"
+    ]
+  },
+  {
+    "run_id": 1059890,
+    "character_ids": [
+      "Jabronijojo-Area 52",
+      "Sipla-Illidan",
+      "Makeekakaa-Illidan",
+      "Wanwam-Frostmourne",
+      "Érêbus-Illidan"
+    ]
+  },
+  {
+    "run_id": 1035065,
+    "character_ids": [
+      "Bluetail-Wyrmrest Accord",
+      "Soow-Area 52",
+      "Shintarou-Stormrage",
+      "Bessospins-Illidan",
+      "Wjx-Illidan"
+    ]
+  },
+  {
+    "run_id": 1006990,
+    "character_ids": [
+      "Sickmage-Emerald Dream",
+      "Bosis-Zul'jin",
+      "Realeyes-Aman'Thul",
+      "Säläzär-Quel'Thalas",
+      "Mömmy-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1009991,
+    "character_ids": [
+      "Saiso-Kil'jaeden",
+      "Brittlebrain-Illidan",
+      "Serrafin-Stormreaver",
+      "Sparkle-Gorgonnash",
+      "Waffl-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1026430,
+    "character_ids": [
+      "Smyteme-Area 52",
+      "Karigyaru-Frostmourne",
+      "Reisor-Azralon",
+      "Zuuz-Stormrage",
+      "Amèth-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1009441,
+    "character_ids": [
+      "Senjinwoo-Illidan",
+      "Kiszflower-Area 52",
+      "Lowcortisøl-Stormrage",
+      "Rindowo-Illidan",
+      "Antokiba-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1026750,
+    "character_ids": [
+      "Sycamore-Dath'Remar",
+      "Apokalyps-Frostmourne",
+      "Yekhaung-Area 52",
+      "Veraaqt-Frostmourne",
+      "Anamemana-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1020834,
+    "character_ids": [
+      "Whiterb-Barthilas",
+      "Neverholylol-Barthilas",
+      "Starrail-Barthilas",
+      "Holywzq-Barthilas",
+      "Tigermonk-Barthilas"
+    ]
+  },
+  {
+    "run_id": 1008953,
+    "character_ids": [
+      "Ínmórtál-Quel'Thalas",
+      "Shádöwx-Stormrage",
+      "Myneli-Moon Guard",
+      "Pawnsunday-Dath'Remar",
+      "Huhwhosthere-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1084427,
+    "character_ids": [
+      "Pizzashet-Stormrage",
+      "Thelwar-Bleeding Hollow",
+      "Ejaaydk-Area 52",
+      "Svemlust-Illidan",
+      "Moghu-Illidan"
+    ]
+  },
+  {
+    "run_id": 1009972,
+    "character_ids": [
+      "Duxmage-Frostmourne",
+      "Gyatthicc-Barthilas",
+      "Jaayz-Frostmourne",
+      "Voltagemonk-Frostmourne",
+      "Dinibae-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1020867,
+    "character_ids": [
+      "Chaosnovà-Frostmourne",
+      "Bogstrong-Frostmourne",
+      "Triselie-Frostmourne",
+      "Masodots-Frostmourne",
+      "Vedresh-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1010436,
+    "character_ids": [
+      "Turtleecods-Area 52",
+      "Deerbear-Area 52",
+      "Clevinhoo-Illidan",
+      "Seanthepries-Blackrock",
+      "Jahoodh-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1010709,
+    "character_ids": [
+      "Zorno-Mal'Ganis",
+      "Bopadinz-Stormrage",
+      "Slander-Zul'jin",
+      "Tombjörn-Thrall",
+      "Noxmk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1012248,
+    "character_ids": [
+      "Splew-Area 52",
+      "Holykeste-Illidan",
+      "Wompan-Sargeras",
+      "Artchi-Area 52",
+      "Spinmeright-Area 52"
+    ]
+  },
+  {
+    "run_id": 1012157,
+    "character_ids": [
+      "Emiliiaqt-Area 52",
+      "Bigpumperboi-Area 52",
+      "Pytorchy-Area 52",
+      "Meloysan-Area 52",
+      "Ginjaoo-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1013091,
+    "character_ids": [
+      "Hyperelle-Frostmourne",
+      "Kastian-Frostmourne",
+      "Tárkki-Frostmourne",
+      "Lute-Rivendare",
+      "Sevenpiece-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1014453,
+    "character_ids": [
+      "Goodgodman-Area 52",
+      "Ramifor-Azralon",
+      "Lookke-Stormrage",
+      "Setò-Stormrage",
+      "Draguilow-Illidan"
+    ]
+  },
+  {
+    "run_id": 1035395,
+    "character_ids": [
+      "Yuchiyo-Barthilas",
+      "Haizaki-Khaz'goroth",
+      "Mihyuni-Frostmourne",
+      "Blokekissers-Barthilas",
+      "Slavko-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1015192,
+    "character_ids": [
+      "Nononoplz-Barthilas",
+      "Eczy-Frostmourne",
+      "Happeeii-Frostmourne",
+      "Gyuniku-Barthilas",
+      "Siupinklin-Barthilas"
+    ]
+  },
+  {
+    "run_id": 1015884,
+    "character_ids": [
+      "Ezpeasy-Barthilas",
+      "Anguinis-Frostmourne",
+      "Zoe-Hyjal",
+      "Alexsbussy-Frostmourne",
+      "Momoxd-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1016666,
+    "character_ids": [
+      "Holamaster-Stormrage",
+      "Monkeysound-Illidan",
+      "Sabbith-Burning Legion",
+      "Romansroad-Blackrock",
+      "Skullshine-Blood Furnace"
+    ]
+  },
+  {
+    "run_id": 1016767,
+    "character_ids": [
+      "Tulkren-Dalaran",
+      "Padori-Thrall",
+      "Juntari-Area 52",
+      "Oscar-Thrall",
+      "Sifts-Thrall"
+    ]
+  },
+  {
+    "run_id": 1016806,
+    "character_ids": [
+      "Paladindita-Ragnaros",
+      "Hexterr-Zul'jin",
+      "Trohm-Stormrage",
+      "Ptitbiscuit-Zul'jin",
+      "Morbeus-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1093644,
+    "character_ids": [
+      "Inviswar-Stormrage",
+      "Boonbed-Area 52",
+      "Tyàkc-Tichondrius",
+      "Leanshock-Stormrage",
+      "Gargalondus-Area 52"
+    ]
+  },
+  {
+    "run_id": 1017254,
+    "character_ids": [
+      "Bricksmash-Bleeding Hollow",
+      "Priect-Stormrage",
+      "Drankincup-Magtheridon",
+      "Kregore-Stormrage",
+      "Fameyx-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1018028,
+    "character_ids": [
+      "Bèn-Azralon",
+      "Vertorios-Illidan",
+      "Blackshaft-Area 52",
+      "Vinlothos-Stormrage",
+      "Sabolol-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 1018500,
+    "character_ids": [
+      "Scottypally-Area 52",
+      "Exage-Stormrage",
+      "Kaízerg-Illidan",
+      "Lunesera-Frostmourne",
+      "Fallenleaves-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1018573,
+    "character_ids": [
+      "Lightyou-Zul'jin",
+      "Gistwiki-Kel'Thuzad",
+      "Koráh-Kel'Thuzad",
+      "Plagüe-Kel'Thuzad",
+      "Jonv-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 1019445,
+    "character_ids": [
+      "Slayingpips-Illidan",
+      "Overpøwered-Frostmourne",
+      "Amarxd-Azgalor",
+      "Lanlv-Illidan",
+      "Buttërcüp-Illidan"
+    ]
+  },
+  {
+    "run_id": 1019604,
+    "character_ids": [
+      "Khaßalinha-Stormrage",
+      "Darthdivined-Area 52",
+      "Cattaracts-Mal'Ganis",
+      "Critsae-Firetree",
+      "Spycee-Dalaran"
+    ]
+  },
+  {
+    "run_id": 1019657,
+    "character_ids": [
+      "Spends-Tichondrius",
+      "Azzyswarrior-Area 52",
+      "Blössom-Kel'Thuzad",
+      "Guuah-Wyrmrest Accord",
+      "Persuasions-Proudmoore"
+    ]
+  },
+  {
+    "run_id": 1049580,
+    "character_ids": [
+      "Pfìzer-Tichondrius",
+      "Aceviouslock-Stormrage",
+      "Záráéna-Mal'Ganis",
+      "Augmaweenis-Sargeras",
+      "Shlum-Illidan"
+    ]
+  },
+  {
+    "run_id": 1020023,
+    "character_ids": [
+      "Shozokui-Thrall",
+      "Mezobloom-Stormrage",
+      "Criispo-Stormrage",
+      "Muaythai-Bleeding Hollow",
+      "Hazëy-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1020082,
+    "character_ids": [
+      "Kaju-Nemesis",
+      "Setrius-Illidan",
+      "Belthion-Zul'jin",
+      "Cbk-Hyjal",
+      "Carméla-Wyrmrest Accord"
+    ]
+  },
+  {
+    "run_id": 1020474,
+    "character_ids": [
+      "Graysinger-Stormrage",
+      "Clamatïs-Area 52",
+      "Thórfinn-Illidan",
+      "Enhshaman-Crushridge",
+      "Whitefiredh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1020516,
+    "character_ids": [
+      "Icystixx-Area 52",
+      "Johnp-Area 52",
+      "Loden-Garona",
+      "Souffle-Spirestone",
+      "Meditate-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1021002,
+    "character_ids": [
+      "Sasavot-Stormrage",
+      "Flexzxf-Stormrage",
+      "Duncanshort-Stormrage",
+      "Gcdhacker-Area 52",
+      "Nafdh-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1021095,
+    "character_ids": [
+      "Zagrob-Frostmourne",
+      "Sweetloú-Frostmourne",
+      "Watersapply-Frostmourne",
+      "Elemant-Frostmourne",
+      "Mistyeon-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1024251,
+    "character_ids": [
+      "Oreosmaster-Tichondrius",
+      "Duelzero-Sargeras",
+      "Remouth-Zul'jin",
+      "Sorrowsham-Sargeras",
+      "Sorrydad-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1021692,
+    "character_ids": [
+      "Moximus-Frostmourne",
+      "Nsõ-Frostmourne",
+      "Sooniiz-Illidan",
+      "Wyf-Frostmourne",
+      "Yamatekudasi-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1026443,
+    "character_ids": [
+      "Pôrô-Tichondrius",
+      "Jakeingoff-Mal'Ganis",
+      "Anübìs-Tichondrius",
+      "Kovimonk-Sargeras",
+      "Cherfel-Azralon"
+    ]
+  },
+  {
+    "run_id": 1037015,
+    "character_ids": [
+      "Kalatai-Bonechewer",
+      "Juggernãut-Area 52",
+      "Legendshaman-Sargeras",
+      "Lighthgwang-Illidan",
+      "Brycemonk-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1024963,
+    "character_ids": [
+      "Enïkk-Illidan",
+      "Meowmeowzi-Illidan",
+      "Workingdk-Illidan",
+      "Zhudabee-Illidan",
+      "Shumonk-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1060469,
+    "character_ids": [
+      "Çy-Stormrage",
+      "Griefcase-Area 52",
+      "Hädëz-Illidan",
+      "Axldh-Zul'jin",
+      "Miiloevo-Area 52"
+    ]
+  },
+  {
+    "run_id": 1026164,
+    "character_ids": [
+      "Bigsalamiguy-Thrall",
+      "Diotah-Area 52",
+      "Kymuuquakes-Proudmoore",
+      "Granph-Stormrage",
+      "Kholdar-Area 52"
+    ]
+  },
+  {
+    "run_id": 1041355,
+    "character_ids": [
+      "Isurecare-Frostmourne",
+      "Deathsrain-Shattered Hand",
+      "Deerpriest-Tichondrius",
+      "Flubbermug-Illidan",
+      "Waffl-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1040991,
+    "character_ids": [
+      "Heelrazor-Illidan",
+      "Valahwei-Stormrage",
+      "Minøsz-Stormrage",
+      "Sayarmar-Frostmourne",
+      "Arinze-Illidan"
+    ]
+  },
+  {
+    "run_id": 1027542,
+    "character_ids": [
+      "Techniux-Area 52",
+      "Débrinha-Stormrage",
+      "Diofur-Zul'jin",
+      "Sacrêd-Zul'jin",
+      "Cratisdh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1028170,
+    "character_ids": [
+      "Dusyk-Area 52",
+      "Kradia-Mal'Ganis",
+      "Hwei-Mal'Ganis",
+      "Bobo-Antonidas",
+      "Mím-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1028473,
+    "character_ids": [
+      "Shufage-Barthilas",
+      "Suiki-Barthilas",
+      "Sec-Zul'jin",
+      "Littlesanta-Barthilas",
+      "Chisely-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1028757,
+    "character_ids": [
+      "Senapim-Proudmoore",
+      "Shalù-Tichondrius",
+      "Teresamayer-Proudmoore",
+      "Chimian-Proudmoore",
+      "Outsidar-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1081597,
+    "character_ids": [
+      "Aliarra-Dalaran",
+      "Imaginaerüm-Ragnaros",
+      "Jespar-Mal'Ganis",
+      "Galamonk-Illidan",
+      "Brucevvayne-Illidan"
+    ]
+  },
+  {
+    "run_id": 1029025,
+    "character_ids": [
+      "Maydayzz-Frostmourne",
+      "Qsgd-Frostmourne",
+      "Spacegliding-Frostmourne",
+      "Warlockjason-Proudmoore",
+      "Luckylukey-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1059803,
+    "character_ids": [
+      "Bosis-Zul'jin",
+      "Emutep-Illidan",
+      "Húntèr-Frostmourne",
+      "Bessospins-Illidan",
+      "Érêbus-Illidan"
+    ]
+  },
+  {
+    "run_id": 1032248,
+    "character_ids": [
+      "Senjinwoo-Illidan",
+      "Remirgatkona-Barthilas",
+      "Dhuntis-Area 52",
+      "Littlehell-Ysera",
+      "Espheon-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1035087,
+    "character_ids": [
+      "Subfreeze-Thrall",
+      "Hopezherbz-Black Dragonflight",
+      "Terminite-Illidan",
+      "Vmuch-Stormrage",
+      "Aug-Azralon"
+    ]
+  },
+  {
+    "run_id": 1029815,
+    "character_ids": [
+      "Ominiknightz-Azralon",
+      "Gabethebabe-Area 52",
+      "Banwork-Thrall",
+      "Onichaan-Azralon",
+      "Morehose-Lightbringer"
+    ]
+  },
+  {
+    "run_id": 1084326,
+    "character_ids": [
+      "Lândrill-Stormrage",
+      "Mmrsmite-Illidan",
+      "Profconner-Dalaran",
+      "Chäca-Illidan",
+      "Ackturì-Dalaran"
+    ]
+  },
+  {
+    "run_id": 1030795,
+    "character_ids": [
+      "Maecrow-Illidan",
+      "Mosteninha-Sargeras",
+      "Sevenpiece-Frostmourne",
+      "Netodh-Azralon",
+      "Kagenawa-Area 52"
+    ]
+  },
+  {
+    "run_id": 1085328,
+    "character_ids": [
+      "Ydro-Zul'jin",
+      "Pawslap-Zul'jin",
+      "Samwishdk-Area 52",
+      "Ðesolo-Tichondrius",
+      "Cix-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1031653,
+    "character_ids": [
+      "Pengupoly-Illidan",
+      "Jaynye-Stormrage",
+      "Sunnied-Proudmoore",
+      "Gyatthicc-Barthilas",
+      "Bhowu-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1031839,
+    "character_ids": [
+      "Glizzyboi-Zul'jin",
+      "Thelwar-Bleeding Hollow",
+      "Whiteowls-Khadgar",
+      "Dkagada-Area 52",
+      "Ssnappingg-Khadgar"
+    ]
+  },
+  {
+    "run_id": 1033059,
+    "character_ids": [
+      "Adieux-Tichondrius",
+      "Havoket-Quel'Thalas",
+      "Saywhaat-Dalaran",
+      "Krowe-Area 52",
+      "Borz-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1034774,
+    "character_ids": [
+      "Gouknsan-Area 52",
+      "Scythè-Frostmourne",
+      "Shocksauce-Tichondrius",
+      "Cleos-Duskwood",
+      "Hoffa-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1034828,
+    "character_ids": [
+      "Lightyou-Zul'jin",
+      "Gistwiki-Kel'Thuzad",
+      "Koráh-Kel'Thuzad",
+      "Plagüe-Kel'Thuzad",
+      "Jonv-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 1034869,
+    "character_ids": [
+      "Tulkren-Dalaran",
+      "Padori-Thrall",
+      "Juntari-Area 52",
+      "Oscar-Thrall",
+      "Sifts-Thrall"
+    ]
+  },
+  {
+    "run_id": 1043226,
+    "character_ids": [
+      "Bilønga-Stormrage",
+      "Anguinis-Frostmourne",
+      "Exage-Stormrage",
+      "Alexsbussy-Frostmourne",
+      "Momoxd-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1076997,
+    "character_ids": [
+      "Citadèl-Zul'jin",
+      "Irãenestia-Zul'jin",
+      "Poutouyemoun-Zul'jin",
+      "Davidguetta-Zul'jin",
+      "Heartdànce-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1035147,
+    "character_ids": [
+      "Magiacurta-Stormrage",
+      "Elronnd-Eonar",
+      "Kathrash-Stormrage",
+      "Vaelyth-Thrall",
+      "Derpymonk-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1035488,
+    "character_ids": [
+      "Chewsdaybruv-Zul'jin",
+      "Monkeysound-Illidan",
+      "Sabbith-Burning Legion",
+      "Romansroad-Blackrock",
+      "Skullshine-Blood Furnace"
+    ]
+  },
+  {
+    "run_id": 1035757,
+    "character_ids": [
+      "Wem-Illidan",
+      "Arktorus-Zul'jin",
+      "Voteforkanye-Illidan",
+      "Kahlista-Tichondrius",
+      "Mogged-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1035974,
+    "character_ids": [
+      "Kittyykat-Frostmourne",
+      "Bloodygood-Frostmourne",
+      "Llamatamer-Arthas",
+      "Judinstab-Sargeras",
+      "Drunkenteddy-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1037192,
+    "character_ids": [
+      "Brandyz-Zul'jin",
+      "Unholydump-Illidan",
+      "Goodgodman-Area 52",
+      "Zolshee-Proudmoore",
+      "Hasirama-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1037445,
+    "character_ids": [
+      "Sunvyr-Moon Guard",
+      "Robbywaffs-Zul'jin",
+      "Gargargar-Barthilas",
+      "Lunesera-Frostmourne",
+      "Pïïnk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1067172,
+    "character_ids": [
+      "Drts-Nemesis",
+      "Vertorios-Illidan",
+      "Stavo-Mal'Ganis",
+      "Vinlothos-Stormrage",
+      "Jillidarii-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1084772,
+    "character_ids": [
+      "Pumpermcgavn-Tichondrius",
+      "Yourichi-Frostmourne",
+      "Cyts-Tichondrius",
+      "Tonkabrew-Illidan",
+      "Prodichí-Illidan"
+    ]
+  },
+  {
+    "run_id": 1038611,
+    "character_ids": [
+      "Pôrô-Tichondrius",
+      "Cattaracts-Mal'Ganis",
+      "Kabám-Stormrage",
+      "Rvvl-Stormrage",
+      "Holymíst-Area 52"
+    ]
+  },
+  {
+    "run_id": 1040621,
+    "character_ids": [
+      "Bricksmash-Bleeding Hollow",
+      "Priect-Stormrage",
+      "Drankincup-Magtheridon",
+      "Kregore-Stormrage",
+      "Fameyx-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1040692,
+    "character_ids": [
+      "Mightyelfo-Dalaran",
+      "Ramboshock-Illidan",
+      "Kerridru-Illidan",
+      "Dalarel-Dalaran",
+      "Neonel-Illidan"
+    ]
+  },
+  {
+    "run_id": 1076046,
+    "character_ids": [
+      "Whygee-Stormrage",
+      "Nave-Stormrage",
+      "Kemogasm-Illidan",
+      "Stickyficky-Stormrage",
+      "Landorax-Area 52"
+    ]
+  },
+  {
+    "run_id": 1041183,
+    "character_ids": [
+      "Reyandrin-Stormrage",
+      "Matrenka-Bleeding Hollow",
+      "Nïik-Stormrage",
+      "Kylewl-Stormrage",
+      "Smellmä-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1041354,
+    "character_ids": [
+      "Maickeenone-Area 52",
+      "Squixy-Illidan",
+      "Blakemedivh-Area 52",
+      "Kênê-Stormrage",
+      "Tabbe-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1041814,
+    "character_ids": [
+      "Jabrink-Area 52",
+      "Gozen-Bleeding Hollow",
+      "Shamizu-Area 52",
+      "Zenpulse-Area 52",
+      "Faillpepsi-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1076436,
+    "character_ids": [
+      "Ezkath-Turalyon",
+      "Moistelle-Area 52",
+      "Svemlust-Illidan",
+      "Cheezies-Area 52",
+      "Hoofmommy-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1042027,
+    "character_ids": [
+      "Calferx-Area 52",
+      "Chichobelo-Illidan",
+      "Hubbled-Sargeras",
+      "Deerpriest-Tichondrius",
+      "Ancients-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 1042144,
+    "character_ids": [
+      "Tresg-Azuremyst",
+      "Ðâk-Kil'jaeden",
+      "Walluss-Sargeras",
+      "Url-Sargeras",
+      "Xtraktable-Illidan"
+    ]
+  },
+  {
+    "run_id": 1081812,
+    "character_ids": [
+      "Novababy-Area 52",
+      "Apatros-Moon Guard",
+      "Shrewuid-Area 52",
+      "Shamjaxz-Area 52",
+      "Neardh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1042658,
+    "character_ids": [
+      "Eililind-Tichondrius",
+      "Zigzagzog-Hyjal",
+      "Furtism-Wyrmrest Accord",
+      "Ryzerin-Nagrand",
+      "Yippies-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1042642,
+    "character_ids": [
+      "Habibikareem-Stormrage",
+      "Silentsword-Malfurion",
+      "Brinxx-Area 52",
+      "Machx-Tichondrius",
+      "Mymetaa-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1043843,
+    "character_ids": [
+      "Jakeingoff-Mal'Ganis",
+      "Varfolomey-Stormrage",
+      "Coldrain-Stormrage",
+      "Katlamalefic-Azralon",
+      "Hazëy-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1098172,
+    "character_ids": [
+      "Pkjake-Mal'Ganis",
+      "Dakatüs-Mal'Ganis",
+      "Stumpe-Mal'Ganis",
+      "Bc-Gul'dan",
+      "Lemora-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1043374,
+    "character_ids": [
+      "Jayia-Aegwynn",
+      "Danhunter-Aegwynn",
+      "Neebz-Mal'Ganis",
+      "Identiphy-Illidan",
+      "Pyradh-Thrall"
+    ]
+  },
+  {
+    "run_id": 1044044,
+    "character_ids": [
+      "Økwøn-Borean Tundra",
+      "Diofur-Zul'jin",
+      "Cingz-Gorefiend",
+      "Sacrêd-Zul'jin",
+      "Cratisdh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1089364,
+    "character_ids": [
+      "Ahmedly-Sargeras",
+      "Tholamew-Mal'Ganis",
+      "Sneakyalpaca-Kel'Thuzad",
+      "Laerong-Sargeras",
+      "Aitrex-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1044361,
+    "character_ids": [
+      "Ivalyn-Area 52",
+      "Slander-Zul'jin",
+      "Jessup-Blade's Edge",
+      "Jessipalmer-Mal'Ganis",
+      "Starcrafttwo-Area 52"
+    ]
+  },
+  {
+    "run_id": 1044994,
+    "character_ids": [
+      "Pooclicker-Area 52",
+      "ßéár-Area 52",
+      "Luneymonk-Illidan",
+      "Pardalyatta-Zul'jin",
+      "Auggies-Illidan"
+    ]
+  },
+  {
+    "run_id": 1045430,
+    "character_ids": [
+      "Zvonspapen-Stormrage",
+      "Nickoro-Stormrage",
+      "Mindawarr-Zul'jin",
+      "Stárlôrd-Quel'Thalas",
+      "Biotta-Area 52"
+    ]
+  },
+  {
+    "run_id": 1045533,
+    "character_ids": [
+      "Miinimage-Area 52",
+      "Gabethebabe-Area 52",
+      "Ihearvoices-Illidan",
+      "Nutry-Mal'Ganis",
+      "Mizzria-Area 52"
+    ]
+  },
+  {
+    "run_id": 1045526,
+    "character_ids": [
+      "Rukukismage-Illidan",
+      "Ashym-Mal'Ganis",
+      "Granph-Stormrage",
+      "Bessospins-Illidan",
+      "Mdmisthatter-Illidan"
+    ]
+  },
+  {
+    "run_id": 1046631,
+    "character_ids": [
+      "Zorno-Mal'Ganis",
+      "Bopadinz-Stormrage",
+      "Deathzod-Dalaran",
+      "Jaycelock-Bleeding Hollow",
+      "Noxmk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1047176,
+    "character_ids": [
+      "Arcanefire-Garrosh",
+      "Wise-Hyjal",
+      "Messdk-Stormrage",
+      "Killeroddy-Area 52",
+      "Kungfupoo-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 1050319,
+    "character_ids": [
+      "Imphaterion-Sargeras",
+      "Pöps-Sargeras",
+      "Griefcase-Area 52",
+      "Desired-Area 52",
+      "Jaqolantern-Area 52"
+    ]
+  },
+  {
+    "run_id": 1047383,
+    "character_ids": [
+      "Qstnmrk-Area 52",
+      "Armorex-Zul'jin",
+      "Deadlyking-Azralon",
+      "Dubsy-Moon Guard",
+      "Kurmpus-Thrall"
+    ]
+  },
+  {
+    "run_id": 1047733,
+    "character_ids": [
+      "Elwhy-Frostmourne",
+      "Papablèss-Tichondrius",
+      "Parashock-Frostmourne",
+      "Wørsttank-Area 52",
+      "Jink-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1047880,
+    "character_ids": [
+      "Techniux-Area 52",
+      "Incredíbull-Area 52",
+      "Whiteowls-Khadgar",
+      "Beefsmakk-Area 52",
+      "Ssnappingg-Khadgar"
+    ]
+  },
+  {
+    "run_id": 1048482,
+    "character_ids": [
+      "Nemymage-Illidan",
+      "Lailee-Stormrage",
+      "Kyrasis-Area 52",
+      "Pewpewgoboom-Illidan",
+      "Lissandrak-Area 52"
+    ]
+  },
+  {
+    "run_id": 1048500,
+    "character_ids": [
+      "Thecoldzero-Area 52",
+      "Rbzy-Stormrage",
+      "Ardiaz-Stormrage",
+      "Blacksimba-Area 52",
+      "Metatilt-Illidan"
+    ]
+  },
+  {
+    "run_id": 1048525,
+    "character_ids": [
+      "Everez-Tichondrius",
+      "Moraylvane-Thrall",
+      "Jeffbuckley-Zul'jin",
+      "Valcursin-Zul'jin",
+      "Bayroll-Illidan"
+    ]
+  },
+  {
+    "run_id": 1048554,
+    "character_ids": [
+      "Milfheim-Illidan",
+      "Bootygangceo-Illidan",
+      "Jajabinx-Sargeras",
+      "Inirahzom-Area 52",
+      "Hummingbeerd-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1064152,
+    "character_ids": [
+      "Daoko-Dawnbringer",
+      "Cenizah-Quel'Thalas",
+      "Metronice-Dalaran",
+      "Serrafin-Stormreaver",
+      "Helloimkali-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1053824,
+    "character_ids": [
+      "Snazzylemur-Area 52",
+      "Celdianna-Whisperwind",
+      "Leanshock-Stormrage",
+      "ßorrowedtime-Wyrmrest Accord",
+      "Meragedh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1073536,
+    "character_ids": [
+      "Todamax-Area 52",
+      "Sewercatxd-Moon Guard",
+      "Littlehell-Ysera",
+      "Babybrain-Area 52",
+      "Tub-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1050956,
+    "character_ids": [
+      "Pyråmid-Area 52",
+      "Dhuntis-Area 52",
+      "Manark-Sargeras",
+      "Espheon-Stormrage",
+      "Fastasfckboi-Area 52"
+    ]
+  },
+  {
+    "run_id": 1079511,
+    "character_ids": [
+      "Bigsalamiguy-Thrall",
+      "Oropala-Kil'jaeden",
+      "Treky-Stormrage",
+      "Millydk-Mal'Ganis",
+      "Faxxie-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1051342,
+    "character_ids": [
+      "Doritös-Azralon",
+      "Vmuch-Stormrage",
+      "Shocksauce-Tichondrius",
+      "Imfistin-Stormrage",
+      "Hoffa-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1051788,
+    "character_ids": [
+      "Blag-Area 52",
+      "Gouknsan-Area 52",
+      "Scythè-Frostmourne",
+      "Guldenis-Zul'jin",
+      "Cleos-Duskwood"
+    ]
+  },
+  {
+    "run_id": 1052254,
+    "character_ids": [
+      "Lightyou-Zul'jin",
+      "Gistwiki-Kel'Thuzad",
+      "Koráh-Kel'Thuzad",
+      "Plagüe-Kel'Thuzad",
+      "Jonv-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 1052537,
+    "character_ids": [
+      "Ploobert-Thrall",
+      "Musairu-Thrall",
+      "Anadic-Thrall",
+      "Incog-Stormreaver",
+      "Trevvy-Thrall"
+    ]
+  },
+  {
+    "run_id": 1052819,
+    "character_ids": [
+      "Harpur-Area 52",
+      "Kopiosaviour-Frostmourne",
+      "Melielyna-Area 52",
+      "Cærus-Area 52",
+      "Ethyyl-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1053751,
+    "character_ids": [
+      "Blinc-Barthilas",
+      "Calbees-Barthilas",
+      "Chirros-Barthilas",
+      "Happeeii-Frostmourne",
+      "Alzrian-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1053843,
+    "character_ids": [
+      "Executa-Illidan",
+      "Jebo-Zul'jin",
+      "Zygunda-Illidan",
+      "Exage-Stormrage",
+      "Zoe-Hyjal"
+    ]
+  },
+  {
+    "run_id": 1053863,
+    "character_ids": [
+      "Saiti-Cenarius",
+      "Lorechi-Cenarius",
+      "Qb-Cenarius",
+      "Twinklespark-Area 52",
+      "Xenyum-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1053904,
+    "character_ids": [
+      "Frierenpally-Stormscale",
+      "Heealzz-Vashj",
+      "Haidara-Area 52",
+      "Mistdew-Thrall",
+      "Kaolo-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1079994,
+    "character_ids": [
+      "Màmi-Proudmoore",
+      "Frozenneitor-Drakkari",
+      "Hexterr-Zul'jin",
+      "Nottoxik-Area 52",
+      "Ragazzar-Quel'Thalas"
+    ]
+  },
+  {
+    "run_id": 1077011,
+    "character_ids": [
+      "Citadèl-Zul'jin",
+      "Irãenestia-Zul'jin",
+      "Poutouyemoun-Zul'jin",
+      "Davidguetta-Zul'jin",
+      "Heartdànce-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1084306,
+    "character_ids": [
+      "Pizzashet-Stormrage",
+      "Djînn-Thrall",
+      "Goodgodman-Area 52",
+      "Affietaffie-Area 52",
+      "Monarchy-Thrall"
+    ]
+  },
+  {
+    "run_id": 1054838,
+    "character_ids": [
+      "Warrhog-Zul'jin",
+      "Nexcess-Zul'jin",
+      "Zoleera-Zul'jin",
+      "Legendshaman-Sargeras",
+      "Brycemonk-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1055376,
+    "character_ids": [
+      "Pôrô-Tichondrius",
+      "Boomylife-Ragnaros",
+      "Xartgpt-Stormrage",
+      "Robbywaffs-Zul'jin",
+      "Sofelle-Caelestrasz"
+    ]
+  },
+  {
+    "run_id": 1055625,
+    "character_ids": [
+      "Speçtër-Stormrage",
+      "Nethal-Stormrage",
+      "Ølives-Illidan",
+      "Daí-Zul'jin",
+      "Cynful-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1055755,
+    "character_ids": [
+      "Valahwei-Stormrage",
+      "Neddludd-Lightbringer",
+      "Visesham-Stormrage",
+      "Allsbrook-Sargeras",
+      "Galadryél-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1055956,
+    "character_ids": [
+      "Lothbroøk-Illidan",
+      "Kleneextp-Tichondrius",
+      "Goudamn-Illidan",
+      "Ragstoliches-Zul'jin",
+      "Axldh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1056909,
+    "character_ids": [
+      "Mightyelfo-Dalaran",
+      "Ramboshock-Illidan",
+      "Kerridru-Illidan",
+      "Dalarel-Dalaran",
+      "Neonel-Illidan"
+    ]
+  },
+  {
+    "run_id": 1057061,
+    "character_ids": [
+      "Gojô-Area 52",
+      "Boonbed-Area 52",
+      "Gargalondus-Area 52",
+      "Nachochi-Stormrage",
+      "Imrlysad-Illidan"
+    ]
+  },
+  {
+    "run_id": 1058791,
+    "character_ids": [
+      "Iliyena-Kel'Thuzad",
+      "Cattaracts-Mal'Ganis",
+      "Shádöwx-Stormrage",
+      "Jerodead-Area 52",
+      "Griptest-Thrall"
+    ]
+  },
+  {
+    "run_id": 1077670,
+    "character_ids": [
+      "Beginnings-Area 52",
+      "Harveyx-Barthilas",
+      "Kabám-Stormrage",
+      "Providennce-Tichondrius",
+      "Chåni-Ysera"
+    ]
+  },
+  {
+    "run_id": 1057080,
+    "character_ids": [
+      "Bricksmash-Bleeding Hollow",
+      "Priect-Stormrage",
+      "Drankincup-Magtheridon",
+      "Kregore-Stormrage",
+      "Fameyx-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1057263,
+    "character_ids": [
+      "Monkeysound-Illidan",
+      "Sabbith-Burning Legion",
+      "Romansroad-Blackrock",
+      "Skullshine-Blood Furnace",
+      "Lockedbird-Area 52"
+    ]
+  },
+  {
+    "run_id": 1057519,
+    "character_ids": [
+      "Marcx-Area 52",
+      "Putiputi-Mal'Ganis",
+      "Gibdo-Mal'Ganis",
+      "Lanlv-Illidan",
+      "Quickkwinter-Firetree"
+    ]
+  },
+  {
+    "run_id": 1074919,
+    "character_ids": [
+      "Hokie-Mal'Ganis",
+      "Oinki-Moon Guard",
+      "Peinen-Mal'Ganis",
+      "Strugglewl-Mal'Ganis",
+      "Greenpiggy-Illidan"
+    ]
+  },
+  {
+    "run_id": 1098170,
+    "character_ids": [
+      "Pkjake-Mal'Ganis",
+      "Dakatüs-Mal'Ganis",
+      "Stumpe-Mal'Ganis",
+      "Bc-Gul'dan",
+      "Lemora-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1058183,
+    "character_ids": [
+      "Parcissist-Tichondrius",
+      "Shaqedya-Illidan",
+      "Huypham-Area 52",
+      "Shinnzu-Tichondrius",
+      "Shinodh-Area 52"
+    ]
+  },
+  {
+    "run_id": 1058238,
+    "character_ids": [
+      "Shockvani-Sargeras",
+      "Heâdhunter-Sargeras",
+      "Splashzy-Sargeras",
+      "Lighthgwang-Illidan",
+      "Johnwing-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1084320,
+    "character_ids": [
+      "Shnozz-Tichondrius",
+      "Bubblediez-Kel'Thuzad",
+      "Svemlust-Illidan",
+      "Brownshaman-Stormrage",
+      "Trunkzdh-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1076427,
+    "character_ids": [
+      "Ezkath-Turalyon",
+      "Clevinhoo-Illidan",
+      "Moistelle-Area 52",
+      "Cheezies-Area 52",
+      "Hoofmommy-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1082911,
+    "character_ids": [
+      "Heelrazor-Illidan",
+      "Chromelune-Area 52",
+      "Unholydump-Illidan",
+      "Pinkuslinkus-Illidan",
+      "Urri-Kel'Thuzad"
+    ]
+  },
+  {
+    "run_id": 1084293,
+    "character_ids": [
+      "Nevado-Area 52",
+      "Hanoriartt-Azralon",
+      "Tusky-Azralon",
+      "Labiribis-Stormrage",
+      "Títus-Thrall"
+    ]
+  },
+  {
+    "run_id": 1059345,
+    "character_ids": [
+      "Còoler-Area 52",
+      "Fizzyowo-Area 52",
+      "Chakuro-Area 52",
+      "Url-Sargeras",
+      "Ätreyyu-Area 52"
+    ]
+  },
+  {
+    "run_id": 1059626,
+    "character_ids": [
+      "Minneapolis-Mal'Ganis",
+      "Yavannas-Azralon",
+      "Metalcrawler-Azralon",
+      "Rockkso-Proudmoore",
+      "Cazzmass-Area 52"
+    ]
+  },
+  {
+    "run_id": 1081792,
+    "character_ids": [
+      "Minydrak-Zul'jin",
+      "Lofisadist-Area 52",
+      "Goglush-Zul'jin",
+      "Felbanish-Azralon",
+      "Chillidinner-Area 52"
+    ]
+  },
+  {
+    "run_id": 1059967,
+    "character_ids": [
+      "Novelus-Bleeding Hollow",
+      "Velopls-Stormrage",
+      "Fòxxy-Illidan",
+      "Vanitas-Moon Guard",
+      "Phatboy-Emerald Dream"
+    ]
+  },
+  {
+    "run_id": 1060522,
+    "character_ids": [
+      "Hotzndotz-Stormrage",
+      "Oragâr-Area 52",
+      "Pezuk-Thrall",
+      "Mowgers-Area 52",
+      "Joshxdh-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 1082117,
+    "character_ids": [
+      "Ðreíco-Ragnaros",
+      "Foot-Garrosh",
+      "Thundyclaps-Area 52",
+      "Reghoul-Illidan",
+      "Brittlebrain-Illidan"
+    ]
+  },
+  {
+    "run_id": 1061039,
+    "character_ids": [
+      "Gase-Area 52",
+      "Madcausefotm-Mal'Ganis",
+      "Deerpriest-Tichondrius",
+      "Xaehyun-Mok'Nathal",
+      "Hahabeamxd-Illidan"
+    ]
+  },
+  {
+    "run_id": 1061041,
+    "character_ids": [
+      "Tulkren-Dalaran",
+      "Padori-Thrall",
+      "Juntari-Area 52",
+      "Oscar-Thrall",
+      "Sifts-Thrall"
+    ]
+  },
+  {
+    "run_id": 1081845,
+    "character_ids": [
+      "Pengupoly-Illidan",
+      "Nothinglose-Echo Isles",
+      "Ûndin-Area 52",
+      "View-Illidan",
+      "Rvvl-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1062950,
+    "character_ids": [
+      "Everez-Tichondrius",
+      "Menåpaws-Stormrage",
+      "Moraylvane-Thrall",
+      "Jeffbuckley-Zul'jin",
+      "Ñö-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1062997,
+    "character_ids": [
+      "Onigashimá-Area 52",
+      "Ammuu-Moon Guard",
+      "Constelus-Sargeras",
+      "Tombjörn-Thrall",
+      "Yilii-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1063584,
+    "character_ids": [
+      "Diâperbaby-Area 52",
+      "Badorange-Sargeras",
+      "Deathshahdoh-Stormrage",
+      "Amersi-Frostmourne",
+      "Drunkxmonk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1063989,
+    "character_ids": [
+      "Diofur-Zul'jin",
+      "Doomforgerr-Illidan",
+      "Setrius-Illidan",
+      "Sacrêd-Zul'jin",
+      "Cratisdh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1064077,
+    "character_ids": [
+      "Emiliiaqt-Area 52",
+      "Pytorchy-Area 52",
+      "Samseed-Quel'Thalas",
+      "Suportmonk-Area 52",
+      "Kusanagi-Proudmoore"
+    ]
+  },
+  {
+    "run_id": 1064220,
+    "character_ids": [
+      "Skazkaa-Area 52",
+      "Saagar-Area 52",
+      "Mahabharatä-Tichondrius",
+      "Húntèr-Frostmourne",
+      "Adorkyfoxkit-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1064517,
+    "character_ids": [
+      "Zalrion-Zul'jin",
+      "Holykeste-Illidan",
+      "Átenea-Illidan",
+      "Mommymilkas-Area 52",
+      "Shinyabsol-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1064902,
+    "character_ids": [
+      "Marxus-Stormrage",
+      "Fofinhoz-Azralon",
+      "Voledk-Thrall",
+      "Omarbrew-Area 52",
+      "Silverart-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1065047,
+    "character_ids": [
+      "Reyandrin-Stormrage",
+      "Matrenka-Bleeding Hollow",
+      "Nïik-Stormrage",
+      "Kylewl-Stormrage",
+      "Smellmä-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1065137,
+    "character_ids": [
+      "Ivalyn-Area 52",
+      "Slander-Zul'jin",
+      "Jessipalmer-Mal'Ganis",
+      "Starcrafttwo-Area 52",
+      "Kagenawa-Area 52"
+    ]
+  },
+  {
+    "run_id": 1065276,
+    "character_ids": [
+      "Bschs-Azralon",
+      "Outrangez-Illidan",
+      "Moonzi-Zul'jin",
+      "Solete-Thrall",
+      "Xanderstrasz-Area 52"
+    ]
+  },
+  {
+    "run_id": 1068160,
+    "character_ids": [
+      "Miinimage-Area 52",
+      "Gabethebabe-Area 52",
+      "Critsae-Firetree",
+      "Ihearvoices-Illidan",
+      "Upsydoown-Azralon"
+    ]
+  },
+  {
+    "run_id": 1065749,
+    "character_ids": [
+      "Casimyr-Area 52",
+      "Fergdk-Illidan",
+      "Ghundyr-Tichondrius",
+      "Monkeydlúffy-Area 52",
+      "Babonzai-Area 52"
+    ]
+  },
+  {
+    "run_id": 1066188,
+    "character_ids": [
+      "Frïjoll-Ragnaros",
+      "Snarfknight-Stormrage",
+      "Sjmps-Tichondrius",
+      "Asasscyn-Area 52",
+      "Ramonaburger-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1066310,
+    "character_ids": [
+      "Eneldenes-Nordrassil",
+      "Legionlives-Area 52",
+      "Vmuch-Stormrage",
+      "Spikè-Sargeras",
+      "Ultïma-Azralon"
+    ]
+  },
+  {
+    "run_id": 1067757,
+    "character_ids": [
+      "Overpøwered-Frostmourne",
+      "Ashentide-Stormrage",
+      "Tacodive-Stormrage",
+      "Sorrydad-Tichondrius",
+      "Thinnmints-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1067865,
+    "character_ids": [
+      "Leldeska-Stormrage",
+      "Perfectionz-Sargeras",
+      "Zentako-Illidan",
+      "Apbrinks-Sargeras",
+      "Yookevo-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1067866,
+    "character_ids": [
+      "Nmf-Proudmoore",
+      "Neopaws-Area 52",
+      "Bessospins-Illidan",
+      "Shenlon-Onyxia",
+      "Blindbussy-Illidan"
+    ]
+  },
+  {
+    "run_id": 1068270,
+    "character_ids": [
+      "Økwøn-Borean Tundra",
+      "Lexö-Area 52",
+      "Blackcell-Illidan",
+      "Gundral-Area 52",
+      "Anríttsa-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1068363,
+    "character_ids": [
+      "Aeowynia-Zul'jin",
+      "Shantholl-Stormrage",
+      "Arktorus-Zul'jin",
+      "Zoomerx-Area 52",
+      "Xayem-Area 52"
+    ]
+  },
+  {
+    "run_id": 1068706,
+    "character_ids": [
+      "Smckluvrcane-Illidan",
+      "Slayingpips-Illidan",
+      "Nespyy-Frostmourne",
+      "Kealtas-Stormrage",
+      "Buttërcüp-Illidan"
+    ]
+  },
+  {
+    "run_id": 1069794,
+    "character_ids": [
+      "Ilaela-Illidan",
+      "Brokeablo-Illidan",
+      "Sunnied-Proudmoore",
+      "Kroozs-Area 52",
+      "Bethmonk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1069948,
+    "character_ids": [
+      "Pròóf-Wyrmrest Accord",
+      "Unholystoge-Tichondrius",
+      "Lillianisa-Wyrmrest Accord",
+      "Shocksauce-Tichondrius",
+      "Greeding-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1081843,
+    "character_ids": [
+      "Foof-Area 52",
+      "Leafpile-Illidan",
+      "Wavepaw-Area 52",
+      "Bawly-Illidan",
+      "Varorfang-Area 52"
+    ]
+  },
+  {
+    "run_id": 1069995,
+    "character_ids": [
+      "Rukukismage-Illidan",
+      "Varalyon-Sargeras",
+      "Dreadelune-Stormrage",
+      "Seferres-Maelstrom",
+      "Mistweaves-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1070433,
+    "character_ids": [
+      "Kurisutinayo-Wyrmrest Accord",
+      "Wem-Illidan",
+      "Mezobloom-Stormrage",
+      "Locktärd-Mal'Ganis",
+      "Voraxor-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1070480,
+    "character_ids": [
+      "Saeepaoga-Tichondrius",
+      "Kindofinsane-Stormrage",
+      "Exage-Stormrage",
+      "Miamiblack-Illidan",
+      "Mömmy-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1071026,
+    "character_ids": [
+      "Pallyh-Tichondrius",
+      "Kanjoelf-Illidan",
+      "Imfistin-Stormrage",
+      "Baconeggnchi-Sargeras",
+      "Wølfevo-Area 52"
+    ]
+  },
+  {
+    "run_id": 1071405,
+    "character_ids": [
+      "Bilbyn-Mal'Ganis",
+      "Kiszflower-Area 52",
+      "Mvdruid-Azralon",
+      "Danaric-Azralon",
+      "Smtdasilva-Area 52"
+    ]
+  },
+  {
+    "run_id": 1083330,
+    "character_ids": [
+      "Notbeezy-Aman'Thul",
+      "Ricstrong-Frostmourne",
+      "Chakrom-Thrall",
+      "Jaycelock-Bleeding Hollow",
+      "Lexiras-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1074940,
+    "character_ids": [
+      "Masamancer-Mal'Ganis",
+      "Oinki-Moon Guard",
+      "Peinen-Mal'Ganis",
+      "Strugglewl-Mal'Ganis",
+      "Greenpiggy-Illidan"
+    ]
+  },
+  {
+    "run_id": 1084448,
+    "character_ids": [
+      "Deliciousdog-Sargeras",
+      "Goodgodman-Area 52",
+      "Toverina-Sargeras",
+      "Madruga-Sargeras",
+      "Shlum-Illidan"
+    ]
+  },
+  {
+    "run_id": 1079434,
+    "character_ids": [
+      "Toadpal-Illidan",
+      "Drauren-Zul'jin",
+      "Grymtide-Zul'jin",
+      "Pxsq-Stormrage",
+      "Cagematch-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1073004,
+    "character_ids": [
+      "Executa-Illidan",
+      "Paulooch-Sen'jin",
+      "Toiletwata-Mal'Ganis",
+      "Teegrizzley-Illidan",
+      "Postie-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1076417,
+    "character_ids": [
+      "South-Tichondrius",
+      "Ezkath-Turalyon",
+      "Moistelle-Area 52",
+      "Cheezies-Area 52",
+      "Hoofmommy-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1073276,
+    "character_ids": [
+      "Maathieu-Drakkari",
+      "Daräh-Mal'Ganis",
+      "Ashbrn-Illidan",
+      "Kaízerg-Illidan",
+      "Srdepressive-Thrall"
+    ]
+  },
+  {
+    "run_id": 1073307,
+    "character_ids": [
+      "Valaryon-Thrall",
+      "Djînn-Thrall",
+      "Apostle-Blackhand",
+      "Monarchy-Thrall",
+      "Damaskrrt-Emerald Dream"
+    ]
+  },
+  {
+    "run_id": 1077007,
+    "character_ids": [
+      "Citadèl-Zul'jin",
+      "Irãenestia-Zul'jin",
+      "Poutouyemoun-Zul'jin",
+      "Davidguetta-Zul'jin",
+      "Heartdànce-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1073811,
+    "character_ids": [
+      "Warrhog-Zul'jin",
+      "Nexcess-Zul'jin",
+      "Zoleera-Zul'jin",
+      "Legendshaman-Sargeras",
+      "Brycemonk-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1097029,
+    "character_ids": [
+      "Shibuki-Frostmourne",
+      "Clephy-Area 52",
+      "Romancedruid-Area 52",
+      "Ändiroba-Azralon",
+      "Sofelle-Caelestrasz"
+    ]
+  },
+  {
+    "run_id": 1074811,
+    "character_ids": [
+      "Lunacore-Area 52",
+      "Mindoafay-Frostmourne",
+      "Hurukaj-Area 52",
+      "Arrti-Barthilas",
+      "Runewrathh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1075173,
+    "character_ids": [
+      "Quackpal-Tichondrius",
+      "Saiso-Kil'jaeden",
+      "Kikomaster-Illidan",
+      "Lokkout-Area 52",
+      "Brolidão-Area 52"
+    ]
+  },
+  {
+    "run_id": 1076080,
+    "character_ids": [
+      "Zorno-Mal'Ganis",
+      "Bopadinz-Stormrage",
+      "Deathzod-Dalaran",
+      "Lïçh-Mal'Ganis",
+      "Noxmk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1076482,
+    "character_ids": [
+      "Siccwidit-Illidan",
+      "Loden-Garona",
+      "Hiccups-Bloodhoof",
+      "Toxix-Duskwood",
+      "Bryycelest-Bloodhoof"
+    ]
+  },
+  {
+    "run_id": 1076521,
+    "character_ids": [
+      "Xebecc-Frostmourne",
+      "Maydayzz-Frostmourne",
+      "Cosmospikes-Frostmourne",
+      "Kigonplague-Frostmourne",
+      "Bjoemonk-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1076758,
+    "character_ids": [
+      "Marcx-Area 52",
+      "Putiputi-Mal'Ganis",
+      "Gibdo-Mal'Ganis",
+      "Mowgers-Area 52",
+      "Quickkwinter-Firetree"
+    ]
+  },
+  {
+    "run_id": 1076773,
+    "character_ids": [
+      "Lockblanders-Thrall",
+      "Bayles-Thrall",
+      "Noahstabs-Thrall",
+      "Kalelock-Area 52",
+      "Curandh-Thrall"
+    ]
+  },
+  {
+    "run_id": 1084476,
+    "character_ids": [
+      "Emwar-Stormrage",
+      "Jaìme-Frostmourne",
+      "Alistairshiv-Illidan",
+      "Brownshaman-Stormrage",
+      "Dipme-Area 52"
+    ]
+  },
+  {
+    "run_id": 1078215,
+    "character_ids": [
+      "Devbezos-Zul'jin",
+      "Turmoilwa-Zul'jin",
+      "Victimabuser-Illidan",
+      "Zylchec-Proudmoore",
+      "Teradormu-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1078432,
+    "character_ids": [
+      "Hexterr-Zul'jin",
+      "Kaide-Area 52",
+      "Gabríls-Stormrage",
+      "Fizzyowo-Area 52",
+      "Chakuro-Area 52"
+    ]
+  },
+  {
+    "run_id": 1078529,
+    "character_ids": [
+      "Aukanawe-Moon Guard",
+      "Noodl-Moon Guard",
+      "Neverlink-Wyrmrest Accord",
+      "Morbeus-Mal'Ganis",
+      "Nachochi-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1078698,
+    "character_ids": [
+      "Monkeysound-Illidan",
+      "Sabbith-Burning Legion",
+      "Romansroad-Blackrock",
+      "Skullshine-Blood Furnace",
+      "Lockedbird-Area 52"
+    ]
+  },
+  {
+    "run_id": 1078739,
+    "character_ids": [
+      "Wellendor-Stormrage",
+      "Charkycc-Malfurion",
+      "Bfdk-Sargeras",
+      "Myruul-Stormrage",
+      "Rykeniaa-Illidan"
+    ]
+  },
+  {
+    "run_id": 1078891,
+    "character_ids": [
+      "Dønutmage-Zul'jin",
+      "Vracityy-Area 52",
+      "Guldenis-Zul'jin",
+      "Øttøbrew-Zul'jin",
+      "Enhshaman-Crushridge"
+    ]
+  },
+  {
+    "run_id": 1078999,
+    "character_ids": [
+      "Valahwei-Stormrage",
+      "Lenieflaps-Area 52",
+      "Neddludd-Lightbringer",
+      "Trollazï-Area 52",
+      "Galadryél-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1087555,
+    "character_ids": [
+      "Guayusaso-Ragnaros",
+      "Figgyrip-Tichondrius",
+      "Øsaka-Illidan",
+      "Unlunar-Ragnaros",
+      "Dridrï-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1079580,
+    "character_ids": [
+      "Khaßalinha-Stormrage",
+      "Fastqq-Area 52",
+      "Messdk-Stormrage",
+      "Sadcatto-Stormrage",
+      "Xtraktable-Illidan"
+    ]
+  },
+  {
+    "run_id": 1083293,
+    "character_ids": [
+      "Hünk-Ragnaros",
+      "Jebo-Zul'jin",
+      "Kurtdk-Illidan",
+      "Jerodead-Area 52",
+      "Sychô-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1082130,
+    "character_ids": [
+      "Mightyelfo-Dalaran",
+      "Ðreíco-Ragnaros",
+      "Kerridru-Illidan",
+      "Dalarel-Dalaran",
+      "Neonel-Illidan"
+    ]
+  },
+  {
+    "run_id": 1080854,
+    "character_ids": [
+      "Nemymage-Illidan",
+      "Dolphinfenix-Ragnaros",
+      "Retwings-Daggerspine",
+      "Prophmoon-Tichondrius",
+      "Aitrex-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1088282,
+    "character_ids": [
+      "Còoler-Area 52",
+      "Heelrazor-Illidan",
+      "Îülu-Stormrage",
+      "Xenocrates-Illidan",
+      "Ätreyyu-Area 52"
+    ]
+  },
+  {
+    "run_id": 1081549,
+    "character_ids": [
+      "Míyauchi-Azralon",
+      "Lailee-Stormrage",
+      "Dekasura-Area 52",
+      "Clevinhoo-Illidan",
+      "Sindracgos-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1081858,
+    "character_ids": [
+      "Boomylife-Ragnaros",
+      "Reghoul-Illidan",
+      "Ñö-Mal'Ganis",
+      "Brittlebrain-Illidan",
+      "Yilii-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1081771,
+    "character_ids": [
+      "Cherryh-Illidan",
+      "Getbentnerd-Area 52",
+      "Szur-Hyjal",
+      "Boboslappers-Area 52",
+      "Raiinyy-Area 52"
+    ]
+  },
+  {
+    "run_id": 1082045,
+    "character_ids": [
+      "Nûked-Zul'jin",
+      "Cloudyhazey-Area 52",
+      "Alarius-Sargeras",
+      "Deathbydefib-Area 52",
+      "Prîde-Illidan"
+    ]
+  },
+  {
+    "run_id": 1082617,
+    "character_ids": [
+      "Solitary-Bleeding Hollow",
+      "Deathshahdoh-Stormrage",
+      "Dakatüs-Mal'Ganis",
+      "Xaehyun-Mok'Nathal",
+      "Suêco-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1082872,
+    "character_ids": [
+      "Rydric-Blackhand",
+      "Faypally-Proudmoore",
+      "Greaseguts-Illidan",
+      "Pawnsunday-Dath'Remar",
+      "Burniee-Illidan"
+    ]
+  },
+  {
+    "run_id": 1083191,
+    "character_ids": [
+      "Hohlyjeez-Thrall",
+      "Ææäëææäëææäë-Area 52",
+      "Solete-Thrall",
+      "Judomar-Thrall",
+      "Baketard-Illidan"
+    ]
+  },
+  {
+    "run_id": 1083588,
+    "character_ids": [
+      "Ninjaawy-Illidan",
+      "Foot-Garrosh",
+      "View-Illidan",
+      "Assateague-Thrall",
+      "Drunkxmonk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1084532,
+    "character_ids": [
+      "Hikari-Perenolde",
+      "Gomie-Aegwynn",
+      "Evictdk-Stormrage",
+      "Gugubiubiu-Illidan",
+      "Bast-Hakkar"
+    ]
+  },
+  {
+    "run_id": 1084776,
+    "character_ids": [
+      "Arthfäel-Area 52",
+      "Jannek-Area 52",
+      "Donzyy-Moon Guard",
+      "Leianah-Area 52",
+      "Vilfordk-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1085069,
+    "character_ids": [
+      "Emiliiaqt-Area 52",
+      "Sunrisedk-Zul'jin",
+      "Pytorchy-Area 52",
+      "Pewpewgoboom-Illidan",
+      "Yrena-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1085517,
+    "character_ids": [
+      "Leldeska-Stormrage",
+      "Restodot-Area 52",
+      "Ejaaydk-Area 52",
+      "Smoothz-Hyjal",
+      "Boshjanski-Thrall"
+    ]
+  },
+  {
+    "run_id": 1085798,
+    "character_ids": [
+      "Linccstyle-Sargeras",
+      "Stárlôrd-Quel'Thalas",
+      "Pròject-Illidan",
+      "Primysra-Emerald Dream",
+      "Shinyabsol-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1086427,
+    "character_ids": [
+      "Gòdspi-Barthilas",
+      "Dxmdru-Area 52",
+      "Atrøphy-Stormrage",
+      "Tombjörn-Thrall",
+      "Squadw-Thunderhorn"
+    ]
+  },
+  {
+    "run_id": 1086595,
+    "character_ids": [
+      "Rannih-Area 52",
+      "Nandínha-Azralon",
+      "Bhast-Nemesis",
+      "Cheze-Azralon",
+      "Sendrasonila-Mal'Ganis"
+    ]
+  },
+  {
+    "run_id": 1086762,
+    "character_ids": [
+      "Reyandrin-Stormrage",
+      "Matrenka-Bleeding Hollow",
+      "Nïik-Stormrage",
+      "Kylewl-Stormrage",
+      "Smellmä-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1087149,
+    "character_ids": [
+      "Mnm-Mal'Ganis",
+      "Yekhaung-Area 52",
+      "Aimsucks-Sargeras",
+      "Nosos-Area 52",
+      "Appadh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1087487,
+    "character_ids": [
+      "Bigshivers-Illidan",
+      "Rockcandy-Zul'jin",
+      "Mindawarr-Zul'jin",
+      "Beepsw-Illidan",
+      "Bóba-Boulderfist"
+    ]
+  },
+  {
+    "run_id": 1088147,
+    "character_ids": [
+      "Telomir-Illidan",
+      "Xapally-Illidan",
+      "Phoneexz-Mal'Ganis",
+      "Gamam-Frostmourne",
+      "Wjx-Illidan"
+    ]
+  },
+  {
+    "run_id": 1088167,
+    "character_ids": [
+      "Everez-Tichondrius",
+      "Kleneextp-Tichondrius",
+      "Blössom-Kel'Thuzad",
+      "Critsae-Firetree",
+      "Buttpredator-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1088232,
+    "character_ids": [
+      "Pezuk-Thrall",
+      "Choquax-Destromath",
+      "Henkar-Proudmoore",
+      "Colemonk-Hyjal",
+      "Toingtoing-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1088828,
+    "character_ids": [
+      "Imcookedup-Illidan",
+      "Perfectionz-Sargeras",
+      "Dubsy-Moon Guard",
+      "Zentako-Illidan",
+      "Apbrinks-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1088970,
+    "character_ids": [
+      "Casimyr-Area 52",
+      "Mortu-Mal'Ganis",
+      "Fujinn-Azralon",
+      "Mapli-Mal'Ganis",
+      "Torterraform-Dalaran"
+    ]
+  },
+  {
+    "run_id": 1089152,
+    "character_ids": [
+      "Fortports-Zul'jin",
+      "Xiaopinkk-Illidan",
+      "Garbagemaan-Sargeras",
+      "Niww-Illidan",
+      "Svemlust-Illidan"
+    ]
+  },
+  {
+    "run_id": 1089776,
+    "character_ids": [
+      "Ilaela-Illidan",
+      "Dequies-Quel'Thalas",
+      "Oreasha-Frostmourne",
+      "Bìtcoin-Stormrage",
+      "Akring-Ragnaros"
+    ]
+  },
+  {
+    "run_id": 1090212,
+    "character_ids": [
+      "Camera-Stormrage",
+      "Shaqedya-Illidan",
+      "Kïck-Stormrage",
+      "Paulooch-Sen'jin",
+      "Kazharion-Azralon"
+    ]
+  },
+  {
+    "run_id": 1090385,
+    "character_ids": [
+      "Reyningxd-Area 52",
+      "Mosteninha-Sargeras",
+      "Melinhaz-Azralon",
+      "Buttërcüp-Illidan",
+      "Bãrkles-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1090722,
+    "character_ids": [
+      "Zuulak-Illidan",
+      "Twistedlight-Sen'jin",
+      "Sojukick-Proudmoore",
+      "Jeeoxo-Illidan",
+      "Saralauyia-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1091156,
+    "character_ids": [
+      "Átenea-Illidan",
+      "Duduelfo-Ragnaros",
+      "Psilocnn-Mal'Ganis",
+      "Shocksauce-Tichondrius",
+      "Hoffa-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1091334,
+    "character_ids": [
+      "Glizzyboi-Zul'jin",
+      "Kåboum-Zul'jin",
+      "Wenceslao-Illidan",
+      "Zygunda-Illidan",
+      "Corvdh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1091867,
+    "character_ids": [
+      "Anklemarrow-Illidan",
+      "Shadaone-Blackrock",
+      "Rejudge-Area 52",
+      "Røyaldh-Illidan",
+      "Meragedh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1092231,
+    "character_ids": [
+      "Warrhog-Zul'jin",
+      "Nexcess-Zul'jin",
+      "Zoleera-Zul'jin",
+      "Legendshaman-Sargeras",
+      "Brycemonk-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1092605,
+    "character_ids": [
+      "Rummel-Area 52",
+      "Zomok-Kel'Thuzad",
+      "Mandlebrot-Stormrage",
+      "Kodaklock-Sargeras",
+      "Speedeyy-Illidan"
+    ]
+  },
+  {
+    "run_id": 1092867,
+    "character_ids": [
+      "Nymphomaha-Illidan",
+      "Nissmo-Illidan",
+      "Diotah-Area 52",
+      "Spàrk-Zul'jin",
+      "Sofelle-Caelestrasz"
+    ]
+  },
+  {
+    "run_id": 1092965,
+    "character_ids": [
+      "Trumpybear-Frostwolf",
+      "Spárks-Zul'jin",
+      "Defiancé-Illidan",
+      "Zenpulse-Area 52",
+      "Babonzai-Area 52"
+    ]
+  },
+  {
+    "run_id": 1093687,
+    "character_ids": [
+      "Ibitekids-Illidan",
+      "Lizarddon-Quel'Thalas",
+      "Daruk-Illidan",
+      "Monkcrocker-Sentinels",
+      "Lissandrak-Area 52"
+    ]
+  },
+  {
+    "run_id": 1093752,
+    "character_ids": [
+      "Inâni-Stormrage",
+      "Stèpsîs-Illidan",
+      "Ghundyr-Tichondrius",
+      "Stupedlock-Tichondrius",
+      "Vesmorphosis-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1094007,
+    "character_ids": [
+      "Icystixx-Area 52",
+      "Spiritkill-Dalaran",
+      "Mommymilkas-Area 52",
+      "Lvnthdream-Tichondrius",
+      "Talaîan-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1094132,
+    "character_ids": [
+      "Olvim-Proudmoore",
+      "Liandroa-Proudmoore",
+      "Tempusbane-Proudmoore",
+      "Fállout-Proudmoore",
+      "Azraelor-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1094281,
+    "character_ids": [
+      "Marcx-Area 52",
+      "Putiputi-Mal'Ganis",
+      "Gibdo-Mal'Ganis",
+      "Quickkwinter-Firetree",
+      "Deathful-Aegwynn"
+    ]
+  },
+  {
+    "run_id": 1094663,
+    "character_ids": [
+      "Knauer-Tichondrius",
+      "Ptitbiscuit-Zul'jin",
+      "Imfistin-Stormrage",
+      "Kusanagi-Proudmoore",
+      "Mömmy-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1095243,
+    "character_ids": [
+      "Varfolomey-Stormrage",
+      "Ssjtoeku-Illidan",
+      "Astagan-Mal'Ganis",
+      "Allsbrook-Sargeras",
+      "Zaxalx-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1095540,
+    "character_ids": [
+      "Maathieu-Drakkari",
+      "Iwasadopted-Hyjal",
+      "Cærus-Area 52",
+      "Fogel-Tichondrius",
+      "Monkeydlúffy-Area 52"
+    ]
+  },
+  {
+    "run_id": 1095593,
+    "character_ids": [
+      "Mexien-Frostmourne",
+      "Lolhealbot-Frostmourne",
+      "Skwidd-Barthilas",
+      "Drahumonk-Frostmourne",
+      "Bomohdh-Thaurissan"
+    ]
+  },
+  {
+    "run_id": 1096030,
+    "character_ids": [
+      "Lîghtless-Vek'nilash",
+      "Executa-Illidan",
+      "Nick-Nazgrel",
+      "Shâdö-Stormrage",
+      "Holymíst-Area 52"
+    ]
+  },
+  {
+    "run_id": 1096035,
+    "character_ids": [
+      "Zorno-Mal'Ganis",
+      "Bopadinz-Stormrage",
+      "Deathzod-Dalaran",
+      "Madthelock-Bleeding Hollow",
+      "Noxmk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1096708,
+    "character_ids": [
+      "Ammuu-Moon Guard",
+      "Dkoglar-Area 52",
+      "Dankyagank-Dalaran",
+      "Záráéna-Mal'Ganis",
+      "Vinlothos-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1096734,
+    "character_ids": [
+      "Tweetxd-Area 52",
+      "Lukafox-Malorne",
+      "Rasors-Zul'jin",
+      "Lamesfranco-Sargeras",
+      "Slàydh-Area 52"
+    ]
+  },
+  {
+    "run_id": 1096810,
+    "character_ids": [
+      "Sickmage-Emerald Dream",
+      "Skiiper-Sargeras",
+      "Hardboiledxz-Mannoroth",
+      "Fòxxy-Illidan",
+      "Hankypankie-Thrall"
+    ]
+  },
+  {
+    "run_id": 1096834,
+    "character_ids": [
+      "Jespar-Mal'Ganis",
+      "Zlex-Zul'jin",
+      "Gothhonkers-Thrall",
+      "Gariyaa-Tichondrius",
+      "Bullivathios-Illidan"
+    ]
+  },
+  {
+    "run_id": 1096944,
+    "character_ids": [
+      "Lothbroøk-Illidan",
+      "Bschs-Azralon",
+      "Moonzi-Zul'jin",
+      "Anoint-Shu'halo",
+      "Arkaela-Illidan"
+    ]
+  },
+  {
+    "run_id": 1097111,
+    "character_ids": [
+      "Dasek-Stormrage",
+      "Icariun-Area 52",
+      "Myquitochan-Stormrage",
+      "Suzön-Zul'jin",
+      "Hazëy-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1097411,
+    "character_ids": [
+      "Scarletblade-Thunderlord",
+      "Meowfec-Stormrage",
+      "Shamicus-Bleeding Hollow",
+      "Littledots-Zul'jin",
+      "Thirtyfourmk-Illidan"
+    ]
+  },
+  {
+    "run_id": 1097433,
+    "character_ids": [
+      "Jayia-Aegwynn",
+      "Norikoff-Khadgar",
+      "Danhunter-Aegwynn",
+      "Neebz-Mal'Ganis",
+      "Identiphy-Illidan"
+    ]
+  },
+  {
+    "run_id": 1097641,
+    "character_ids": [
+      "Entrash-Area 52",
+      "Soulszaura-Demon Soul",
+      "Blackxtyrone-Area 52",
+      "Bigmustard-Shattered Hand",
+      "Clawks-Area 52"
+    ]
+  },
+  {
+    "run_id": 1097642,
+    "character_ids": [
+      "Nugwiz-Frostmourne",
+      "Grantodneth-Frostmourne",
+      "Starfighter-Illidan",
+      "Jcul-Tichondrius",
+      "Pooze-Frostmourne"
+    ]
+  },
+  {
+    "run_id": 1097964,
+    "character_ids": [
+      "Wem-Illidan",
+      "Koreansp-Area 52",
+      "Mis-Zul'jin",
+      "Brownshaman-Stormrage",
+      "Bellaggor-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1098214,
+    "character_ids": [
+      "Roydmage-Mal'Ganis",
+      "Soyaa-Stormrage",
+      "Touchx-Illidan",
+      "Shamfold-Stormrage",
+      "Odiozk-Area 52"
+    ]
+  },
+  {
+    "run_id": 1098708,
+    "character_ids": [
+      "Ned-Ysondre",
+      "Aukanawe-Moon Guard",
+      "Noodl-Moon Guard",
+      "Neverlink-Wyrmrest Accord",
+      "Farkalt-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1098792,
+    "character_ids": [
+      "Dailow-Area 52",
+      "Neopaws-Area 52",
+      "Jaycelock-Bleeding Hollow",
+      "Enhshaman-Crushridge",
+      "Snkerpandie-Barthilas"
+    ]
+  },
+  {
+    "run_id": 1098814,
+    "character_ids": [
+      "Psychömage-Stormrage",
+      "Ok-Mannoroth",
+      "Rydrood-Bleeding Hollow",
+      "Deathpalii-Bleeding Hollow",
+      "Cjro-Bleeding Hollow"
+    ]
+  },
+  {
+    "run_id": 1099179,
+    "character_ids": [
+      "Manutebol-Illidan",
+      "Emwar-Stormrage",
+      "Hawkdeath-Sargeras",
+      "Kindofinsane-Stormrage",
+      "Exage-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1099397,
+    "character_ids": [
+      "Luthrandrel-Tichondrius",
+      "Bananabear-Mal'Ganis",
+      "Photismos-Frostmourne",
+      "Landorax-Area 52",
+      "Twiigi-Area 52"
+    ]
+  },
+  {
+    "run_id": 1099986,
+    "character_ids": [
+      "Ashclash-Zul'jin",
+      "Topicx-Sargeras",
+      "Reenor-Thrall",
+      "Irondkz-Illidan",
+      "Thiasvoker-Sargeras"
+    ]
+  },
+  {
+    "run_id": 1100121,
+    "character_ids": [
+      "Chrispy-Moon Guard",
+      "Platpally-Moon Guard",
+      "Romancedruid-Area 52",
+      "Gargargar-Barthilas",
+      "Vaalmo-Moon Guard"
+    ]
+  },
+  {
+    "run_id": 1100334,
+    "character_ids": [
+      "Nsfwar-Area 52",
+      "Stregdru-Area 52",
+      "Glaivedww-Azralon",
+      "Johnwing-Stormrage",
+      "Sxck-Azralon"
+    ]
+  },
+  {
+    "run_id": 1100841,
+    "character_ids": [
+      "Dønutmage-Zul'jin",
+      "Bilønga-Stormrage",
+      "Pawnsunday-Dath'Remar",
+      "Xtraktable-Illidan",
+      "Whitefiredh-Illidan"
+    ]
+  },
+  {
+    "run_id": 1101424,
+    "character_ids": [
+      "Analendon-Tichondrius",
+      "Discoforms-Area 52",
+      "Machx-Tichondrius",
+      "Scottstot-Mal'Ganis",
+      "Kegmami-Area 52"
+    ]
+  },
+  {
+    "run_id": 1101755,
+    "character_ids": [
+      "Sëphîróth-Illidan",
+      "Kaliôn-Area 52",
+      "Sítara-Dalaran",
+      "Hyrcyne-Area 52",
+      "Zether-Area 52"
+    ]
+  },
+  {
+    "run_id": 1102034,
+    "character_ids": [
+      "Antimagical-Tichondrius",
+      "Faypally-Proudmoore",
+      "Larrisinha-Zul'jin",
+      "Scynical-Proudmoore",
+      "Burniee-Illidan"
+    ]
+  },
+  {
+    "run_id": 1102175,
+    "character_ids": [
+      "Rydric-Blackhand",
+      "Kaeynile-Stormrage",
+      "Finaredk-Kel'Thuzad",
+      "Url-Sargeras",
+      "Worstvokerbr-Area 52"
+    ]
+  },
+  {
+    "run_id": 1102371,
+    "character_ids": [
+      "Ziyenna-Dalaran",
+      "Æternum-Proudmoore",
+      "Retwings-Daggerspine",
+      "Mothÿ-Illidan",
+      "Suêco-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1102870,
+    "character_ids": [
+      "Ravioliie-Tichondrius",
+      "Crasus-Stormrage",
+      "Honestswift-Tichondrius",
+      "Pariâh-Illidan",
+      "Patvoker-Tichondrius"
+    ]
+  },
+  {
+    "run_id": 1103063,
+    "character_ids": [
+      "Phizyx-Area 52",
+      "Slander-Zul'jin",
+      "Curllm-Area 52",
+      "Mooky-Stormrage",
+      "Huhwhosthere-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1103319,
+    "character_ids": [
+      "Arajaka-Zul'jin",
+      "Diofur-Zul'jin",
+      "Constelus-Sargeras",
+      "Sacrêd-Zul'jin",
+      "Cratisdh-Zul'jin"
+    ]
+  },
+  {
+    "run_id": 1103355,
+    "character_ids": [
+      "Manasquirter-Area 52",
+      "Figgyrip-Tichondrius",
+      "Sunnied-Proudmoore",
+      "Draman-Illidan",
+      "Adobi-Stormrage"
+    ]
+  },
+  {
+    "run_id": 1103645,
+    "character_ids": [
+      "Gwenvel-Area 52",
+      "Magalzete-Thrall",
+      "Acererakk-Illidan",
+      "Leyk-Illidan",
+      "Jaqolantern-Area 52"
     ]
   }
 ]
