@@ -10,8 +10,8 @@ This is a static web app that displays Mythic+ dungeon run reports based on data
  - **Region**: EU | **Number of fetched runs**: 73370 | **Last Updated**: January 21, 2026
  - **Region**: NA | **Number of fetched runs**: 41748 | **Last Updated**: January 21, 2026
 ##### MN Season 1
- - **Region**: EU | **Number of fetched runs**: 91444 | **Last Updated**: April 1, 2026
- - **Region**: NA | **Number of fetched runs**: 46135 | **Last Updated**: April 1, 2026
+ - **Region**: EU | **Number of fetched runs**: 92355 | **Last Updated**: April 1, 2026
+ - **Region**: NA | **Number of fetched runs**: 49124 | **Last Updated**: April 1, 2026
 
 ### 🔍 Features
  - Displays highest and second-highest key levels per dungeon for a specific character
