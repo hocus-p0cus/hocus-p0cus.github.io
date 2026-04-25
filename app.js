@@ -103,6 +103,25 @@ function preprocessData(stats, roster) {
   return { characterStats, rosterByRunId };
 }
 
+async function fetchJson(basePath) {
+  try {
+    const gzResponse = await fetch(`${basePath}.gz`);
+    if (gzResponse.ok) {
+      const stream = gzResponse.body.pipeThrough(new DecompressionStream('gzip'));
+      const text = await new Response(stream).text();
+      return JSON.parse(text);
+    }
+  } catch (err) {
+    console.warn(`Failed to fetch ${basePath}.gz, falling back to plain JSON:`, err);
+  }
+  
+  const response = await fetch(basePath);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch ${basePath}: ${response.status}`);
+  }
+  return response.json();
+}
+
 function loadRegionData(region) {
   const key = `${currentSeason}-${region}`;
   if (dataByRegion[key]) {
@@ -110,10 +129,9 @@ function loadRegionData(region) {
   }
 
   return Promise.all([
-    fetch(getRegionDataPath(currentSeason, region, 'character_dungeon_stats')).then(res => res.json()),
-    fetch(getRegionDataPath(currentSeason, region, 'roster')).then(res => res.json())
+    fetchJson(getRegionDataPath(currentSeason, region, 'character_dungeon_stats')),
+    fetchJson(getRegionDataPath(currentSeason, region, 'roster'))
   ]).then(([stats, roster]) => {
-    // Preprocess data immediately after loading
     const processed = preprocessData(stats, roster);
     dataByRegion[key] = {
       stats,
