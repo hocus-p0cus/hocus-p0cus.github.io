@@ -21,3 +21,4 @@ jobs:
           environment: github-pages
           onlyDeactivateDeployments: false
           onlyRemoveDeployments: true
+          deploymentStatus: inactive
