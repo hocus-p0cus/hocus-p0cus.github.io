@@ -1,8 +1,9 @@
 name: Cleanup Old Deployments
 
 on:
-  push:
-    branches: [main]
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -11,6 +12,7 @@ permissions:
 jobs:
   cleanup:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Delete old github-pages deployments
         uses: strumwolf/delete-deployment-environment@v3
