@@ -1,6 +1,6 @@
 ## **Is it resilient?**
 
-This is a static web app that displays Mythic+ dungeon run reports based on data exported from [Raider.IO](https://raider.io) Timed Run Leaderboards for Season 2 and 3 of *The War Within* (TWW), and Season 1 of *Midnight* (MN) covering both EU and NA regions.
+This is a static web app that displays Mythic+ dungeon run reports based on data exported from [Raider.IO](https://raider.io) Timed Run Leaderboards for Seasons 2 and 3 of *The War Within* (TWW), and Seasons 1 and 2 of *Midnight* (MN) covering both EU and NA regions.
 
 #### 📊 Data Summary
 ##### TWW Season 2
@@ -12,6 +12,9 @@ This is a static web app that displays Mythic+ dungeon run reports based on data
 ##### MN Season 1
  - **Region**: EU | **Number of fetched runs**: 276470 | **Last Updated**: August 12, 2026
  - **Region**: NA | **Number of fetched runs**: 170677 | **Last Updated**: August 12, 2026
+##### MN Season 2
+ - **Region**: EU | **Number of fetched runs**: 0 | **Last Updated**: August 22, 2026
+ - **Region**: NA | **Number of fetched runs**: 0 | **Last Updated**: August 22, 2026
 
 ### 🔍 Features
  - Displays highest and second-highest key levels per dungeon for a specific character
