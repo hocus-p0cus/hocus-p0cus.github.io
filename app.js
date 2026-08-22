@@ -4,14 +4,15 @@ let DUNGEONS = [];
 
 let slugMapping = null;
 let currentMode = "link";
-let currentSeason = "mn-season1";
+let currentSeason = "mn-season2";
 let isGenerating = false;
 
 const CONFIG = {
   seasons: [
     { id: 'tww-season2', label: 'TWW Season 2' },
     { id: 'tww-season3', label: 'TWW Season 3'},
-    { id: 'mn-season1', label: 'MN Season 1', default: true }
+    { id: 'mn-season1', label: 'MN Season 1'},
+    { id: 'mn-season2', label: 'MN Season 2', default: true }
   ],
   regions: ['eu', 'na'],
   dataPath: 'data'
@@ -19,11 +20,8 @@ const CONFIG = {
 
 function slugify(name) {
   let slugged = name;
-  // 1) Remove all punctuation except dashes
   slugged = slugged.replace(/[!@#$%^&\*\(\)~`_\+=\[\]\{\};:"\.\,<>\/?'-]/g, '');
-  // 2) Replace spaces with dashes
   slugged = slugged.replace(/\s+/g, '-');
-  // 3) Lowercase it
   slugged = slugged.toLowerCase();
   return slugged;
 }
@@ -46,7 +44,6 @@ async function loadDungeons() {
 
 async function loadSlugMapping() {
   if (slugMapping) return Promise.resolve(slugMapping);
-  // Slug mapping is global, not season-specific
   return fetch(`${CONFIG.dataPath}/slug_mapping.json`)
     .then(res => res.json())
     .then(data => {
@@ -158,7 +155,6 @@ async function setSeason(season) {
   generateReport();
 }
 
-// Optimized resilient key level calculation using preprocessed data
 function resilientKeyLevel(characterStats, characterId, timestamp) {
   const charId = characterId.toLowerCase();
   const dungeonMap = characterStats.get(charId);
@@ -172,7 +168,6 @@ function resilientKeyLevel(characterStats, characterId, timestamp) {
     
     if (!entries) return 0;
     
-    // Find best level completed before timestamp
     let best = 0;
     for (const entry of entries) {
       if (entry.first_completed < timestamp) {
@@ -309,7 +304,6 @@ async function generateReport() {
         runsAtLevel.sort((a, b) => new Date(a.first_completed) - new Date(b.first_completed));
         const best = runsAtLevel[0];
 
-        // Fast roster lookup
         const rosterChars = rosterByRunId.get(best.first_run_id);
         
         let countResilient = 0;
